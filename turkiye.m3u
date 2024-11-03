@@ -1,4 +1,4 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 03.11.2024 | #
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" | SON GÜNCELLENME 03.11.2024 |
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
