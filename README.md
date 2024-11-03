@@ -1,5 +1,3 @@
-Güncel IPTV m3u
-
 Kanal Sıralamaları
 1. Ulusal
 2. Haber
@@ -8,10 +6,6 @@ Kanal Sıralamaları
 5. Spor
 6. Müzik
 7. Çocuk
-
-
-
-
 
 
 
