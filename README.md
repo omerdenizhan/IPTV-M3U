@@ -5,6 +5,7 @@ Kanal Sıralamaları
 4. Belgesel
 5. Spor
 6. Müzik
+7. Çocuklar İçin
 
 
 
