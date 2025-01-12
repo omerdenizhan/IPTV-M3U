@@ -275,3 +275,15 @@ http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 http://stream.tvcdn.net/muzik/number-1-ask.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bluestn.com/wp-content/uploads/2019/06/btnLogo-2.png" group-title="Müzik",Blues TV (480p)
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+# 🌟✔ ÇOCUK ÇİZGİ FİLM ✔🌟 #
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk & Eğitim",TRT Çocuk (1080p)
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk & Eğitim",TRT Çocuk (720p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/mnka/cocuk/site/v1/i/favicon.png" group-title="Çocuk & Eğitim",Minika Çocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png" group-title="Çocuk & Eğitim",MinikaGo (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="Çocuk & Eğitim",Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
