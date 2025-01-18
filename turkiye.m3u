@@ -1,5 +1,6 @@
-#EXTM3U #TÜRKİYE 🇹🇷
-# 🌟✔ ULUSAL ✔🌟 #
+#EXTM3U
+
+# ULUSAL #
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
@@ -57,7 +58,7 @@ http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Ulusal",TV 4
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 
-# 🌟✔ HABER ✔🌟 #
+# HABER #
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
@@ -85,7 +86,7 @@ http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV
 http://stream.tvcdn.net/haber/tbmm-tv.m3u8
 
-# 🌟✔ EKONOMİ ✔🌟 #
+# EKONOMİ #
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekotürk
@@ -93,7 +94,7 @@ http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Ekonomi",Finans Türk
 http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
 
-# 🌟✔ BELGESEL ✔🌟 #
+# BELGESEL #
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
@@ -101,7 +102,7 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://100automoto.tv/images/yootheme/logo.png" group-title="Belgesel",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-# 🌟✔ SPOR ✔🌟 #
+# SPOR #
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
 http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:-1 tvg-id="TRTSporYıldız.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yıldız
@@ -111,7 +112,7 @@ http://195.142.1.211:4022/udp/224.2.2.49:10001
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 
-# 🌟✔ MÜZİK ✔🌟 #
+# MÜZİK #
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" group-title="Müzik",Powertürk TV
 http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
 #EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="Müzik",Powertürk Akustik
@@ -141,7 +142,7 @@ http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bluestn.com/wp-content/uploads/2019/06/btnLogo-2.png" group-title="Müzik",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
-# 🌟✔ ÇİZGİ FİLM ✔🌟 #
+# ÇİZGİ FİLM #
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çizgi Film",TRT Çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/mnka/cocuk/site/v1/i/favicon.png" group-title="Çizgi Film",Minika Çocuk
