@@ -10,4 +10,4 @@ Kanal Sıralamaları
 
 
 
-IPTV programınıza link eklemek için https://github.com/odenizhan/IPTV/releases/download/IPTV/turkiye.m3u linkini kullanınız.
+IPTV programınıza link eklemek için [https://github.com/odenizhan/IPTV/releases/download/IPTV/turkiye.m3u](https://github.com/odenizhan/IPTV/releases/download/IPTV/turkiye.m3u) linkini kullanınız.
