@@ -1,151 +1,575 @@
 #EXTM3U
 
-# ULUSAL #
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-id="Now TV.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
-#EXTINF:-1 tvg-id="Now TV.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
-http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_480p.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
-https://c.fulltvizle.com/aytv/index.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
-http://stream.tvcdn.net/ulusal/tv8.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Ulusal",TLC
-http://stream.tvcdn.net/eglence/tlc.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Ulusal",TLC
-http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Ulusal",DMAX
-http://stream.tvcdn.net/eglence/dmax.m3u8
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Ulusal",DMAX
-http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ulusal",CNBC-e
-http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Ulusal",TRT 2
-http://stream.tvcdn.net/eglence/trt-2.m3u8
-#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Ulusal",A2
-http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Ulusal",Teve2
-http://stream.tvcdn.net/eglence/teve2.m3u8
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="Ulusal",Show Max
-http://stream.tvcdn.net/eglence/show-max.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Ulusal",TV8.5
-http://stream.tvcdn.net/eglence/tv8-5.m3u8
-#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Ulusal",TV 4
-http://stream.tvcdn.net/eglence/tv-4.m3u8
+# 🌟✔ ULUSAL ✔🌟 #
+#EXTINF:-1 tvg-id="TRT 4K" tvg-name="(TR) TRT 4K+" group-title="ULUSAL",TRT 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
+#EXTINF:-1 tvg-id="TRT1 HD" tvg-name="(TR) TRT 1 4K+" group-title="ULUSAL",TRT 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="(TR) TRT 1 HD" group-title="ULUSAL",TRT 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2837&extension=m3u8
+#EXTINF:-1 tvg-id="NOW" tvg-name="(TR) NOW TV 4K+" group-title="ULUSAL",NOW TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-name="(TR) NOW TV HD" group-title="ULUSAL",NOW TV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2976&extension=m3u8
+#EXTINF:-1 tvg-id="KANAL D HD" tvg-name="(TR) KANAL D 4K+" group-title="ULUSAL",KANAL D 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2945&extension=m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="(TR) KANAL D HD" group-title="ULUSAL",KANAL D HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2944&extension=m3u8
+#EXTINF:-1 tvg-id="STAR TV HD" tvg-name="(TR) STAR TV 4K+" group-title="ULUSAL",STAR TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2855&extension=m3u8
+#EXTINF:-1 tvg-id="STAR TV" tvg-name="(TR) STAR TV HD" group-title="ULUSAL",STAR TV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2854&extension=m3u8
+#EXTINF:-1 tvg-id="SHOW TV HD" tvg-name="(TR) SHOW TV 4K+" group-title="ULUSAL",SHOW TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2874&extension=m3u8
+#EXTINF:-1 tvg-id="Show" tvg-name="(TR) SHOW TV HD" group-title="ULUSAL",SHOW TV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2873&extension=m3u8
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="(TR) ATV 4K+" group-title="ULUSAL",ATV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
+#EXTINF:-1 tvg-id="ATV" tvg-name="(TR) ATV HD" group-title="ULUSAL",ATV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3052&extension=m3u8
+#EXTINF:-1 tvg-id="TV8 HD" tvg-name="(TR) TV 8 4K+" group-title="ULUSAL",TV 8 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2815&extension=m3u8
+#EXTINF:-1 tvg-id="TV8" tvg-name="(TR) TV 8 HD" group-title="ULUSAL",TV 8 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2814&extension=m3u8
+#EXTINF:-1 tvg-id="BEYAZ TV HD" tvg-name="(TR) BEYAZ TV 4K+" group-title="ULUSAL",BEYAZ TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3017&extension=m3u8
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="(TR) BEYAZ TV HD" group-title="ULUSAL",BEYAZ TV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3016&extension=m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="(TR) TLC 4K+" group-title="ULUSAL",TLC 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2840&extension=m3u8
+#EXTINF:-1 tvg-id="TV85 HD" tvg-name="(TR) TV 8.5 4K+" group-title="ULUSAL",TV 8.5 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2810&extension=m3u8
+#EXTINF:-1 tvg-id="TV 8,5" tvg-name="(TR) TV 8.5 HD" group-title="ULUSAL",TV 8.5 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2809&extension=m3u8
+#EXTINF:-1 tvg-id="TEVE2 HD" tvg-name="(TR) TEVE 2 4K+" group-title="ULUSAL",TEVE 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u8
+#EXTINF:-1 tvg-id="Teve2" tvg-name="(TR) TEVE 2" group-title="ULUSAL",TEVE 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2849&extension=m3u8
+#EXTINF:-1 tvg-id="TRT 2 HD" tvg-name="(TR) TRT 2 4K+" group-title="ULUSAL",TRT 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29026&extension=m3u8
+#EXTINF:-1 tvg-id="A2 HD" tvg-name="(TR) A2 4K+" group-title="ULUSAL",A2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3067&extension=m3u8
+#EXTINF:-1 tvg-id="A2 HD" tvg-name="(TR) A2 HD" group-title="ULUSAL",A2 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3066&extension=m3u8
+#EXTINF:-1 tvg-id="360 HD" tvg-name="(TR) 360 4K" group-title="ULUSAL",360 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7537&extension=m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="(TR) 360 TV HD" group-title="ULUSAL",360 TV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3074&extension=m3u8
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="(TR) SHOW MAX 4K" group-title="ULUSAL",SHOW MAX 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48899&extension=m3u8
+#EXTINF:-1 tvg-id="Show" tvg-name="(TR) SHOW  TURK HD" group-title="ULUSAL",SHOW  TURK HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2876&extension=m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="(TR) TRT Türk 4K+" group-title="ULUSAL",TRT TüRK 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2823&extension=m3u8
+#EXTINF:-1 tvg-id="KANAL 7 HD" tvg-name="(TR) KANAL 7 4K+" group-title="ULUSAL",KANAL 7 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2951&extension=m3u8
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="(TR) KANAL 7 HD" group-title="ULUSAL",KANAL 7 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2949&extension=m3u8
 
-# HABER #
-#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
-http://stream.tvcdn.net/haber/sozcu-tv.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
-http://stream.tvcdn.net/haber/halk-tv.m3u8
-#EXTINF:-1 tvg-id="Ulusal Kanal.tr" tvg-logo="https://s.ulusal.com.tr/assets/web/images/logo.png" group-title="Haber",Ulusal Kanal
-http://dvrfl05.tulix.tv/gin-ulusalkanal/playlist.m3u8
-#EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="Haber",KRT TV
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
-http://stream.tvcdn.net/haber/tele-1.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Haber",Haber Global
-http://stream.tvcdn.net/haber/haber-global.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk
-http://195.142.1.211:4022/udp/224.2.2.10:10001
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Haber",Habertürk
-http://stream.tvcdn.net/haber/haberturk.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
-http://stream.tvcdn.net/haber/ntv.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Haber",TGRT Haber
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Haber",TV 100
-http://stream.tvcdn.net/ulusal/tv-100.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Haber",TRT Haber
-http://stream.tvcdn.net/haber/trt-haber.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV
-http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+# 🌟✔ HABER ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sözcü TV 1 4K" group-title="HABER",SöZCü TV 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=147433&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sözcü TV 2 4K" group-title="HABER",SöZCü TV 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178720&extension=m3u8
+#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="(TR) Halk TV 1 4K" group-title="HABER",HALK TV 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29965&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Halk TV 2 4K" group-title="HABER",HALK TV 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180201&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tele 1" group-title="HABER",TELE 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2851&extension=m3u8
+#EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="(TR) Krt TV 4K" group-title="HABER",KRT TV 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2933&extension=m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="(TR) Haber Türk 4K+" group-title="HABER",HABER TüRK 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2970&extension=m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="(TR) Haber Turk HD" group-title="HABER",HABER TüRK HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2969&extension=m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="(TR) CNN TÜRK 4K+" group-title="HABER",CNN TÜRK 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3006&extension=m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="(TR) CNN Turk HD" group-title="HABER",CNN TüRK HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3005&extension=m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="(TR) NTV 4K+" group-title="HABER",NTV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2894&extension=m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="(TR) TGRT Haber 4K+" group-title="HABER",TGRT HABER 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2846&extension=m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="(TR) TRT Haber 4K+" group-title="HABER",TRT HABER 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2830&extension=m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="(TR) TRT Haber HD" group-title="HABER",TRT HABER HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2829&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="(TR) 24 TV 4K" group-title="HABER",24 TV 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=34571&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="(TR) 24 TV HD" group-title="HABER",24 TV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=127719&extension=m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="(TR) Ulke TV 4K+" group-title="HABER",üLKE TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2801&extension=m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="(TR) Haber Global 4K+" group-title="HABER",HABER GLOBAL 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48946&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Ekol TV 4K+" group-title="HABER",EKOL TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174769&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Flash TV 4K" group-title="HABER",FLASH TV 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=120304&extension=m3u8
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="(TR) TV Net  4K+" group-title="HABER",TV NET  4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2804&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TV 100 4K+" group-title="HABER",TV 100 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178721&extension=m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="(TR) Tv 100 4K" group-title="HABER",TV 100 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=52541&extension=m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="(TR) A Haber 4K+" group-title="HABER",A HABER 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3072&extension=m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="(TR) A Haber HD" group-title="HABER",A HABER HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3071&extension=m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="(TR) Bloomberg 4K" group-title="HABER",BLOOMBERG 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3013&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A Para 4K" group-title="HABER",A PARA 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29844&extension=m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="(TR) TRT World 4K+" group-title="HABER",TRT WORLD 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2822&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A News 4K" group-title="HABER",A NEWS 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29843&extension=m3u8
 
-# EKONOMİ #
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
-http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekotürk
-http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Ekonomi",Finans Türk
-http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
+# 🌟✔ SPOR - BEiN SPORTS ✔🌟 #
+#EXTINF:-1 tvg-id="beINSPORTSHABERHD.tr" tvg-name="(TR) Bein Sports Haber 4K" group-title="SPOR - BEiN SPORTS",Bein Sports Haber 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3027&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 1 4K+" group-title="SPOR - BEiN SPORTS",Bein Sports 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174902&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 1 4K" group-title="SPOR - BEiN SPORTS",Bein Sports 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3033&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 1 HD" group-title="SPOR - BEiN SPORTS",Bein Sports 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=35701&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports Yedek 1" group-title="SPOR - BEiN SPORTS",Bein Sports Yedek 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=52636&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 50 FPS" group-title="SPOR - BEiN SPORTS",Bein Sports 1 50 FPS
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174901&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="(TR) Bein Sports 60 FPS" group-title="SPOR - BEiN SPORTS",Bein Sports 1 60 FPS
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=34936&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 2 4K+" group-title="SPOR - BEiN SPORTS",Bein Sports 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174903&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports 2 4K" group-title="SPOR - BEiN SPORTS",Bein Sports 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=34937&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports 2 HD" group-title="SPOR - BEiN SPORTS",Bein Sports 2 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3032&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="(TR) Bein Sports Yedek 2" group-title="SPOR - BEiN SPORTS",Bein Sports Yedek 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3024&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 3 4K+" group-title="SPOR - BEiN SPORTS",Bein Sports 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174904&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports 3 4K" group-title="SPOR - BEiN SPORTS",Bein Sports 3 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=34938&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports 3 HD" group-title="SPOR - BEiN SPORTS",Bein Sports 3 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3022&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="(TR) Bein Sports Yedek 3" group-title="SPOR - BEiN SPORTS",Bein Sports Yedek 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=119875&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 4 4K+" group-title="SPOR - BEiN SPORTS",Bein Sports 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174905&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="(TR) Bein Sports 4 4K" group-title="SPOR - BEiN SPORTS",Bein Sports 4 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3030&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="(TR) Bein Sports 4 HD" group-title="SPOR - BEiN SPORTS",Bein Sports 4 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3028&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K+" group-title="SPOR - BEiN SPORTS",Bein Sports 5 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174906&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K" group-title="SPOR - BEiN SPORTS",Bein Sports 5 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=136248&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 HD" group-title="SPOR - BEiN SPORTS",Bein Sports 5 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=136249&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 1 4K+" group-title="SPOR - BEiN SPORTS",Bein Sports Max 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174907&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTMAX.TR" tvg-name="(TR) Bein Sports Max 1 4K" group-title="SPOR - BEiN SPORTS",Bein Sports Max 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7555&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 2 4K+" group-title="SPOR - BEiN SPORTS",Bein Sports Max 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174908&extension=m3u8
+#EXTINF:-1 tvg-id="beINSPORTMAX2.TR" tvg-name="(TR) Bein Sports Max 2 4K" group-title="SPOR - BEiN SPORTS",Bein Sports Max 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7556&extension=m3u8
 
-# BELGESEL #
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://100automoto.tv/images/yootheme/logo.png" group-title="Belgesel",100% Auto Moto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+# 🌟✔ SPOR - TRT ✔🌟 #
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="(TR) Trt Spor 4K+" group-title="SPOR - TRT",Trt Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2824&extension=m3u8
+#EXTINF:-1 tvg-id="TRT Spor HD TR" tvg-name="(TR) Trt Spor HD" group-title="SPOR - TRT",Trt Spor HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2825&extension=m3u8
+#EXTINF:-1 tvg-id="TRT SPOR TR" tvg-name="(TR) Trt Spor" group-title="SPOR - TRT",Trt Spor
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2826&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor Yildiz 4K+" group-title="SPOR - TRT",Trt Spor Yildiz 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=129198&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor 2 4K+" group-title="SPOR - TRT",Trt Spor 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=45485&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Spor 3 4K+" group-title="SPOR - TRT",Trt Spor 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=77263&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 4K" group-title="SPOR - TRT",Tabii Spor 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175071&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 1 4K" group-title="SPOR - TRT",Tabii Spor 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175666&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 2 4K" group-title="SPOR - TRT",Tabii Spor 2 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175072&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 3 4K" group-title="SPOR - TRT",Tabii Spor 3 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175073&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 4 4K" group-title="SPOR - TRT",Tabii Spor 4 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175442&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 4 HD" group-title="SPOR - TRT",Tabii Spor 4 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175441&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 5 4K" group-title="SPOR - TRT",Tabii Spor 5 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175440&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 5 HD" group-title="SPOR - TRT",Tabii Spor 5 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175439&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Spor 6 4K" group-title="SPOR - TRT",Tabii Spor 6 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175438&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TABii SPOR 6 HD" group-title="SPOR - TRT",Tabii Spor 6 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175437&extension=m3u8
 
-# SPOR #
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
-http://stream.tvcdn.net/spor/trt-spor.m3u8
-#EXTINF:-1 tvg-id="TRTSporYıldız.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",beIN SPORTS Haber
-http://195.142.1.211:4022/udp/224.2.2.49:10001
-#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+# 🌟✔ SPOR - TİVİBU ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 4K+" group-title="SPOR - TiViBU",Tivibu Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=39472&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 HD" group-title="SPOR - TiViBU",Tivibu Spor HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7559&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 1 4K+" group-title="SPOR - TiViBU",Tivibu Spor 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2845&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 2 4K+" group-title="SPOR - TiViBU",Tivibu Spor 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2844&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Saran Sport 2 4K+" group-title="SPOR - TiViBU",Tivibu Spor 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=52533&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 3 4K+" group-title="SPOR - TiViBU",Tivibu Spor 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2843&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tivibu Spor 3 HD" group-title="SPOR - TiViBU",Tivibu Spor 3 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7561&extension=m3u8
 
-# MÜZİK #
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" group-title="Müzik",Powertürk TV
-http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
-#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="Müzik",Powertürk Akustik
-http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
-#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="http://assets.tvcdn.net/fcec79e5-9d47-4812-86ac-00728538ad7f.png" group-title="Müzik",Powertürk Slow
-http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="Müzik",Powertürk Taptaze
-http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="Müzik",Number One Türk
-http://stream.tvcdn.net/muzik/number-one-turk.m3u8
-#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="Müzik",Kral Pop TV
-http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
-#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik",Dream Türk
-http://stream.tvcdn.net/muzik/dream-turk.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",TRT Müzik
-http://stream.tvcdn.net/muzik/trt-muzik.m3u8
-#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="Müzik",Power TV
-http://stream.tvcdn.net/muzik/power-tv.m3u8
-#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="http://assets.tvcdn.net/aca9e643-a4b0-4f01-abd5-66a5a2fc1042.png" group-title="Müzik",Power Dance
-http://stream.tvcdn.net/muzik/power-dance.m3u8
-#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="Müzik",Power Love
-http://stream.tvcdn.net/muzik/power-love.m3u8
-#EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="Müzik",Number One TV
-http://stream.tvcdn.net/muzik/number-one-tv.m3u8
-#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="Müzik",Number 1 Dance
-http://stream.tvcdn.net/muzik/number-1-dance.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bluestn.com/wp-content/uploads/2019/06/btnLogo-2.png" group-title="Müzik",Blues TV
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+# 🌟✔ SPOR - S SPORT ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 1 4K+" group-title="SPOR - S SPORT",S Sport 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=135190&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport 1 4K+" group-title="SPOR - S SPORT",S Sport 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=80320&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Saran Sport 1 4K+" group-title="SPOR - S SPORT",S Sport 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2881&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 2 4K+" group-title="SPOR - S SPORT",S Sport 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=135189&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport 2 4K+" group-title="SPOR - S SPORT",S Sport 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=80321&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport HD Yedek" group-title="SPOR - S SPORT",S Sport 2 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2880&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 3 4K+" group-title="SPOR - S SPORT",S Sport 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=135188&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 4 4K+" group-title="SPOR - S SPORT",S Sport 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=135187&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 5 4K+" group-title="SPOR - S SPORT",S Sport 5 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=135186&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 6 4K+" group-title="SPOR - S SPORT",S Sport 6 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=135185&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 7 4K" group-title="SPOR - S SPORT",S Sport 7 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175343&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 8 4K" group-title="SPOR - S SPORT",S Sport 8 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175344&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 9 4K" group-title="SPOR - S SPORT",S Sport 9 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175345&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) S Sport+ 10 4K" group-title="SPOR - S SPORT",S Sport 10 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175346&extension=m3u8
 
-# ÇİZGİ FİLM #
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çizgi Film",TRT Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/mnka/cocuk/site/v1/i/favicon.png" group-title="Çizgi Film",Minika Çocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png" group-title="Çizgi Film",MinikaGo
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+# 🌟✔ SPOR - EXXEN ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen Tv" group-title="SPOR - EXXEN",Exxen Tv
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=161405&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 1 4K+" group-title="SPOR - EXXEN",Exxen 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=117576&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 1 HD+" group-title="SPOR - EXXEN",Exxen 1 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137813&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 2 4K+" group-title="SPOR - EXXEN",Exxen 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=117577&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 2 HD+" group-title="SPOR - EXXEN",Exxen 2 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137814&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 3 4K+" group-title="SPOR - EXXEN",Exxen 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=117578&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 3 HD+" group-title="SPOR - EXXEN",Exxen 3 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137815&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 4 4K+" group-title="SPOR - EXXEN",Exxen 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=118876&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 4 HD+" group-title="SPOR - EXXEN",Exxen 4 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137816&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 5 4K+" group-title="SPOR - EXXEN",Exxen 5 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=118877&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 5 HD+" group-title="SPOR - EXXEN",Exxen 5 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137817&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 6 4K+" group-title="SPOR - EXXEN",Exxen 6 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=118878&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 6 HD+" group-title="SPOR - EXXEN",Exxen 6 HD+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137818&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 7 4K+" group-title="SPOR - EXXEN",Exxen 7 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=177543&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 8 4K+" group-title="SPOR - EXXEN",Exxen 8 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=177544&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 9 4K+" group-title="SPOR - EXXEN",Exxen 9 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=177545&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Exxen 10 4K+" group-title="SPOR - EXXEN",Exxen 10 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=177546&extension=m3u8
+
+# 🌟✔ SPOR - KARISIK ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) HT Spor 4K" group-title="SPOR - KARISIK",HT Spor 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175117&extension=m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="(TR) A Spor 4K+" group-title="SPOR - KARISIK",A Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3069&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A Spor HD" group-title="SPOR - KARISIK",A Spor HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137441&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Fb TV" group-title="SPOR - KARISIK",FB TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2985&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Gs TV" group-title="SPOR - KARISIK",GS TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2972&extension=m3u8
+#EXTINF:-1 tvg-id="Eurosport TR" tvg-name="(TR) EuroSport 1 HD" group-title="SPOR - KARISIK",EuroSport 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2989&extension=m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD TR" tvg-name="(TR) EuroSport 2 HD" group-title="SPOR - KARISIK",EuroSport 2 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2988&extension=m3u8
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="(TR) Smart Spor 4K+" group-title="SPOR - KARISIK",Smart Spor 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2860&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Smart Spor HD" group-title="SPOR - KARISIK",Smart Spor HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=114630&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sports TV" group-title="SPOR - KARISIK",Sports TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2857&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nba Tv 4K+" group-title="SPOR - KARISIK",NBA Tv 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7427&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tay Tv 4K+" group-title="SPOR - KARISIK",Tay Tv 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2853&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tjk TV" group-title="SPOR - KARISIK",TJK TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2841&extension=m3u8
+
+# 🌟✔ SiNEMA ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Box Office 1 4K+" group-title="SiNEMA",Bein Box Office 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3050&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Box Office 2 4K+" group-title="SiNEMA",Bein Box Office 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3049&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Box Office 3 4K+" group-title="SiNEMA",Bein Box Office 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3048&extension=m3u8
+#EXTINF:-1 tvg-id="beIN MOVIESTURKHD" tvg-name="(TR) Bein Movies Turk 4K+" group-title="SiNEMA",Bein Movies Turk 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3038&extension=m3u8
+#EXTINF:-1 tvg-id="beINMOVIESSTARSHD" tvg-name="(TR) Bein Movies Stars 4K+" group-title="SiNEMA",Bein Movies Stars 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3039&extension=m3u8
+#EXTINF:-1 tvg-id="beINMOVIESACTION2HD" tvg-name="(TR) Bein Movies Action 2 4K+" group-title="SiNEMA",Bein Movies Action 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3046&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Movies Premiere 4K+" group-title="SiNEMA",Bein Movies Premiere 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89829&extension=m3u8
+#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="(TR) Bein Movies Premiere 2 4K+" group-title="SiNEMA",Bein Movies Premiere 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3041&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Series 1 4K+" group-title="SiNEMA",Bein Series 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89832&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Series 2 4K+" group-title="SiNEMA",Bein Series 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89831&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Series 3 4K+" group-title="SiNEMA",Bein Series 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89830&extension=m3u8
+#EXTINF:-1 tvg-id="beINSERIESSCI-FIHD" tvg-name="(TR) Bein Series 4 4K+" group-title="SiNEMA",Bein Series 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3035&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Moviesmart Turk 4K+" group-title="SiNEMA",Moviesmart Turk 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2906&extension=m3u8
+#EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="(TR) Moviesmart Action 4K+" group-title="SiNEMA",Moviesmart Action 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2920&extension=m3u8
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="(TR) Moviesmart Classic 4K+" group-title="SiNEMA",Moviesmart Classic 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2918&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Premium Dizismart 4K+" group-title="SiNEMA",Premium Dizismart 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89833&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV Comedy 4K+" group-title="SiNEMA",Sinema TV Comedy 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170407&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Yerli 1 4K+" group-title="SiNEMA",Sinema Yerli 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170408&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Yerli 2 4K+" group-title="SiNEMA",Sinema Yerli 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170406&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aile 1 4K+" group-title="SiNEMA",Sinema Aile 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89838&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aile 2 4K+" group-title="SiNEMA",Sinema Aile 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170404&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 1 4K+" group-title="SiNEMA",Sinema TV 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89835&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 2 4K+" group-title="SiNEMA",Sinema TV 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89836&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aksion 1 4K+" group-title="SiNEMA",Sinema Aksion 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89839&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema Aksion 2 4K+" group-title="SiNEMA",Sinema Aksion 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170405&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 1001 4K+" group-title="SiNEMA",Sinema TV 1001 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89837&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sinema TV 1002 4K+" group-title="SiNEMA",Sinema TV 1002 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89834&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Epic Drama" group-title="SiNEMA",Epic Drama
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170409&extension=m3u8
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="(TR) Fx HD" group-title="SiNEMA",Fx HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2975&extension=m3u8
+
+# 🌟✔ YERLi SiNEMA ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Sinema TV 1" group-title="YERLi SiNEMA",Yerli Sinema TV 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=164248&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Sinema TV 2" group-title="YERLi SiNEMA",Yerli Sinema TV 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174557&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Sinema TV 3" group-title="YERLi SiNEMA",Yerli Sinema TV 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181059&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Sinema TV 4" group-title="YERLi SiNEMA",Yerli Sinema TV 4
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181062&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Sinema TV 5" group-title="YERLi SiNEMA",Yerli Sinema TV 5
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181063&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Sinema TV 6" group-title="YERLi SiNEMA",Yerli Sinema TV 6
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181064&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dark Salon 1" group-title="YERLi SiNEMA",Dark Salon 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181240&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Komedi 1" group-title="YERLi SiNEMA",Yerli Komedi 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180977&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli komedi 2" group-title="YERLi SiNEMA",Yerli komedi 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180978&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Komedi 3" group-title="YERLi SiNEMA",Yerli Komedi 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180979&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yerli Komedi 4" group-title="YERLi SiNEMA",Yerli Komedi 4
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181105&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Original 1" group-title="YERLi SiNEMA",Tabii Original 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180966&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Original 2" group-title="YERLi SiNEMA",Tabii Original 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180968&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Original 3" group-title="YERLi SiNEMA",Tabii Original 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180969&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tabii Original 4" group-title="YERLi SiNEMA",Tabii Original 4
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=182054&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Gain Original 1" group-title="YERLi SiNEMA",Gain Original 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181012&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Gain Original 2" group-title="YERLi SiNEMA",Gain Original 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181014&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Gain Original 3" group-title="YERLi SiNEMA",Gain Original 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181015&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tod Original 1" group-title="YERLi SiNEMA",Tod Original 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180988&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Taff Pictures Sinema TV" group-title="YERLi SiNEMA",Taff Pictures Sinema TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=176481&extension=m3u8
+
+# 🌟✔ BELGESEL ✔🌟 #
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="(TR) TRT Belgesel 4K+" group-title="BELGESEL",TRT Belgesel 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2835&extension=m3u8
+#EXTINF:-1 tvg-id="Discovery.tr" tvg-name="(TR) Discovery Channel HD" group-title="BELGESEL",Discovery Channel HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3004&extension=m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.tr" tvg-name="(TR) Discovery Science HD" group-title="BELGESEL",Discovery Science HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3003&extension=m3u8
+#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="(TR) National Geo HD" group-title="BELGESEL",National Geo HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2902&extension=m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="(TR) Nat Geo Wild 4K+" group-title="BELGESEL",Nat Geo Wild 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2903&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Viasat Explorer HD" group-title="BELGESEL",Viasat Explorer HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170402&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Viasat History HD+" group-title="BELGESEL",Viasat History HD+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=147434&extension=m3u8
+#EXTINF:-1 tvg-id="History.tr" tvg-name="(TR) History Channel 4K+" group-title="BELGESEL",History Channel 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2964&extension=m3u8
+#EXTINF:-1 tvg-id="DMAXHD.tr" tvg-name="(TR) DMAX 4K+" group-title="BELGESEL",DMAX 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31320&extension=m3u8
+#EXTINF:-1 tvg-id="DaVinci.tr" tvg-name="(TR) Da Vinci 4K" group-title="BELGESEL",Da Vinci 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31317&extension=m3u8
+#EXTINF:-1 tvg-id="BBCEARTHHD.tr" tvg-name="(TR) BBC Earth HD" group-title="BELGESEL",BBC Earth HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=99747&extension=m3u8
+#EXTINF:-1 tvg-id="beINİZHD" tvg-name="(TR) Bein IZ TV 4K" group-title="BELGESEL",Bein İz TV 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3047&extension=m3u8
+#EXTINF:-1 tvg-id="NatGeoPeople.tr" tvg-name="(TR) Love Nature 4K+" group-title="BELGESEL",Love Nature 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2904&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tarih TV" group-title="BELGESEL",Tarih TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170403&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) ID HD 4K+" group-title="BELGESEL",ID HD 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7429&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Yaban TV 4K" group-title="BELGESEL",Yaban TV 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=139079&extension=m3u8
+#EXTINF:-1 tvg-id="beINGURMEHD" tvg-name="(TR) Bein Gurme 4K" group-title="BELGESEL",Bein Gurme 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31314&extension=m3u8
+
+# 🌟✔ MüZiK ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Power Türk 4K+" group-title="MüZiK",Power Türk 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2887&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) PowerTürk Slow TV" group-title="MüZiK",PowerTürk Slow TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170057&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) PowerTürk Taptaze TV" group-title="MüZiK",PowerTürk Taptaze TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170058&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) PowerTürk Akustik TV" group-title="MüZiK",PowerTürk Akustik TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170056&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 Turk 4K" group-title="MüZiK",Nr1 Turk 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170414&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 Türk HD" group-title="MüZiK",Nr1 Türk HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2897&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 Ask 4K" group-title="MüZiK",Nr1 Ask 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170413&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kral Pop HD" group-title="MüZiK",Kral Pop HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2935&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TRT Muzik 4K+" group-title="MüZiK",TRT Muzik 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2828&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dream Turk" group-title="MüZiK",Dream Turk
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2996&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Power TV 4K+" group-title="MüZiK",Power TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2885&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr 1 4K" group-title="MüZiK",Nr 1 4K
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170412&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nr1 HD" group-title="MüZiK",Nr1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2899&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Dream TV" group-title="MüZiK",Dream TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2995&extension=m3u8
+
+# 🌟✔ ÇOCUKLAR İÇİN ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Cocuk" group-title="ÇOCUKLAR İÇİN",TRT Çocuk
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2833&extension=m3u8
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="(TR) Baby TV" group-title="ÇOCUKLAR İÇİN",Baby TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3051&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Nick JR" group-title="ÇOCUKLAR İÇİN",Nick JR
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=9303&extension=m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.tr" tvg-name="(TR) Disney JR" group-title="ÇOCUKLAR İÇİN",Disney JR
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=9304&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Moonbug" group-title="ÇOCUKLAR İÇİN",Moonbug
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170411&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Minika Go" group-title="ÇOCUKLAR İÇİN",Minika Go
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2922&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Minika Cocuk" group-title="ÇOCUKLAR İÇİN",Minika Cocuk
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2923&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Disney Channel" group-title="ÇOCUKLAR İÇİN",Disney Channel
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3001&extension=m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-name="(TR) Nickelodeon HD" group-title="ÇOCUKLAR İÇİN",Nickelodeon HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2900&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Köstebekgiller" group-title="ÇOCUKLAR İÇİN",Köstebekgiller
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=175811&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sevimli Dostlar 1" group-title="ÇOCUKLAR İÇİN",Sevimli Dostlar 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=103507&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Niloya 1 HD" group-title="ÇOCUKLAR İÇİN",Niloya 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=28284&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Niloya 2 HD" group-title="ÇOCUKLAR İÇİN",Niloya 2 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=71183&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Pepe TV HD" group-title="ÇOCUKLAR İÇİN",Pepe TV HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=28367&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Rafadan Tayfa 1 HD" group-title="ÇOCUKLAR İÇİN",Rafadan Tayfa 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=96368&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Maşa ile Koca Ayi 1" group-title="ÇOCUKLAR İÇİN",Maşa ile Koca Ayi 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=32029&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Tom Ve Jerry HD" group-title="ÇOCUKLAR İÇİN",Tom Ve Jerry HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47688&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kral Şakir HD" group-title="ÇOCUKLAR İÇİN",Kral Şakir HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=71184&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Keloğlan HD" group-title="ÇOCUKLAR İÇİN",Keloğlan HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=81425&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Casper HD" group-title="ÇOCUKLAR İÇİN",Casper HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=78474&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Aslan HD" group-title="ÇOCUKLAR İÇİN",Aslan HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=96550&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Ciciki HD" group-title="ÇOCUKLAR İÇİN",Ciciki HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97472&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR)  İbi HD" group-title="ÇOCUKLAR İÇİN",İbi HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=96990&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kaptan Pengu" group-title="ÇOCUKLAR İÇİN",Kaptan Pengu
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=141272&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Simpsonlar" group-title="ÇOCUKLAR İÇİN",Simpsonlar
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=155136&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Leylek Kardeş HD" group-title="ÇOCUKLAR İÇİN",Leylek Kardeş HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97633&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Maysa ve Bulut HD" group-title="ÇOCUKLAR İÇİN",Maysa ve Bulut HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97475&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Canım Kardeşim HD" group-title="ÇOCUKLAR İÇİN",Canım Kardeşim HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97321&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Küçük Hezarfen HD" group-title="ÇOCUKLAR İÇİN",Küçük Hezarfen HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97226&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Elif ve Arkadaşları" group-title="ÇOCUKLAR İÇİN",Elif ve Arkadaşları
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=96516&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Pırıl ve Su Elçileri" group-title="ÇOCUKLAR İÇİN",Pırıl ve Su Elçileri
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97066&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bulmaca Kulesi" group-title="ÇOCUKLAR İÇİN",Bulmaca Kulesi
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97660&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Teletabiler HD" group-title="ÇOCUKLAR İÇİN",Teletabiler HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=78469&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Buz Devri Koleksiyonu" group-title="ÇOCUKLAR İÇİN",Buz Devri Koleksiyonu
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47672&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trafik Tayfa" group-title="ÇOCUKLAR İÇİN",Trafik Tayfa
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47673&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Sihirli Matematik" group-title="ÇOCUKLAR İÇİN",Sihirli Matematik
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97659&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Mutlu Oyuncak Dükkanı" group-title="ÇOCUKLAR İÇİN",Mutlu Oyuncak Dükkanı
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97650&extension=m3u8
+
+# 🌟✔ TRT - EBA ✔🌟 #
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Eba TV İlkokul HD" group-title="TRT - EBA",TRT Eba TV İlkokul HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=58179&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Eba TV Ortaokul HD" group-title="TRT - EBA",TRT Eba TV Ortaokul HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=58180&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Trt Eba TV Lise HD" group-title="TRT - EBA",TRT Eba TV Lise HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=58181&extension=m3u8
