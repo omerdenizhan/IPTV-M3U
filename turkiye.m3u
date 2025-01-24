@@ -301,7 +301,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2209&ext
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=551698&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://i.imgur.com/3HsTs7p.png" group-title="☪ BEIN SPORTS",BEIN SPORTS 3 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2210&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SPORT 3 PREMIUM HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="☪  BEIN SPORTS",BEIN SPORT 3 PREMIUM HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SPORT 3 PREMIUM HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="☪ BEIN SPORTS",BEIN SPORT 3 PREMIUM HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=551697&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="https://i.imgur.com/24jyvwc.png" group-title="☪ BEIN SPORTS",BEIN SPORTS 3 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=491883&extension=m3u8
