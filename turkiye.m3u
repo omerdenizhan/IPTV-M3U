@@ -494,20 +494,20 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=117196&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=117200&extension=m3u8
 
 
-# 🌟✔ ☪ TIVIBU SPOR ✔🌟 #
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR FHD" tvg-logo="https://i.imgur.com/hJX00yj.png" group-title="☪ TIVIBU SPOR",TIVIBUSPOR FHD
+# 🌟✔ ☪ TiViBU SPOR ✔🌟 #
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR FHD" tvg-logo="https://i.imgur.com/hJX00yj.png" group-title="☪ TiViBU SPOR",TiViBU SPOR FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2040&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.imgur.com/yG1s10o.png" group-title="☪ TIVIBU SPOR",TIVIBUSPOR HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.imgur.com/yG1s10o.png" group-title="☪ TiViBU SPOR",TiViBU SPOR HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2041&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="https://i.imgur.com/SOAxVZ5.png" group-title="☪ TIVIBU SPOR",TIVIBUSPOR 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="https://i.imgur.com/SOAxVZ5.png" group-title="☪ TiViBU SPOR",TiViBU SPOR 1 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2042&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.imgur.com/yG1s10o.png" group-title="☪ TIVIBU SPOR",TIVIBUSPOR 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.imgur.com/yG1s10o.png" group-title="☪ TiViBU SPOR",TiViBU SPOR 1 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2043&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.imgur.com/QnwexuJ.png" group-title="☪ TIVIBU SPOR",TIVIBUSPOR 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.imgur.com/QnwexuJ.png" group-title="☪ TiViBU SPOR",TiViBU SPOR 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2045&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="https://i.imgur.com/BbtRYbT.png" group-title="☪ TIVIBU SPOR",TIVIBUSPOR 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="https://i.imgur.com/BbtRYbT.png" group-title="☪ TiViBU SPOR",TiViBU SPOR 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2044&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.imgur.com/F97x301.png" group-title="☪ TIVIBU SPOR",TIVIBUSPOR 3 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.imgur.com/F97x301.png" group-title="☪ TiViBU SPOR",TiViBU SPOR 3 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=33296&extension=m3u8
 
 # 🌟✔ ☪ BEIN SiNEMA ✔🌟 #
@@ -565,78 +565,78 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=494632&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2759&extension=m3u8
 
 
-# 🌟✔ ☪ TİVİBU D-SMART SiNEMA ✔🌟 #
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="SINEMA TV FHD" tvg-logo="https://i.imgur.com/TN0OXs0.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV FHD
+# 🌟✔ ☪ TiViBU D-SMART SiNEMA ✔🌟 #
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="SINEMA TV FHD" tvg-logo="https://i.imgur.com/TN0OXs0.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2773&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="SINEMA TV HD" tvg-logo="https://i.imgur.com/PdhGvsd.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="SINEMA TV HD" tvg-logo="https://i.imgur.com/PdhGvsd.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2772&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 FHD" tvg-logo="https://i.imgur.com/czPTa5A.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 FHD" tvg-logo="https://i.imgur.com/czPTa5A.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2774&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 HD" tvg-logo="https://i.imgur.com/KqPJmDf.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 HD" tvg-logo="https://i.imgur.com/KqPJmDf.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2775&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON FHD" tvg-logo="https://i.imgur.com/uaZ8gx9.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AKSIYON FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON FHD" tvg-logo="https://i.imgur.com/uaZ8gx9.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AKSIYON FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2780&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON HD" tvg-logo="https://i.imgur.com/hp5VBdN.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AKSIYON HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON HD" tvg-logo="https://i.imgur.com/hp5VBdN.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AKSIYON HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=195739&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 FHD" tvg-logo="https://i.imgur.com/J4Dfav1.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AKSIYON 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 FHD" tvg-logo="https://i.imgur.com/J4Dfav1.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AKSIYON 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2781&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 HD" tvg-logo="https://i.imgur.com/THmPK7e.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AKSIYON 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 HD" tvg-logo="https://i.imgur.com/THmPK7e.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AKSIYON 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=195740&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 FHD" tvg-logo="https://i.imgur.com/wYxPKkm.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV 1001 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 FHD" tvg-logo="https://i.imgur.com/wYxPKkm.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV 1001 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2786&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 HD" tvg-logo="https://i.imgur.com/dY3Ytzr.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV 1001 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 HD" tvg-logo="https://i.imgur.com/dY3Ytzr.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV 1001 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=195742&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 FHD" tvg-logo="https://i.imgur.com/grIFQJ0.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV 1002 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 FHD" tvg-logo="https://i.imgur.com/grIFQJ0.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV 1002 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2788&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 HD" tvg-logo="https://i.imgur.com/kZR0MVi.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV 1002 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 HD" tvg-logo="https://i.imgur.com/kZR0MVi.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV 1002 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=195743&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE FHD" tvg-logo="https://i.imgur.com/jiiPNyK.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AILE FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE FHD" tvg-logo="https://i.imgur.com/jiiPNyK.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AILE FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2777&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE HD" tvg-logo="https://i.imgur.com/q1jjkIO.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AILE HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE HD" tvg-logo="https://i.imgur.com/q1jjkIO.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AILE HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2778&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 FHD" tvg-logo="https://i.imgur.com/Bprn91p.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AILE 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 FHD" tvg-logo="https://i.imgur.com/Bprn91p.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AILE 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2779&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 HD" tvg-logo="https://i.imgur.com/RtwFPgE.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV AILE 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 HD" tvg-logo="https://i.imgur.com/RtwFPgE.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV AILE 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=195741&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC FHD" tvg-logo="https://i.imgur.com/Sy9hYQj.png" group-title="☪ TİVİBU D-SMART SiNEMA",MOVIE SMART CLASSIC FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC FHD" tvg-logo="https://i.imgur.com/Sy9hYQj.png" group-title="☪ TiViBU D-SMART SiNEMA",MOVIE SMART CLASSIC FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2745&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC HD" tvg-logo="https://i.imgur.com/zIyf4Ca.png" group-title="☪ TİVİBU D-SMART SiNEMA",MOVIE SMART CLASSIC HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC HD" tvg-logo="https://i.imgur.com/zIyf4Ca.png" group-title="☪ TiViBU D-SMART SiNEMA",MOVIE SMART CLASSIC HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2746&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI FHD" tvg-logo="https://i.imgur.com/Z0sC7jH.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV KOMEDI FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI FHD" tvg-logo="https://i.imgur.com/Z0sC7jH.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV KOMEDI FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2782&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI HD" tvg-logo="https://i.imgur.com/TzENWYq.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV KOMEDI HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI HD" tvg-logo="https://i.imgur.com/TzENWYq.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV KOMEDI HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2783&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 FHD" tvg-logo="https://i.imgur.com/YowvMOi.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV KOMEDI 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 FHD" tvg-logo="https://i.imgur.com/YowvMOi.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV KOMEDI 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2784&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 HD" tvg-logo="https://i.imgur.com/C0ayMPk.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV KOMEDI 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 HD" tvg-logo="https://i.imgur.com/C0ayMPk.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV KOMEDI 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2785&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK FHD" tvg-logo="https://i.imgur.com/shWJ4Tr.png" group-title="☪ TİVİBU D-SMART SiNEMA",MOVIE SMART TURK FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK FHD" tvg-logo="https://i.imgur.com/shWJ4Tr.png" group-title="☪ TiViBU D-SMART SiNEMA",MOVIE SMART TURK FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2744&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK HD" tvg-logo="https://i.imgur.com/AJProBA.png" group-title="☪ TİVİBU D-SMART SiNEMA",MOVIE SMART TURK HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK HD" tvg-logo="https://i.imgur.com/AJProBA.png" group-title="☪ TiViBU D-SMART SiNEMA",MOVIE SMART TURK HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=495999&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI FHD" tvg-logo="https://i.imgur.com/nqQVat4.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV YERLI FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI FHD" tvg-logo="https://i.imgur.com/nqQVat4.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV YERLI FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=33391&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI HD" tvg-logo="https://i.imgur.com/latr4hr.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV YERLI HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI HD" tvg-logo="https://i.imgur.com/latr4hr.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV YERLI HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2776&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 FHD" tvg-logo="https://i.imgur.com/3vZookz.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV YERLI 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 FHD" tvg-logo="https://i.imgur.com/3vZookz.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV YERLI 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=495996&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 HD" tvg-logo="https://i.imgur.com/NKZxfwH.png" group-title="☪ TİVİBU D-SMART SiNEMA",SINEMA TV YERLI 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 HD" tvg-logo="https://i.imgur.com/NKZxfwH.png" group-title="☪ TiViBU D-SMART SiNEMA",SINEMA TV YERLI 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=495995&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM FHD" tvg-logo="https://i.imgur.com/nKQQmHI.png" group-title="☪ TİVİBU D-SMART SiNEMA",DIZI SMART PREMIUM FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM FHD" tvg-logo="https://i.imgur.com/nKQQmHI.png" group-title="☪ TiViBU D-SMART SiNEMA",DIZI SMART PREMIUM FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2751&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM HD" tvg-logo="https://i.imgur.com/IK6qrkp.png" group-title="☪ TİVİBU D-SMART SiNEMA",DIZI SMART PREMIUM HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM HD" tvg-logo="https://i.imgur.com/IK6qrkp.png" group-title="☪ TiViBU D-SMART SiNEMA",DIZI SMART PREMIUM HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=495936&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX FHD" tvg-logo="https://i.imgur.com/LAfbd03.png" group-title="☪ TİVİBU D-SMART SiNEMA",DIZI SMART MAX FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX FHD" tvg-logo="https://i.imgur.com/LAfbd03.png" group-title="☪ TiViBU D-SMART SiNEMA",DIZI SMART MAX FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2750&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX HD" tvg-logo="https://i.imgur.com/saAhjfp.png" group-title="☪ TİVİBU D-SMART SiNEMA",DIZI SMART MAX HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX HD" tvg-logo="https://i.imgur.com/saAhjfp.png" group-title="☪ TiViBU D-SMART SiNEMA",DIZI SMART MAX HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=496000&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPIC DRAMA FHD" tvg-logo="https://i.imgur.com/GHyb6ak.png" group-title="☪ TİVİBU D-SMART SiNEMA",EPIC DRAMA FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPIC DRAMA FHD" tvg-logo="https://i.imgur.com/GHyb6ak.png" group-title="☪ TiViBU D-SMART SiNEMA",EPIC DRAMA FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=195989&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPIC DRAMA HD" tvg-logo="https://i.imgur.com/BPaPDUN.png" group-title="☪ TİVİBU D-SMART SiNEMA",EPIC DRAMA HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPIC DRAMA HD" tvg-logo="https://i.imgur.com/BPaPDUN.png" group-title="☪ TiViBU D-SMART SiNEMA",EPIC DRAMA HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=195990&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/Vn6mlBX.png" group-title="☪ TİVİBU D-SMART SiNEMA",FX FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/Vn6mlBX.png" group-title="☪ TiViBU D-SMART SiNEMA",FX FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2740&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="FX HD" tvg-logo="https://i.imgur.com/Vn6mlBX.png" group-title="☪ TİVİBU D-SMART SiNEMA",FX HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="FX HD" tvg-logo="https://i.imgur.com/Vn6mlBX.png" group-title="☪ TiViBU D-SMART SiNEMA",FX HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2741&extension=m3u8
 
 
