@@ -9,7 +9,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268106&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1843&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="https://i.imgur.com/ZV44YT4.png" group-title="ULUSAL",TRT 1 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1844&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="↺TRT 1 HEVC" tvg-logo="https://i.imgur.com/H82KqCU.png" group-title="ULUSAL",TRT 1 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 HEVC" tvg-logo="https://i.imgur.com/H82KqCU.png" group-title="ULUSAL",TRT 1 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1947&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV QHD" tvg-logo="https://i.imgur.com/J8UhsLB.png" group-title="ULUSAL",NOW TV QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268111&extension=m3u8
@@ -17,7 +17,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268111&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1855&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV HD" tvg-logo="https://i.imgur.com/PUcQu1r.png" group-title="ULUSAL",NOW TV HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1856&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="↺NOW TV HEVC" tvg-logo="https://i.imgur.com/wYbuBC5.png" group-title="ULUSAL",NOW TV HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="NOW TV HEVC" tvg-logo="https://i.imgur.com/wYbuBC5.png" group-title="ULUSAL",NOW TV HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1957&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D QHD" tvg-logo="https://i.imgur.com/Hf2hchX.png" group-title="ULUSAL",KANAL D QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268109&extension=m3u8
@@ -25,7 +25,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268109&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1851&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://i.imgur.com/dNMLueV.png" group-title="ULUSAL",KANAL D HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1852&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="↺KANAL D HEVC" tvg-logo="https://i.imgur.com/vwJP8GR.png" group-title="ULUSAL",KANAL D HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D HEVC" tvg-logo="https://i.imgur.com/vwJP8GR.png" group-title="ULUSAL",KANAL D HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1953&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV QHD" tvg-logo="https://i.imgur.com/FM3BgVn.png" group-title="ULUSAL",ATV QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268107&extension=m3u8
@@ -33,7 +33,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268107&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1849&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="https://i.imgur.com/QhgVCba.png" group-title="ULUSAL",ATV HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1850&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="↺ATV HEVC" tvg-logo="https://i.imgur.com/b414nTE.png" group-title="ULUSAL",ATV HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV HEVC" tvg-logo="https://i.imgur.com/b414nTE.png" group-title="ULUSAL",ATV HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1951&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV QHD" tvg-logo="https://i.imgur.com/DnewqU3.png" group-title="ULUSAL",STAR TV QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268110&extension=m3u8
@@ -41,7 +41,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268110&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1853&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/PbmcNsf.png" group-title="ULUSAL",STAR TV HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1854&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="↺STAR TV HEVC" tvg-logo="https://i.imgur.com/6csuz3f.png" group-title="ULUSAL",STAR TV HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV HEVC" tvg-logo="https://i.imgur.com/6csuz3f.png" group-title="ULUSAL",STAR TV HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1955&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV QHD" tvg-logo="https://i.imgur.com/4g4h7hs.png" group-title="ULUSAL",SHOW TV QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268108&extension=m3u8
@@ -49,7 +49,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268108&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1847&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV HD" tvg-logo="https://i.imgur.com/wIHL5re.png" group-title="ULUSAL",SHOW TV HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1848&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="↺SHOW TV HEVC" tvg-logo="https://i.imgur.com/OMhXdB1.png" group-title="ULUSAL",SHOW TV HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV HEVC" tvg-logo="https://i.imgur.com/OMhXdB1.png" group-title="ULUSAL",SHOW TV HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1949&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 QHD" tvg-logo="https://i.imgur.com/tOjpDgK.png" group-title="ULUSAL",TV 8 QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268112&extension=m3u8
@@ -57,7 +57,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268112&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1857&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 HD" tvg-logo="https://i.imgur.com/9DUHFhF.png" group-title="ULUSAL",TV 8 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1858&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="↺TV 8 HEVC" tvg-logo="https://i.imgur.com/D4cdCaL.png" group-title="ULUSAL",TV 8 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 HEVC" tvg-logo="https://i.imgur.com/D4cdCaL.png" group-title="ULUSAL",TV 8 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1959&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV QHD" tvg-logo="https://i.imgur.com/aU0JwIZ.png" group-title="ULUSAL",BEYAZ TV QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268114&extension=m3u8
@@ -65,7 +65,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268114&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1861&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://i.imgur.com/wR1LqeE.png" group-title="ULUSAL",BEYAZ TV HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1862&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="↺BEYAZ TV HEVC" tvg-logo="https://i.imgur.com/oXRU2XO.png" group-title="ULUSAL",EYAZ TV HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HEVC" tvg-logo="https://i.imgur.com/oXRU2XO.png" group-title="ULUSAL",BEYAZ TV HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1961&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/jxKbLRl.png" group-title="ULUSAL",TLC FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=481270&extension=m3u8
@@ -91,7 +91,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268116&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1870&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV HD" tvg-logo="https://i.imgur.com/TTZGZzm.png" group-title="ULUSAL",360 TV HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1871&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="↺360 TV HEVC" tvg-logo="https://i.imgur.com/1kccTG0.png" group-title="ULUSAL",360 TV HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV HEVC" tvg-logo="https://i.imgur.com/1kccTG0.png" group-title="ULUSAL",360 TV HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1971&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 QHD" tvg-logo="https://i.imgur.com/zu6SEw7.png" group-title="ULUSAL",TEVE 2 QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268117&extension=m3u8
@@ -99,7 +99,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268117&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1866&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 HD" tvg-logo="https://i.imgur.com/agBP6KD.png" group-title="ULUSAL",TEVE 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1867&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="↺TEVE 2 HEVC" tvg-logo="https://imgur.com/HwALe3a.png" group-title="ULUSAL",TEVE 2 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 HEVC" tvg-logo="https://imgur.com/HwALe3a.png" group-title="ULUSAL",TEVE 2 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1967&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 QHD" tvg-logo="https://i.imgur.com/MB3Lihx.png" group-title="ULUSAL",A2 QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268118&extension=m3u8
@@ -107,7 +107,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268118&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1868&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="https://i.imgur.com/FguCWop.png" group-title="ULUSAL",A2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1869&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="↺A2 HEVC" tvg-logo="https://i.imgur.com/GYJS38c.png" group-title="ULUSAL",A2 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 HEVC" tvg-logo="https://i.imgur.com/GYJS38c.png" group-title="ULUSAL",A2 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1969&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 4 FHD" tvg-logo="https://i.imgur.com/bFounZf.png" group-title="ULUSAL",TV 4 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2168&extension=m3u8
@@ -129,7 +129,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268115&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1863&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="https://i.imgur.com/TUErdKc.png" group-title="ULUSAL",KANAL 7 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1864&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="↺KANAL 7 HEVC" tvg-logo="https://i.imgur.com/qdyDgAZ.png" group-title="ULUSAL",KANAL 7 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 HEVC" tvg-logo="https://i.imgur.com/qdyDgAZ.png" group-title="ULUSAL",KANAL 7 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1965&extension=m3u8
 
 
@@ -350,7 +350,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268139&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2015&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="https://i.imgur.com/a0wehZt.png" group-title="SPOR",TRT SPOR HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2016&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="↺TRT SPOR HEVC" tvg-logo="https://i.imgur.com/a0wehZt.png" group-title="SPOR",TRT SPOR HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR HEVC" tvg-logo="https://i.imgur.com/a0wehZt.png" group-title="SPOR",TRT SPOR HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2014&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ FHD" tvg-logo="https://i.imgur.com/rrDQXs2.png" group-title="SPOR",TRT SPOR YILDIZ FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2019&extension=m3u8
@@ -380,25 +380,25 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=196081&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2031&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART 1 HD" tvg-logo="https://i.imgur.com/FsfX4iy.png" group-title="SPOR",SPOR SMART 1 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2032&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smartspor.tr" tvg-name="↺SPOR SMART 1 HEVC" tvg-logo="https://i.imgur.com/2Zp8OTw.png" group-title="SPOR",SPOR SMART 1 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smartspor.tr" tvg-name="SPOR SMART 1 HEVC" tvg-logo="https://i.imgur.com/2Zp8OTw.png" group-title="SPOR",SPOR SMART 1 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=197633&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 FHD" tvg-logo="https://i.imgur.com/im5LOhB.png" group-title="SPOR",SPOR SMART 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2033&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.imgur.com/FrTWVBK.png" group-title="SPOR",SPOR SMART 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2034&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="↺SPOR SMART 2 HEVC" tvg-logo="https://i.imgur.com/fjVr0OH.png" group-title="SPOR",SPOR SMART 2 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 HEVC" tvg-logo="https://i.imgur.com/fjVr0OH.png" group-title="SPOR",SPOR SMART 2 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=481299&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 FHD" tvg-logo="https://i.imgur.com/fZkzO3Z.png" group-title="SPOR",S SPORT 1 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2025&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HD" tvg-logo="https://i.imgur.com/3hxCh8T.png" group-title="SPOR",S SPORT 1 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2026&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="↺S SPORT 1 HEVC" tvg-logo="https://i.imgur.com/iUqH505.png" group-title="SPOR",S SPORT 1 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HEVC" tvg-logo="https://i.imgur.com/iUqH505.png" group-title="SPOR",S SPORT 1 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=481300&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.imgur.com/ECgXF77.png" group-title="SPOR",S SPORT 2 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2028&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://i.imgur.com/BBI3b9J.png" group-title="SPOR",S SPORT 2 HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2029&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="↺S SPORT 2 HEVC" tvg-logo="https://i.imgur.com/KJbehCE.png" group-title="SPOR",S SPORT 2 HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HEVC" tvg-logo="https://i.imgur.com/KJbehCE.png" group-title="SPOR",S SPORT 2 HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=481301&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 1" tvg-logo="https://i.imgur.com/bsGTyjU.png" group-title="SPOR",S SPORT PLUS 1
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=393375&extension=m3u8
@@ -1119,7 +1119,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268131&e
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=481298&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="https://i.imgur.com/PCwXQcB.png" group-title="BELGESEL",TRT BELGESEL HD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=481297&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrtbelgesel.tr" tvg-name="↺TRT BELGESEL HEVC" tvg-logo="https://i.imgur.com/eVbE2hn.png.jpg" group-title="BELGESEL",TRT BELGESEL HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrtbelgesel.tr" tvg-name="TRT BELGESEL HEVC" tvg-logo="https://i.imgur.com/eVbE2hn.png.jpg" group-title="BELGESEL",TRT BELGESEL HEVC
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=1993&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC QHD" tvg-logo="https://i.imgur.com/lUaB8xW.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC QHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=268134&extension=m3u8
