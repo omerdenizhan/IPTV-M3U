@@ -225,9 +225,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=481302&e
 # 🌟✔ BEIN SPORTS ✔🌟 #
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://i.imgur.com/dxiLYHN.png" group-title="BEIN SPORTS",BEIN SPORTS 1 4K
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2202&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/KRD8mLI.png" group-title="BEIN SPORTS",BEIN SPORTS 1 FHD
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=2198&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SPORTS 1 FHD YEDEK" tvg-logo="https://i.imgur.com/I0g7rbD.png" group-title="BEIN SPORTS",BEIN SPORTS 1 FHD YEDEK
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SPORTS 1 FHD YEDEK" tvg-logo="https://i.imgur.com/I0g7rbD.png" group-title="BEIN SPORTS",BEIN SPORTS 1 FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=490683&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SPORT 1 PREMIUM FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="BEIN SPORTS",BEIN SPORT 1 PREMIUM FHD
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:4D:01:E3&stream=551702&extension=m3u8
