@@ -1,36 +1,9 @@
-Kendi Çalışmam "denizhan.m3u" Kanal Sıralaması:
-  1. Ulusal
-  2. Haber
-  3. Karışık Spor
-  4. Bein Sports
-  5. Tabii Spor
-  6. Exxen Spor
-  7. Tivibu Spor
-  8. Euro Sport
-  9. Spor Smart
-  10. S Sport
-  11. Bein Sinema
-  12. Tivibu D-Smart Sinema
-  13. RedBox Sinema
-  14. ProTurk Sinema
-  15. Fix Sinema
-  16. SmartBox Sinema
-  17. HorrorBox Sinema
-  18. Neocine Sinema
-  19. FilmBox Sinema
-  20. GlobalBox Sinema
-  21. KingBox Sinema
-  22. ArenaBox Sinema
-  23. MegaBox Sinema
-  24. RealBox Sinema
-  25. DreamBox Sinema
-  26. Sinevizyon Filmler
-  27. Belgesel
-  28. Müzik
-  29. Çocuklar İçin
+Merhabalar, FTA (Free-to-air veya ücretsiz uydu yayınları) ve internetten ücretsiz olarak izlenebilen içerikler için listeler oluşturup paylaşmaktayım.
 
+Atıfta bulunulması ve ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaşabilirsiniz.
 
+UYARILAR
+* Paylaşımlar içerisinde herhangi bir ücretli platforma ait içerikler veya direkt ücretli içerikler bulunmamaktadır.
+* Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV playerlarının destekleyeceği şekilde yönlendirme yapılmaktadır.
 
-----------------------------------------------------------------------------------------------------------------------------
-IPTV programınıza link eklemek için https://raw.githubusercontent.com/omerdenizhan/IPTV/refs/heads/main/denizhan.m3u linkini kullanınız.
 
