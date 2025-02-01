@@ -1,4 +1,4 @@
-Kendi Çalışmam "turkiye.m3u" Kanal Sıralaması:
+Kendi Çalışmam "denizhan.m3u" Kanal Sıralaması:
   1. Ulusal
   2. Haber
   3. Karışık Spor
@@ -31,5 +31,5 @@ Kendi Çalışmam "turkiye.m3u" Kanal Sıralaması:
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-IPTV programınıza link eklemek için https://github.com/odenizhan/IPTV/releases/download/IPTV/turkiye.m3u linkini kullanınız.
+IPTV programınıza link eklemek için https://raw.githubusercontent.com/odenizhan/IPTV/refs/heads/main/denizhan.m3u linkini kullanınız.
 
