@@ -1,5 +1,7 @@
 Merhabalar
+
 FTA (Free-to-air veya ücretsiz uydu yayınları) ve internetten ücretsiz olarak izlenebilen içerikler için listeler oluşturup paylaşmaktayım.
+
 Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaşabilirsiniz.
 
 
