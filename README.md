@@ -1,4 +1,4 @@
-Kanal Sıralamaları
+Kendi Çalışmam "turkiye.m3u" Kanal Sıralaması:
   1. Ulusal
   2. Haber
   3. Karışık Spor
