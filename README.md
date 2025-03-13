@@ -1,5 +1,5 @@
 # Güncel IPTV M3U Paylaşımı
-FTA (Free-To-Air veya ücretsiz uydu yayınları) ve internetten ücretsiz olarak izlenebilen içerikler için listeler oluşturup M3U klasöründe paylaşmaktayım.
+FTA (Free-To-Air veya Ücretsiz Uydu Yayınları) ve internetten ücretsiz olarak izlenebilen içerikler için listeler oluşturup M3U klasöründe paylaşmaktayım.
 
 Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaşabilirsiniz.
 
@@ -12,7 +12,7 @@ Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaş
 
 #
 #
-# Current IPTV M3U sharing
+# Current IPTV M3U Sharing
 I create lists for FTA (Free-to-Air or Free Satellite Publications) and content that can be watched free of charge from the internet and share it in the M3U folder.
 
 You can share my work with the conditions that it is not converted into a commercial action.
