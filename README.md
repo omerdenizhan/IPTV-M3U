@@ -9,3 +9,16 @@ Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaş
 
 # Son Güncelleme
 02.02.2025 tarihinde yapılmıştır.
+
+#
+# Current IPTV M3U sharing
+I create lists for FTA (Free-to-Air or Free Satellite Publications) and content that can be watched free of charge from the internet and share it in the M3U folder.
+
+You can share my work with the conditions that it is not converted into a commercial action.
+
+# Warnings
+* There are no content of any paid platform or direct paid content.
+* In the project, any content is not broadcast by me and the content received from different sources is directed to the support of IPTV players.
+
+# Last Update
+It was built on 02.02.2025.
