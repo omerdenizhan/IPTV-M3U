@@ -11,6 +11,7 @@ Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaş
 02.02.2025 tarihinde yapılmıştır.
 
 #
+#
 # Current IPTV M3U sharing
 I create lists for FTA (Free-to-Air or Free Satellite Publications) and content that can be watched free of charge from the internet and share it in the M3U folder.
 
