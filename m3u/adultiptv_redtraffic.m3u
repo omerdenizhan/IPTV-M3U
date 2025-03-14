@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Adult",-1 , Dorcel TV
+http://62.210.123.134:98/live/an75d/75d/97.m3u8
+#EXTINF:-1 group-title="Adult",-1 , X Desire
+http://62.210.123.134:98/live/an75d/75d/99.m3u8
+#EXTINF:-1 group-title="Adult",-1 , Review TV
+http://vps-e2e15dc8.vps.ovh.net/mp4s/reviewtv.m3u8
+#EXTINF:-1 group-title="Adult",-1 , Teaser TV
+http://vps-e2e15dc8.vps.ovh.net/mp4s/teasertv.m3u8
+#EXTINF:-1 group-title="Adult",-1 , Mirchi TV
+http://vps-e8733d8d.vps.ovh.ca/mp4s/mirchi.m3u8
+#EXTINF:-1 group-title="Adult",-1 , ShowTime
+http://vps-e2e15dc8.vps.ovh.net/mp4s/showtime.m3u8
+#EXTINF:-1 group-title="Adult",-1 , PH TV
+http://vps-e8733d8d.vps.ovh.ca/mp4s/phtv.m3u8
+#EXTINF:-1 group-title="Adult",-1 , Natasha TV
+http://vps-e2e15dc8.vps.ovh.net/mp4s/natasha.m3u8
+#EXTINF:-1 group-title="Adult",-1 , Brianna TV
+http://vps-e2e15dc8.vps.ovh.net/mp4s/brianna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Anal
+https://live.redtraffic.net/anal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",MILF
 https://live.redtraffic.net/milf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Big Dick
@@ -35,8 +55,6 @@ https://live.redtraffic.net/lesbian.m3u8
 https://live.redtraffic.net/rough.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Gangbang
 https://live.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Anal
-https://live.redtraffic.net/anal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Compilation
 https://live.redtraffic.net/compilation.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Brunette
