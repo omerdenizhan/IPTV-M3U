@@ -1,564 +1,543 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TRT 4K FHD" tvg-logo="https://img.logo-cdn.cc/trt4k.png" group-title="ULUSAL",TR ▎TRT 4K FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TRT 4K FHD" tvg-logo="https://img.logo-cdn.cc/trt4k.png" group-title="ULUSAL",TR ▎TRT 4K FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/94743?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TRT 4K+ FHD" tvg-logo="https://img.logo-cdn.cc/trt4k.png" group-title="ULUSAL",TR ▎TRT 4K+ FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TRT 4K+ FHD" tvg-logo="https://img.logo-cdn.cc/trt4k.png" group-title="ULUSAL",TR ▎TRT 4K+ FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727424?play_token=
-#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="TR ▎TRT 1 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trt1.png" group-title="ULUSAL",TR ▎TRT 1 FHD ◉ rec
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR ▎TRT 1 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trt1.png" group-title="ULUSAL",TR ▎TRT 1 FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3525?play_token=
-#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="TR ▎TRT 1 HD" tvg-logo="https://img.logo-cdn.cc/trt1.png" group-title="ULUSAL",TR ▎TRT 1 HD
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR ▎TRT 1 HD" tvg-logo="https://img.logo-cdn.cc/trt1.png" group-title="ULUSAL",TR ▎TRT 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3524?play_token=
-#EXTINF:-1 tvg-ID="fox.tr" tvg-name="TR ▎NOW FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/foxhd.png" group-title="ULUSAL",TR ▎NOW FHD ◉ rec
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR ▎NOW FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/foxhd.png" group-title="ULUSAL",TR ▎NOW FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3540?play_token=
-#EXTINF:-1 tvg-ID="fox.tr" tvg-name="TR ▎NOW HD" tvg-logo="https://img.logo-cdn.cc/foxhd.png" group-title="ULUSAL",TR ▎NOW HD
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR ▎NOW HD" tvg-logo="https://img.logo-cdn.cc/foxhd.png" group-title="ULUSAL",TR ▎NOW HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3539?play_token=
-#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="TR ▎SHOW FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/show.png" group-title="ULUSAL",TR ▎SHOW FHD ◉ rec
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR ▎SHOW FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/show.png" group-title="ULUSAL",TR ▎SHOW FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3534?play_token=
-#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="TR ▎SHOW HD" tvg-logo="https://img.logo-cdn.cc/show.png" group-title="ULUSAL",TR ▎SHOW HD
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR ▎SHOW HD" tvg-logo="https://img.logo-cdn.cc/show.png" group-title="ULUSAL",TR ▎SHOW HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3533?play_token=
-#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="TR ▎KANAL D FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/kanald.png" group-title="ULUSAL",TR ▎KANAL D FHD ◉ rec
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR ▎KANAL D FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/kanald.png" group-title="ULUSAL",TR ▎KANAL D FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3544?play_token=
-#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="TR ▎KANAL D HD" tvg-logo="https://img.logo-cdn.cc/kanald.png" group-title="ULUSAL",TR ▎KANAL D HD
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR ▎KANAL D HD" tvg-logo="https://img.logo-cdn.cc/kanald.png" group-title="ULUSAL",TR ▎KANAL D HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3543?play_token=
-#EXTINF:-1 tvg-ID="atv.tr" tvg-name="TR ▎ATV FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/atv.png" group-title="ULUSAL",TR ▎ATV FHD ◉ rec
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR ▎ATV FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/atv.png" group-title="ULUSAL",TR ▎ATV FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3546?play_token=
-#EXTINF:-1 tvg-ID="atv.tr" tvg-name="TR ▎ATV HD" tvg-logo="https://img.logo-cdn.cc/atv.png" group-title="ULUSAL",TR ▎ATV HD
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR ▎ATV HD" tvg-logo="https://img.logo-cdn.cc/atv.png" group-title="ULUSAL",TR ▎ATV HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3545?play_token=
-#EXTINF:-1 tvg-ID="startv.tr" tvg-name="TR ▎STAR FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/startv.png" group-title="ULUSAL",TR ▎STAR FHD ◉ rec
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR ▎STAR FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/startv.png" group-title="ULUSAL",TR ▎STAR FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3542?play_token=
-#EXTINF:-1 tvg-ID="startv.tr" tvg-name="TR ▎STAR HD" tvg-logo="https://img.logo-cdn.cc/startv.png" group-title="ULUSAL",TR ▎STAR HD
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR ▎STAR HD" tvg-logo="https://img.logo-cdn.cc/startv.png" group-title="ULUSAL",TR ▎STAR HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3541?play_token=
-#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="TR ▎BEYAZ FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/beyaz.png" group-title="ULUSAL",TR ▎BEYAZ FHD ◉ rec
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR ▎BEYAZ FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/beyaz.png" group-title="ULUSAL",TR ▎BEYAZ FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/94732?play_token=
-#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="TR ▎BEYAZ HD" tvg-logo="https://img.logo-cdn.cc/beyaz.png" group-title="ULUSAL",TR ▎BEYAZ HD
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR ▎BEYAZ HD" tvg-logo="https://img.logo-cdn.cc/beyaz.png" group-title="ULUSAL",TR ▎BEYAZ HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3528?play_token=
-#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="TR ▎TV 8 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/tv8.png" group-title="ULUSAL",TR ▎TV 8 FHD ◉ rec
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR ▎TV 8 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/tv8.png" group-title="ULUSAL",TR ▎TV 8 FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3538?play_token=
-#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="TR ▎TV 8 HD" tvg-logo="https://img.logo-cdn.cc/tv8.png" group-title="ULUSAL",TR ▎TV 8 HD
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR ▎TV 8 HD" tvg-logo="https://img.logo-cdn.cc/tv8.png" group-title="ULUSAL",TR ▎TV 8 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3537?play_token=
-#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="TR ▎TV 8.5 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/tv8.5.png" group-title="ULUSAL",TR ▎TV 8.5 FHD ◉ rec
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR ▎TV 8.5 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/tv8.5.png" group-title="ULUSAL",TR ▎TV 8.5 FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3536?play_token=
-#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="TR ▎TV 8.5 HD" tvg-logo="https://img.logo-cdn.cc/tv8.5.png" group-title="ULUSAL",TR ▎TV 8.5 HD
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR ▎TV 8.5 HD" tvg-logo="https://img.logo-cdn.cc/tv8.5.png" group-title="ULUSAL",TR ▎TV 8.5 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3535?play_token=
-#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="TR ▎TLC FHD" tvg-logo="https://img.logo-cdn.cc/tlc.png" group-title="ULUSAL",TR ▎TLC FHD
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR ▎TLC FHD" tvg-logo="https://img.logo-cdn.cc/tlc.png" group-title="ULUSAL",TR ▎TLC FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3519?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎360 TV FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/360tv.png" group-title="ULUSAL",TR ▎360 TV FHD ◉ rec
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎360 TV FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/360tv.png" group-title="ULUSAL",TR ▎360 TV FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3518?play_token=
-#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="TR ▎A2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/a2.png" group-title="ULUSAL",TR ▎A2 FHD ◉ rec
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR ▎A2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/a2.png" group-title="ULUSAL",TR ▎A2 FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3526?play_token=
-#EXTINF:-1 tvg-ID="24.tr" tvg-name="TR ▎TEVE 2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/teve2.png" group-title="ULUSAL",TR ▎TEVE 2 FHD ◉ rec
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR ▎TEVE 2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/teve2.png" group-title="ULUSAL",TR ▎TEVE 2 FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3529?play_token=
-#EXTINF:-1 tvg-ID="showmax.tr" tvg-name="TR ▎SHOW MAX FHD" tvg-logo="https://img.logo-cdn.cc/showmax.png" group-title="ULUSAL",TR ▎SHOW MAX FHD
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR ▎SHOW MAX FHD" tvg-logo="https://img.logo-cdn.cc/showmax.png" group-title="ULUSAL",TR ▎SHOW MAX FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3532?play_token=
-#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="TR ▎KANAL 7 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/kanal7.png" group-title="ULUSAL",TR ▎KANAL 7 FHD ◉ rec
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR ▎KANAL 7 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/kanal7.png" group-title="ULUSAL",TR ▎KANAL 7 FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3531?play_token=
-#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="TR ▎KANAL 7 HD" tvg-logo="https://img.logo-cdn.cc/kanal7.png" group-title="ULUSAL",TR ▎KANAL 7 HD
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR ▎KANAL 7 HD" tvg-logo="https://img.logo-cdn.cc/kanal7.png" group-title="ULUSAL",TR ▎KANAL 7 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3530?play_token=
-#EXTINF:-1 tvg-ID="trt2.tr" tvg-name="TR ▎TRT 2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trt2.png" group-title="ULUSAL",TR ▎TRT 2 FHD ◉ rec
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR ▎TRT 2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trt2.png" group-title="ULUSAL",TR ▎TRT 2 FHD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/74426?play_token=
-#EXTINF:-1 tvg-ID="trt2.tr" tvg-name="TR ▎TRT 2 HD" tvg-logo="https://img.logo-cdn.cc/trt2.png" group-title="ULUSAL",TR ▎TRT 2 HD
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR ▎TRT 2 HD" tvg-logo="https://img.logo-cdn.cc/trt2.png" group-title="ULUSAL",TR ▎TRT 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/94733?play_token=
-#EXTINF:-1 tvg-ID="trtturk.tr" tvg-name="TR ▎TRT TURK HD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trtturk.png" group-title="ULUSAL",TR ▎TRT TURK HD ◉ rec
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR ▎TRT TURK HD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trtturk.png" group-title="ULUSAL",TR ▎TRT TURK HD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3522?play_token=
-#EXTINF:-1 tvg-ID="trtavaz.tr" tvg-name="TR ▎TRT AVAZ HD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trtavaz.png" group-title="ULUSAL",TR ▎TRT AVAZ HD ◉ rec
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR ▎TRT AVAZ HD ◉ rec" tvg-logo="https://img.logo-cdn.cc/trtavaz.png" group-title="ULUSAL",TR ▎TRT AVAZ HD ◉ rec
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3521?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SOZCU TV SD" tvg-logo="https://img.logo-cdn.cc/sozcutv.png" group-title="HABER",TR ▎SOZCU TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SOZCU TV SD" tvg-logo="https://img.logo-cdn.cc/sozcutv.png" group-title="HABER",TR ▎SOZCU TV SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756670?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TELE 1 FHD" tvg-logo="https://img.logo-cdn.cc/tele1.png" group-title="HABER",TR ▎TELE 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TELE 1 FHD" tvg-logo="https://img.logo-cdn.cc/tele1.png" group-title="HABER",TR ▎TELE 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3481?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎KRT HD" tvg-logo="https://img.logo-cdn.cc/krt.png" group-title="HABER",TR ▎KRT HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎KRT HD" tvg-logo="https://img.logo-cdn.cc/krt.png" group-title="HABER",TR ▎KRT HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95528?play_token=
-#EXTINF:-1 tvg-ID="ulusalkanal.tr" tvg-name="TR ▎ULUSAL KANAL FHD" tvg-logo="https://img.logo-cdn.cc//ulusal.png" group-title="HABER",TR ▎ULUSAL KANAL FHD
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR ▎ULUSAL KANAL FHD" tvg-logo="https://img.logo-cdn.cc//ulusal.png" group-title="HABER",TR ▎ULUSAL KANAL FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3479?play_token=
-#EXTINF:-1 tvg-ID="Halk TV TR" tvg-name="TR ▎HALK TV FHD" tvg-logo="https://img.logo-cdn.cc/halk.png" group-title="HABER",TR ▎HALK TV FHD
+#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="TR ▎HALK TV FHD" tvg-logo="https://img.logo-cdn.cc/halk.png" group-title="HABER",TR ▎HALK TV FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3480?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎HALK TV HD" tvg-logo="https://img.logo-cdn.cc/halk.png" group-title="HABER",TR ▎HALK TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎HALK TV HD" tvg-logo="https://img.logo-cdn.cc/halk.png" group-title="HABER",TR ▎HALK TV HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/751395?play_token=
-#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="TR ▎CNN TURK FHD" tvg-logo="https://img.logo-cdn.cc/cnnturk.png" group-title="HABER",TR ▎CNN TURK FHD
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR ▎CNN TURK FHD" tvg-logo="https://img.logo-cdn.cc/cnnturk.png" group-title="HABER",TR ▎CNN TURK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3489?play_token=
-#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="TR ▎HABER TURK FHD" tvg-logo="https://img.logo-cdn.cc/haberturk.png" group-title="HABER",TR ▎HABER TURK FHD
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR ▎HABER TURK FHD" tvg-logo="https://img.logo-cdn.cc/haberturk.png" group-title="HABER",TR ▎HABER TURK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3488?play_token=
-#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="TR ▎NTV HD" tvg-logo="https://img.logo-cdn.cc/ntv.png" group-title="HABER",TR ▎NTV HD
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR ▎NTV HD" tvg-logo="https://img.logo-cdn.cc/ntv.png" group-title="HABER",TR ▎NTV HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3490?play_token=
-#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="TR ▎TRT HABER HD" tvg-logo="https://img.logo-cdn.cc/trthaber.png" group-title="HABER",TR ▎TRT HABER HD
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR ▎TRT HABER HD" tvg-logo="https://img.logo-cdn.cc/trthaber.png" group-title="HABER",TR ▎TRT HABER HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3487?play_token=
-#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="TR ▎24 HABER FHD" tvg-logo="https://img.logo-cdn.cc//24.png" group-title="HABER",TR ▎24 HABER FHD
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR ▎24 HABER FHD" tvg-logo="https://img.logo-cdn.cc//24.png" group-title="HABER",TR ▎24 HABER FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3484?play_token=
-#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="TR ▎HABER GLOBAL FHD" tvg-logo="https://img.logo-cdn.cc/haberglobal.png" group-title="HABER",TR ▎HABER GLOBAL FHD
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR ▎HABER GLOBAL FHD" tvg-logo="https://img.logo-cdn.cc/haberglobal.png" group-title="HABER",TR ▎HABER GLOBAL FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/72292?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TGRT HABER FHD" tvg-logo="https://img.logo-cdn.cc/tgrthaber.png" group-title="HABER",TR ▎TGRT HABER FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TGRT HABER FHD" tvg-logo="https://img.logo-cdn.cc/tgrthaber.png" group-title="HABER",TR ▎TGRT HABER FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3478?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TV 100 FHD" tvg-logo="https://img.logo-cdn.cc/tv100.png" group-title="HABER",TR ▎TV 100 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TV 100 FHD" tvg-logo="https://img.logo-cdn.cc/tv100.png" group-title="HABER",TR ▎TV 100 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/190648?play_token=
-
-#EXTINF:-1 tvg-ID="bloomberght.tr" tvg-name="TR ▎BLOOMBERG HT HD" tvg-logo="https://img.logo-cdn.cc/bloomberght.png" group-title="EKONOMi",TR ▎BLOOMBERG HT HD
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR ▎BLOOMBERG HT HD" tvg-logo="https://img.logo-cdn.cc/bloomberght.png" group-title="EKONOMi",TR ▎BLOOMBERG HT HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3472?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EKOTURK FHD" tvg-logo="https://img.logo-cdn.cc/ekoturk.png" group-title="EKONOMi",TR ▎EKOTURK FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EKOTURK FHD" tvg-logo="https://img.logo-cdn.cc/ekoturk.png" group-title="EKONOMi",TR ▎EKOTURK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/201710?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EKO TURK TV FHD" tvg-logo="https://img.logo-cdn.cc/ekoturk.png" group-title="EKONOMi",TR ▎EKOTURK TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EKO TURK TV FHD" tvg-logo="https://img.logo-cdn.cc/ekoturk.png" group-title="EKONOMi",TR ▎EKO TURK TV FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/72286?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎A PARA FHD" tvg-logo="https://img.logo-cdn.cc/apara.png" group-title="EKONOMi",TR ▎A PARA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎A PARA FHD" tvg-logo="https://img.logo-cdn.cc/apara.png" group-title="EKONOMi",TR ▎A PARA FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3473?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 1 50 FPS FHD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 1 50 FPS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 1 50 FPS FHD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 1 50 FPS FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664785?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 1 50 FPS HD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 1 50 FPS HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 1 50 FPS HD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 1 50 FPS HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727460?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 1 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 1 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664789?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664790?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 1 SD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 1 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 1 SD" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 1 SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664792?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 2 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 2 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664794?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 2 HD" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 2 HD" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664796?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 2 SD" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 2 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 2 SD" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 2 SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664798?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 3 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 3 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664800?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 3 HD" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 3 HD" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 3 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664802?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 3 SD" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 3 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 3 SD" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 3 SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664804?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 4 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 4 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664805?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 4 HD" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 4 HD" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 4 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664807?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 4 SD" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 4 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 4 SD" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 4 SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664809?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 5 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 5 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/684447?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 5 HD" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 5 HD" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 5 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/684448?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS 5 SD" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS 5 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS 5 SD" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS 5 SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/684449?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS MAX 1 HD" tvg-logo="https://img.logo-cdn.cc/beinsportsmax1.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS MAX 1 HD" tvg-logo="https://img.logo-cdn.cc/beinsportsmax1.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS MAX 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664810?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS MAX 2 HD" tvg-logo="https://img.logo-cdn.cc/beinsportsmax2.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS MAX 2 HD" tvg-logo="https://img.logo-cdn.cc/beinsportsmax2.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS MAX 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664812?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS HABER FHD" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS HABER FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS HABER FHD" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS HABER FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664782?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BEIN SPORTS HABER HD" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" group-title="BEIN SPORTS",TR ▎BEIN SPORTS HABER HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BEIN SPORTS HABER HD" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" group-title="BEiN SPORTS",TR ▎BEIN SPORTS HABER HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664784?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TRT SPOR FHD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TRT SPOR FHD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664847?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TRT SPOR HD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TRT SPOR HD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664848?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TRT SPOR YILDIZ FHD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR YILDIZ FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TRT SPOR YILDIZ FHD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR YILDIZ FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664849?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TRT SPOR YILDIZ HD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR YILDIZ HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TRT SPOR YILDIZ HD" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="SPOR",TR ▎TRT SPOR YILDIZ HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664850?play_token=
-#EXTINF:-1 tvg-ID="sportstv.tr" tvg-name="TR ▎SPORTS TV SD" tvg-logo="https://img.logo-cdn.cc/sportstv.png" group-title="SPOR",TR ▎SPORTS TV SD
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR ▎SPORTS TV SD" tvg-logo="https://img.logo-cdn.cc/sportstv.png" group-title="SPOR",TR ▎SPORTS TV SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3466?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎A SPOR FHD" tvg-logo="https://img.logo-cdn.cc/aspor.png" group-title="SPOR",TR ▎A SPOR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎A SPOR FHD" tvg-logo="https://img.logo-cdn.cc/aspor.png" group-title="SPOR",TR ▎A SPOR FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664845?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎A SPOR HD" tvg-logo="https://img.logo-cdn.cc/aspor.png" group-title="SPOR",TR ▎A SPOR HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎A SPOR HD" tvg-logo="https://img.logo-cdn.cc/aspor.png" group-title="SPOR",TR ▎A SPOR HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664846?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎GS TV HD" tvg-logo="https://img.logo-cdn.cc//gstv.png" group-title="SPOR",TR ▎GS TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎GS TV HD" tvg-logo="https://img.logo-cdn.cc//gstv.png" group-title="SPOR",TR ▎GS TV HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/37235?play_token=
-#EXTINF:-1 tvg-ID="fbtv.tr" tvg-name="TR ▎FB TV SD" tvg-logo="https://img.logo-cdn.cc/fbtv.png" group-title="SPOR",TR ▎FB TV SD
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR ▎FB TV SD" tvg-logo="https://img.logo-cdn.cc/fbtv.png" group-title="SPOR",TR ▎FB TV SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3465?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎NBA TV FHD" tvg-logo="https://img.logo-cdn.cc/nbatv.png" group-title="SPOR",TR ▎NBA TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎NBA TV FHD" tvg-logo="https://img.logo-cdn.cc/nbatv.png" group-title="SPOR",TR ▎NBA TV FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111488?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FIGHT BOX FHD" tvg-logo="https://img.logo-cdn.cc/fightbox.png" group-title="SPOR",TR ▎FIGHT BOX FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FIGHT BOX FHD" tvg-logo="https://img.logo-cdn.cc/fightbox.png" group-title="SPOR",TR ▎FIGHT BOX FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111489?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EUROSPORT 1 FHD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="EUROSPORT",TR ▎EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EUROSPORT 1 FHD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="EUROSPORT",TR ▎EUROSPORT 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664851?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EUROSPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="EUROSPORT",TR ▎EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EUROSPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="EUROSPORT",TR ▎EUROSPORT 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664852?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EUROSPORT 2 FHD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="EUROSPORT",TR ▎EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EUROSPORT 2 FHD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="EUROSPORT",TR ▎EUROSPORT 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664853?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EUROSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="EUROSPORT",TR ▎EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EUROSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="EUROSPORT",TR ▎EUROSPORT 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664854?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SMART SPOR 1 FHD" tvg-logo="https://img.logo-cdn.cc/smartspor1.png" group-title="SMART SPOR",TR ▎SMART SPOR 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SMART SPOR 1 FHD" tvg-logo="https://img.logo-cdn.cc/smartspor1.png" group-title="SMART SPOR",TR ▎SMART SPOR 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664831?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SMAR SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/smartspor1.png" group-title="SMART SPOR",TR ▎SMAR SPORT 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SMAR SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/smartspor1.png" group-title="SMART SPOR",TR ▎SMAR SPORT 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664832?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SMART SPOR 2 FHD" tvg-logo="https://img.logo-cdn.cc/smartspor2.png" group-title="SMART SPOR",TR ▎SMART SPOR 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SMART SPOR 2 FHD" tvg-logo="https://img.logo-cdn.cc/smartspor2.png" group-title="SMART SPOR",TR ▎SMART SPOR 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664833?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SMART SPOR 2 HD" tvg-logo="https://img.logo-cdn.cc/smartspor2.png" group-title="SMART SPOR",TR ▎SMART SPOR 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SMART SPOR 2 HD" tvg-logo="https://img.logo-cdn.cc/smartspor2.png" group-title="SMART SPOR",TR ▎SMART SPOR 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664834?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT 1 FHD" tvg-logo="https://img.logo-cdn.cc/ssport.png" group-title="S SPORT",TR ▎S SPORT 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT 1 FHD" tvg-logo="https://img.logo-cdn.cc/ssport.png" group-title="S SPORT",TR ▎S SPORT 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664820?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/ssport.png" group-title="S SPORT",TR ▎S SPORT 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/ssport.png" group-title="S SPORT",TR ▎S SPORT 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664821?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT 2 FHD" tvg-logo="https://img.logo-cdn.cc/ssport2.png" group-title="S SPORT",TR ▎S SPORT 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT 2 FHD" tvg-logo="https://img.logo-cdn.cc/ssport2.png" group-title="S SPORT",TR ▎S SPORT 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664822?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/ssport2.png" group-title="S SPORT",TR ▎S SPORT 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/ssport2.png" group-title="S SPORT",TR ▎S SPORT 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664823?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT+ 1 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT+ 1 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664824?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT+ 2 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT+ 2 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664825?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT+ 3 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT+ 3 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664826?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT+ 4 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT+ 4 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664827?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT+ 5 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT+ 5 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664828?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT+ 6 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 6 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT+ 6 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 6 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664829?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎S SPORT+ 7 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 7 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎S SPORT+ 7 FHD" tvg-logo="https://img.logo-cdn.cc/sportplus.png" group-title="S SPORT",TR ▎S SPORT+ 7 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664830?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 1 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor1hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 1 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor1hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664835?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 1 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor1hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 1 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor1hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727455?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 2 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor2hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 2 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor2hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664837?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 2 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor2hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 2 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor2hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727456?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 3 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor3hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 3 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor3hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664839?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 3 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor3hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 3 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor3hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 3 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727457?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 4 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor4hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 4 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor4hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664841?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ TIVIBUSPOR 4 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor4hd.png" group-title="TIVIBU SPOR",TR ▎ TIVIBUSPOR 4 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ TIVIBUSPOR 4 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor4hd.png" group-title="TiViBU SPOR",TR ▎ TIVIBUSPOR 4 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727458?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 5 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor5hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 5 FHD" tvg-logo="https://img.logo-cdn.cc/tivibuspor5hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664843?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TIVIBUSPOR 5 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor5hd.png" group-title="TIVIBU SPOR",TR ▎TIVIBUSPOR 5 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TIVIBUSPOR 5 HD" tvg-logo="https://img.logo-cdn.cc/tivibuspor5hd.png" group-title="TiViBU SPOR",TR ▎TIVIBUSPOR 5 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727459?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 1 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 1 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664855?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664856?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 2 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 2 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664858?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 2" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 2
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 2" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 2
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/715827?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 3 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 3 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664859?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 4 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 4 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664860?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 5 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 5 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664861?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 6 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 6 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 6 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 6 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664862?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 7 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 7 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 7 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 7 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664863?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EXXEN SPORTS 8 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 8 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EXXEN SPORTS 8 FHD" tvg-logo="https://img.logo-cdn.cc/exxensports.png" group-title="EXXEN SPORTS",TR ▎EXXEN SPORTS 8 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/664864?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TABII SPOR FHD" tvg-logo="" group-title="TABII SPOR",TR ▎TABII SPOR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TABII SPOR FHD" tvg-logo="" group-title="TABii SPOR",TR ▎TABII SPOR FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1461316?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TABII SPOR 1 FHD" tvg-logo="" group-title="TABII SPOR",TR ▎TABII SPOR 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TABII SPOR 1 FHD" tvg-logo="" group-title="TABii SPOR",TR ▎TABII SPOR 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444401?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TABII SPOR 2 FHD" tvg-logo="" group-title="TABII SPOR",TR ▎TABII SPOR 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TABII SPOR 2 FHD" tvg-logo="" group-title="TABii SPOR",TR ▎TABII SPOR 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444402?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TABII SPOR 3 FHD" tvg-logo="" group-title="TABII SPOR",TR ▎TABII SPOR 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TABII SPOR 3 FHD" tvg-logo="" group-title="TABii SPOR",TR ▎TABII SPOR 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444403?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TABII SPOR 4 FHD" tvg-logo="" group-title="TABII SPOR",TR ▎TABII SPOR 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TABII SPOR 4 FHD" tvg-logo="" group-title="TABii SPOR",TR ▎TABII SPOR 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444404?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TABII SPOR 5 FHD" tvg-logo="" group-title="TABII SPOR",TR ▎TABII SPOR 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TABII SPOR 5 FHD" tvg-logo="" group-title="TABii SPOR",TR ▎TABII SPOR 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444405?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TABII SPOR 6 FHD" tvg-logo="" group-title="TABII SPOR",TR ▎TABII SPOR 6 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TABII SPOR 6 FHD" tvg-logo="" group-title="TABii SPOR",TR ▎TABII SPOR 6 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444406?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FIL SPOR 1 FHD" tvg-logo="" group-title="FIL SPOR",TR ▎FIL SPOR 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FIL SPOR 1 FHD" tvg-logo="" group-title="FiL SPOR",TR ▎FIL SPOR 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444407?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FIL SPOR 2 FHD" tvg-logo="" group-title="FIL SPOR",TR ▎FIL SPOR 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FIL SPOR 2 FHD" tvg-logo="" group-title="FiL SPOR",TR ▎FIL SPOR 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444408?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FIL SPOR 3 FHD" tvg-logo="" group-title="FIL SPOR",TR ▎FIL SPOR 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FIL SPOR 3 FHD" tvg-logo="" group-title="FiL SPOR",TR ▎FIL SPOR 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444409?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FIL SPOR 4 FHD" tvg-logo="" group-title="FIL SPOR",TR ▎FIL SPOR 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FIL SPOR 4 FHD" tvg-logo="" group-title="FiL SPOR",TR ▎FIL SPOR 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444410?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FIL SPOR 5 FHD" tvg-logo="" group-title="FIL SPOR",TR ▎FIL SPOR 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FIL SPOR 5 FHD" tvg-logo="" group-title="FiL SPOR",TR ▎FIL SPOR 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444411?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FIL SPOR 6 FHD" tvg-logo="" group-title="FIL SPOR",TR ▎FIL SPOR 6 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FIL SPOR 6 FHD" tvg-logo="" group-title="FiL SPOR",TR ▎FIL SPOR 6 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1444412?play_token=
-
-#EXTINF:-1 tvg-ID="beinboxoffice1.tr" tvg-name="TR ▎BEIN BOX OFFICE 1 FHD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice1.png" group-title="BEIN BOX SINEMA",TR ▎BEIN BOX OFFICE 1 FHD
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR ▎BEIN BOX OFFICE 1 FHD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice1.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN BOX OFFICE 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3367?play_token=
-#EXTINF:-1 tvg-ID="beinboxoffice2.tr" tvg-name="TR ▎BEIN BOX OFFICE 2 FHD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice2.png" group-title="BEIN BOX SINEMA",TR ▎BEIN BOX OFFICE 2 FHD
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR ▎BEIN BOX OFFICE 2 FHD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice2.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN BOX OFFICE 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3366?play_token=
-#EXTINF:-1 tvg-ID="beinboxoffice3.tr" tvg-name="TR ▎BEIN BOX OFFICE 3 FHD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice3.png" group-title="BEIN BOX SINEMA",TR ▎BEIN BOX OFFICE 3 FHD
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR ▎BEIN BOX OFFICE 3 FHD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice3.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN BOX OFFICE 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3365?play_token=
-#EXTINF:-1 tvg-ID="beinmoviesaction.tr" tvg-name="TR ▎BEIN MOVIES ACTION FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesactionhd.png" group-title="BEIN BOX SINEMA",TR ▎BEIN MOVIES ACTION FHD
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR ▎BEIN MOVIES ACTION FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesactionhd.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN MOVIES ACTION FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95595?play_token=
-#EXTINF:-1 tvg-ID="beinmoviesaction2.tr" tvg-name="TR ▎BEIN MOVIES ACTION 2 FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesaction2.png" group-title="BEIN BOX SINEMA",TR ▎BEIN MOVIES ACTION 2 FHD
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR ▎BEIN MOVIES ACTION 2 FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesaction2.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN MOVIES ACTION 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95594?play_token=
-#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="TR ▎BEIN MOVIES FAMILY FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesfamilyhd.png" group-title="BEIN BOX SINEMA",TR ▎BEIN MOVIES FAMILY FHD
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR ▎BEIN MOVIES FAMILY FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesfamilyhd.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN MOVIES FAMILY FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95597?play_token=
-#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="TR ▎BEIN MOVIES PREMIER HD" tvg-logo="https://img.logo-cdn.cc//beinmoviespremierehd.png" group-title="BEIN BOX SINEMA",TR ▎BEIN MOVIES PREMIER HD
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR ▎BEIN MOVIES PREMIER HD" tvg-logo="https://img.logo-cdn.cc//beinmoviespremierehd.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN MOVIES PREMIER HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95600?play_token=
-#EXTINF:-1 tvg-ID="beinmoviespremiere2.tr" tvg-name="TR ▎BEIN MOVIES PREMIER 2 FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviespremiere2.png" group-title="BEIN BOX SINEMA",TR ▎BEIN MOVIES PREMIER 2 FHD
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR ▎BEIN MOVIES PREMIER 2 FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviespremiere2.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN MOVIES PREMIER 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95599?play_token=
-#EXTINF:-1 tvg-ID="beinmoviesturk.tr" tvg-name="TR ▎BEIN MOVIES TURK HD" tvg-logo="https://img.logo-cdn.cc//beinmoviesturkhd.png" group-title="BEIN BOX SINEMA",TR ▎BEIN MOVIES TURK HD
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR ▎BEIN MOVIES TURK HD" tvg-logo="https://img.logo-cdn.cc//beinmoviesturkhd.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN MOVIES TURK HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95602?play_token=
-#EXTINF:-1 tvg-ID="beinmoviesstars.tr" tvg-name="TR ▎BEIN MOVIES STARS FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesstarshd.png" group-title="BEIN BOX SINEMA",TR ▎BEIN MOVIES STARS FHD
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR ▎BEIN MOVIES STARS FHD" tvg-logo="https://img.logo-cdn.cc//beinmoviesstarshd.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN MOVIES STARS FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95601?play_token=
-#EXTINF:-1 tvg-ID="beinseriescomedy.tr" tvg-name="TR ▎BEIN SERIES COMEDY FHD" tvg-logo="https://img.logo-cdn.cc//beinseriescomedyhd.png" group-title="BEIN BOX SINEMA",TR ▎BEIN SERIES COMEDY FHD
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR ▎BEIN SERIES COMEDY FHD" tvg-logo="https://img.logo-cdn.cc//beinseriescomedyhd.png" group-title="BEiN BOX SiNEMA",TR ▎BEIN SERIES COMEDY FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/95604?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV FHD" tvg-logo="https://img.logo-cdn.cc/sinematv.png" group-title="SINEMA TV",TR ▎SINEMA TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV FHD" tvg-logo="https://img.logo-cdn.cc/sinematv.png" group-title="SiNEMA TV",TR ▎SINEMA TV FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111460?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV AKSIYON FHD" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyonhd.png" group-title="SINEMA TV",TR ▎SINEMA TV AKSIYON FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV AKSIYON FHD" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyonhd.png" group-title="SiNEMA TV",TR ▎SINEMA TV AKSIYON FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/265298?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV AKSIYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyon2hd.png" group-title="SINEMA TV",TR ▎SINEMA TV AKSIYON 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV AKSIYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyon2hd.png" group-title="SiNEMA TV",TR ▎SINEMA TV AKSIYON 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/265299?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV KOMEDI FHD" tvg-logo="https://img.logo-cdn.cc/sinematvkomedi.png" group-title="SINEMA TV",TR ▎SINEMA TV KOMEDI FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV KOMEDI FHD" tvg-logo="https://img.logo-cdn.cc/sinematvkomedi.png" group-title="SiNEMA TV",TR ▎SINEMA TV KOMEDI FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111458?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV YERLI FHD" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" group-title="SINEMA TV",TR ▎SINEMA TV YERLI FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV YERLI FHD" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" group-title="SiNEMA TV",TR ▎SINEMA TV YERLI FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111456?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV AILE FHD" tvg-logo="https://img.logo-cdn.cc/sinematvailehd.png" group-title="SINEMA TV",TR ▎SINEMA TV AILE FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV AILE FHD" tvg-logo="https://img.logo-cdn.cc/sinematvailehd.png" group-title="SiNEMA TV",TR ▎SINEMA TV AILE FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/265300?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV AILE 2 FHD" tvg-logo="https://img.logo-cdn.cc/sinematvaile2hd.png" group-title="SINEMA TV",TR ▎SINEMA TV AILE 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV AILE 2 FHD" tvg-logo="https://img.logo-cdn.cc/sinematvaile2hd.png" group-title="SiNEMA TV",TR ▎SINEMA TV AILE 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111463?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV 1001 FHD" tvg-logo="https://img.logo-cdn.cc/sinematv1001hd.png" group-title="SINEMA TV",TR ▎SINEMA TV 1001 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV 1001 FHD" tvg-logo="https://img.logo-cdn.cc/sinematv1001hd.png" group-title="SiNEMA TV",TR ▎SINEMA TV 1001 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/265296?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SINEMA TV 1002 FHD" tvg-logo="https://img.logo-cdn.cc/sinematv1002hd.png" group-title="SINEMA TV",TR ▎SINEMA TV 1002 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SINEMA TV 1002 FHD" tvg-logo="https://img.logo-cdn.cc/sinematv1002hd.png" group-title="SiNEMA TV",TR ▎SINEMA TV 1002 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/265297?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎DiZi PREMIUM FHD" tvg-logo="https://img.logo-cdn.cc/dizi.png" group-title="SINEMA TV",TR ▎DiZi PREMIUM FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎DiZi PREMIUM FHD" tvg-logo="https://img.logo-cdn.cc/dizi.png" group-title="SiNEMA TV",TR ▎DiZi PREMIUM FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111478?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎DIZISMART MAX FHD" tvg-logo="https://img.logo-cdn.cc/dizismartmaxhd.png" group-title="SINEMA TV",TR ▎DIZISMART MAX FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎DIZISMART MAX FHD" tvg-logo="https://img.logo-cdn.cc/dizismartmaxhd.png" group-title="SiNEMA TV",TR ▎DIZISMART MAX FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111479?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎FX FHD" tvg-logo="https://img.logo-cdn.cc/fx.png" group-title="SINEMA TV",TR ▎FX FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎FX FHD" tvg-logo="https://img.logo-cdn.cc/fx.png" group-title="SiNEMA TV",TR ▎FX FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111480?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎KEMAL SUNAL TV HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT KEMAL SUNAL TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎KEMAL SUNAL TV HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎KEMAL SUNAL TV HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/46550?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT YESILCAM 1 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT YESILCAM 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT YESILCAM 1 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT YESILCAM 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1390344?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT YESILCAM 2 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT YESILCAM 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT YESILCAM 2 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT YESILCAM 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1390345?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT YESILCAM 3 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT YESILCAM 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT YESILCAM 3 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT YESILCAM 3 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1390346?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SMART TURK FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SMART TURK FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SMART TURK FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SMART TURK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110822?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SMART ACTION FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SMART ACTION FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SMART ACTION FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SMART ACTION FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110828?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SMART FAMILY FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SMART FAMILY FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SMART FAMILY FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SMART FAMILY FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111472?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SMART CLASSIC FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SMART CLASSIC FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SMART CLASSIC FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SMART CLASSIC FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110829?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SINEMA KOMEDI FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SINEMA KOMEDI FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SINEMA KOMEDI FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SINEMA KOMEDI FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110836?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SINEMA KOMEDI 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SINEMA KOMEDI 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SINEMA KOMEDI 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SINEMA KOMEDI 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110837?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SINEMA AKSIYON FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SINEMA AKSIYON FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SINEMA AKSIYON FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SINEMA AKSIYON FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110838?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SINEMA AKSIYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SINEMA AKSIYON 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SINEMA AKSIYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SINEMA AKSIYON 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110839?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SINEMA YERLI FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SINEMA YERLI FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SINEMA YERLI FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SINEMA YERLI FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110832?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT SINEMA YERLI 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT SINEMA YERLI 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT SINEMA YERLI 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT SINEMA YERLI 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110833?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT AILE 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT AILE 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT AILE 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT AILE 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110840?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT AILE 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT AILE 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT AILE 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT AILE 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110841?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT NETFLIX 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT NETFLIX 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT NETFLIX 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT NETFLIX 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110848?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT NETFLIX 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT NETFLIX 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT NETFLIX 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT NETFLIX 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110847?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT NETFLIX 3 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT NETFLIX 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT NETFLIX 3 HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT NETFLIX 3 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110846?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT MOVIES FAMILIY FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT MOVIES FAMILIY FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT MOVIES FAMILIY FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT MOVIES FAMILIY FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110854?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT MOVIES PREMIER 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT MOVIES PREMIER 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT MOVIES PREMIER 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT MOVIES PREMIER 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110851?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT MOVIES PREMIER 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT MOVIES PREMIER 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT MOVIES PREMIER 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT MOVIES PREMIER 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110852?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT MOVIES FESTIVAL FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT MOVIES FESTIVAL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT MOVIES FESTIVAL FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT MOVIES FESTIVAL FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110853?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT KEMAL SUNAL HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT KEMAL SUNAL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT KEMAL SUNAL HD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT KEMAL SUNAL HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/110859?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT HD KEMAL SUNAL 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT HD KEMAL SUNAL 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT HD KEMAL SUNAL 1 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT HD KEMAL SUNAL 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/343460?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT HD KEMAL SUNAL 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT HD KEMAL SUNAL 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT HD KEMAL SUNAL 2 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT HD KEMAL SUNAL 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/343462?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT HD KEMAL SUNAL 3 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT HD KEMAL SUNAL 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT HD KEMAL SUNAL 3 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT HD KEMAL SUNAL 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/343464?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT HD KEMAL SUNAL 4 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT HD KEMAL SUNAL 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT HD KEMAL SUNAL 4 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT HD KEMAL SUNAL 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/343465?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT HD KEMAL SUNAL 5 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT HD KEMAL SUNAL 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT HD KEMAL SUNAL 5 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT HD KEMAL SUNAL 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/343467?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT HD KEMAL SUNAL 5 FHD" tvg-logo="" group-title="ELIT SINEMA",TR ▎ELIT HD KEMAL SUNAL 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT HD KEMAL SUNAL 5 FHD" tvg-logo="" group-title="ELiT SiNEMA",TR ▎ELIT HD KEMAL SUNAL 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1458396?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎ELIT HD KEMAL SUNAL 6 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELIT SINEMA",TR ▎ELIT HD KEMAL SUNAL 6 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎ELIT HD KEMAL SUNAL 6 FHD" tvg-logo="https://img.logo-cdn.cc/elit.png" group-title="ELiT SiNEMA",TR ▎ELIT HD KEMAL SUNAL 6 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/343468?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX ACTIE HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX ACTIE HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX ACTIE HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX ACTIE HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756481?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX DRAMA HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX DRAMA HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX DRAMA HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX DRAMA HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756485?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX PREMIER" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX PREMIER
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX PREMIER" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX PREMIER
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756476?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX VIZYON 1" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX VIZYON 1
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX VIZYON 1" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX VIZYON 1
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756477?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX VIZYON 2 HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX VIZYON 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX VIZYON 2 HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX VIZYON 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756478?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX SINEMA TURK 1 HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX SINEMA TURK 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX SINEMA TURK 1 HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX SINEMA TURK 1 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756479?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX SINEMA TURK 2 HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX SINEMA TURK 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX SINEMA TURK 2 HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX SINEMA TURK 2 HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756480?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX BILIMKURGU HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX BILIMKURGU HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX BILIMKURGU HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX BILIMKURGU HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756482?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX HORROR HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX HORROR HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX HORROR HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX HORROR HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756483?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎REDBOX MIX HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SINEMA",TR ▎REDBOX MIX HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎REDBOX MIX HD" tvg-logo="https://img.logo-cdn.cc/redboxhd.png" group-title="REDBOX SiNEMA",TR ▎REDBOX MIX HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/756484?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME AILE 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME AILE 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME AILE 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME AILE 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718123?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME AILE 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME AILE 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME AILE 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME AILE 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718122?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME AKSIYON 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME AKSIYON 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME AKSIYON 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME AKSIYON 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718121?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME AKSIYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME AKSIYON 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME AKSIYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME AKSIYON 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718120?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME AKSIYON 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME AKSIYON 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME AKSIYON 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME AKSIYON 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718119?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME KOMEDI 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME KOMEDI 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME KOMEDI 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME KOMEDI 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718114?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME KOMEDI 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME KOMEDI 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME KOMEDI 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME KOMEDI 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718113?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME KORKU 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME KORKU 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME KORKU 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME KORKU 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718112?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME KORKU 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME KORKU 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME KORKU 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME KORKU 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718111?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME KORKU 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME KORKU 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME KORKU 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME KORKU 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718110?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME NETFLIX 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME NETFLIX 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME NETFLIX 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME NETFLIX 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718108?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME NETFLIX 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME NETFLIX 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME NETFLIX 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME NETFLIX 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718107?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME NETFLIX 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME NETFLIX 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME NETFLIX 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME NETFLIX 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718106?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME SCI-FI 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME SCI-FI 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME SCI-FI 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME SCI-FI 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718103?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME SCI- FI 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME SCI- FI 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME SCI- FI 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME SCI- FI 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718104?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME TURK 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME TURK 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME TURK 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME TURK 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718101?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME TURK 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME TURK 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME TURK 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME TURK 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718100?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME TURK 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME TURK 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME TURK 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME TURK 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718099?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME TURK 4 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME TURK 4 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME TURK 4 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME TURK 4 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718098?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME TURK 5 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME TURK 5 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME TURK 5 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME TURK 5 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718097?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME PREMIER FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME PREMIER FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME PREMIER FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME PREMIER FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718105?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME YESILCAM 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME YESILCAM 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME YESILCAM 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME YESILCAM 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718095?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME YESILCAM 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME YESILCAM 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME YESILCAM 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME YESILCAM 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718094?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME YESILCAM 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME YESILCAM 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME YESILCAM 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME YESILCAM 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718093?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME FANTASTIK FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME FANTASTIK FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME FANTASTIK FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME FANTASTIK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718115?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME MARVEL FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME MARVEL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME MARVEL FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME MARVEL FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718109?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME ANIMASYON 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME ANIMASYON 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME ANIMASYON 1 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME ANIMASYON 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718118?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME ANIMASYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME ANIMASYON 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME ANIMASYON 2 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME ANIMASYON 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718117?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME ANIMASYON 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SINEMA",TR ▎CINETIME ANIMASYON 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎CINETIME ANIMASYON 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="CINETIME SiNEMA",TR ▎CINETIME ANIMASYON 3 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/718116?play_token=
-
-#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TR ▎TRT BELGESEL FHD" tvg-logo="https://img.logo-cdn.cc/trtbelgesel.png" group-title="BELGESEL",TR ▎TRT BELGESEL FHD
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR ▎TRT BELGESEL FHD" tvg-logo="https://img.logo-cdn.cc/trtbelgesel.png" group-title="BELGESEL",TR ▎TRT BELGESEL FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3497?play_token=
-#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TR ▎TGRT BELGESEL SD" tvg-logo="https://img.logo-cdn.cc/tgrtbelgesel.png" group-title="BELGESEL",TR ▎TGRT BELGESEL SD
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR ▎TGRT BELGESEL SD" tvg-logo="https://img.logo-cdn.cc/tgrtbelgesel.png" group-title="BELGESEL",TR ▎TGRT BELGESEL SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3496?play_token=
-#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="TR ▎DISCOVERY CHANNEL FHD" tvg-logo="https://img.logo-cdn.cc/discoverychannel.png" group-title="BELGESEL",TR ▎DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR ▎DISCOVERY CHANNEL FHD" tvg-logo="https://img.logo-cdn.cc/discoverychannel.png" group-title="BELGESEL",TR ▎DISCOVERY CHANNEL FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3397?play_token=
-#EXTINF:-1 tvg-ID="discoveryscience.tr" tvg-name="TR ▎DISCOVERY SCIENCE FHD" tvg-logo="https://img.logo-cdn.cc//discoverysciencehd-clivebesle.png" group-title="BELGESEL",TR ▎DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR ▎DISCOVERY SCIENCE FHD" tvg-logo="https://img.logo-cdn.cc//discoverysciencehd-clivebesle.png" group-title="BELGESEL",TR ▎DISCOVERY SCIENCE FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3396?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎DISCOVERY IDX FHD" tvg-logo="" group-title="BELGESEL",TR ▎DISCOVERY IDX FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎DISCOVERY IDX FHD" tvg-logo="" group-title="BELGESEL",TR ▎DISCOVERY IDX FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/1458395?play_token=
-#EXTINF:-1 tvg-ID="natgeo.tr" tvg-name="TR ▎NGC FHD" tvg-logo="https://img.logo-cdn.cc//nationalgeographic.png" group-title="BELGESEL",TR ▎NGC FHD
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR ▎NGC FHD" tvg-logo="https://img.logo-cdn.cc//nationalgeographic.png" group-title="BELGESEL",TR ▎NGC FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3393?play_token=
-#EXTINF:-1 tvg-ID="natgeowild.tr" tvg-name="TR ▎NGC WILD FHD" tvg-logo="https://img.logo-cdn.cc//nationalgeographicwild.png" group-title="BELGESEL",TR ▎NGC WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR ▎NGC WILD FHD" tvg-logo="https://img.logo-cdn.cc//nationalgeographicwild.png" group-title="BELGESEL",TR ▎NGC WILD FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3392?play_token=
-#EXTINF:-1 tvg-ID="historychannel.tr" tvg-name="TR ▎HISTORY CHANNEL FHD" tvg-logo="https://img.logo-cdn.cc//history.png" group-title="BELGESEL",TR ▎HISTORY CHANNEL FHD
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR ▎HISTORY CHANNEL FHD" tvg-logo="https://img.logo-cdn.cc//history.png" group-title="BELGESEL",TR ▎HISTORY CHANNEL FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3389?play_token=
-#EXTINF:-1 tvg-ID="beiniz.tr" tvg-name="TR ▎BEIN IZ FHD" tvg-logo="https://img.logo-cdn.cc//beinizhd.png" group-title="BELGESEL",TR ▎BEIN IZ FHD
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR ▎BEIN IZ FHD" tvg-logo="https://img.logo-cdn.cc//beinizhd.png" group-title="BELGESEL",TR ▎BEIN IZ FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3387?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎DA VINCI FHD" tvg-logo="https://img.logo-cdn.cc//davinci.png" group-title="BELGESEL",TR ▎DA VINCI FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎DA VINCI FHD" tvg-logo="https://img.logo-cdn.cc//davinci.png" group-title="BELGESEL",TR ▎DA VINCI FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727451?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎VIASAT HISTORY FHD" tvg-logo="https://img.logo-cdn.cc/viasathistory.png" group-title="BELGESEL",TR ▎VIASAT HISTORY FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎VIASAT HISTORY FHD" tvg-logo="https://img.logo-cdn.cc/viasathistory.png" group-title="BELGESEL",TR ▎VIASAT HISTORY FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111494?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BBC EARTH FHD" tvg-logo="https://img.logo-cdn.cc//bbcearth.png" group-title="BELGESEL",TR ▎BBC EARTH FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BBC EARTH FHD" tvg-logo="https://img.logo-cdn.cc//bbcearth.png" group-title="BELGESEL",TR ▎BBC EARTH FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727450?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎LOVE NATURE FHD " tvg-logo="https://img.logo-cdn.cc//lovenature.png" group-title="BELGESEL",TR ▎LOVE NATURE FHD 
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎LOVE NATURE FHD " tvg-logo="https://img.logo-cdn.cc//lovenature.png" group-title="BELGESEL",TR ▎LOVE NATURE FHD 
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/727452?play_token=
-#EXTINF:-1 tvg-ID="dmax.tr" tvg-name="TR ▎DMAX FHD" tvg-logo="https://img.logo-cdn.cc/dmax.png" group-title="BELGESEL",TR ▎DMAX FHD
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR ▎DMAX FHD" tvg-logo="https://img.logo-cdn.cc/dmax.png" group-title="BELGESEL",TR ▎DMAX FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/44247?play_token=
-#EXTINF:-1 tvg-ID="yabantv.tr" tvg-name="TR ▎YABAN TV HD" tvg-logo="https://img.logo-cdn.cc/yaban.png" group-title="BELGESEL",TR ▎YABAN TV HD
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR ▎YABAN TV HD" tvg-logo="https://img.logo-cdn.cc/yaban.png" group-title="BELGESEL",TR ▎YABAN TV HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/106488?play_token=
-
-#EXTINF:-1 tvg-ID="atv.tr" tvg-name="TR ▎ATV EU SD" tvg-logo="https://img.logo-cdn.cc/atvavrupa.png" group-title="ULUSAL AVRUPA",TR ▎ATV EU SD
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR ▎ATV EU SD" tvg-logo="https://img.logo-cdn.cc/atvavrupa.png" group-title="ULUSAL AVRUPA",TR ▎ATV EU SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/46751?play_token=
-#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="TR ▎EURO D EU SD" tvg-logo="https://img.logo-cdn.cc/eurod.png" group-title="ULUSAL AVRUPA",TR ▎EURO D EU SD
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR ▎EURO D EU SD" tvg-logo="https://img.logo-cdn.cc/eurod.png" group-title="ULUSAL AVRUPA",TR ▎EURO D EU SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/46750?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎EURO STAR" tvg-logo="https://img.logo-cdn.cc/eurostar.png" group-title="ULUSAL AVRUPA",TR ▎EURO STAR
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎EURO STAR" tvg-logo="https://img.logo-cdn.cc/eurostar.png" group-title="ULUSAL AVRUPA",TR ▎EURO STAR
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/763175?play_token=
-#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="TR ▎KANAL 7 EU HD" tvg-logo="https://img.logo-cdn.cc/kanal7.png" group-title="ULUSAL AVRUPA",TR ▎KANAL 7 EU HD
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR ▎KANAL 7 EU HD" tvg-logo="https://img.logo-cdn.cc/kanal7.png" group-title="ULUSAL AVRUPA",TR ▎KANAL 7 EU HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/46746?play_token=
-#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="TR ▎TV 8 INT EU SD" tvg-logo="https://img.logo-cdn.cc/tv8int.png" group-title="ULUSAL AVRUPA",TR ▎TV 8 INT EU SD
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR ▎TV 8 INT EU SD" tvg-logo="https://img.logo-cdn.cc/tv8int.png" group-title="ULUSAL AVRUPA",TR ▎TV 8 INT EU SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/46748?play_token=
-#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="TR ▎SHOW TURK EU HD" tvg-logo="https://img.logo-cdn.cc/show.png" group-title="ULUSAL AVRUPA",TR ▎SHOW TURK EU HD
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR ▎SHOW TURK EU HD" tvg-logo="https://img.logo-cdn.cc/show.png" group-title="ULUSAL AVRUPA",TR ▎SHOW TURK EU HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/46747?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎TGRT EU SD" tvg-logo="https://img.logo-cdn.cc/tgrteu.png" group-title="ULUSAL AVRUPA",TR ▎TGRT EU SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎TGRT EU SD" tvg-logo="https://img.logo-cdn.cc/tgrteu.png" group-title="ULUSAL AVRUPA",TR ▎TGRT EU SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3517?play_token=
-
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BRT 1 FHD" tvg-logo="https://img.logo-cdn.cc/brt1hd.png" group-title="KKTC",TR ▎BRT 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BRT 1 FHD" tvg-logo="https://img.logo-cdn.cc/brt1hd.png" group-title="KKTC",TR ▎BRT 1 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3405?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BRT 2 FHD" tvg-logo="https://img.logo-cdn.cc/brt2hd.png" group-title="KKTC",TR ▎BRT 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BRT 2 FHD" tvg-logo="https://img.logo-cdn.cc/brt2hd.png" group-title="KKTC",TR ▎BRT 2 FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3404?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎KIBRIS TV SD" tvg-logo="https://img.logo-cdn.cc/kibristv.png" group-title="KKTC",TR ▎KIBRIS TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎KIBRIS TV SD" tvg-logo="https://img.logo-cdn.cc/kibristv.png" group-title="KKTC",TR ▎KIBRIS TV SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3403?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎KIBRIS GENC TV SD " tvg-logo="https://img.logo-cdn.cc/genctv.png" group-title="KKTC",TR ▎KIBRIS GENC TV SD 
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎KIBRIS GENC TV SD " tvg-logo="https://img.logo-cdn.cc/genctv.png" group-title="KKTC",TR ▎KIBRIS GENC TV SD 
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3399?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎KANAL T KIBRIS SD" tvg-logo="https://img.logo-cdn.cc/kanaltkibris.png" group-title="KKTC",TR ▎KANAL T KIBRIS SD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎KANAL T KIBRIS SD" tvg-logo="https://img.logo-cdn.cc/kanaltkibris.png" group-title="KKTC",TR ▎KANAL T KIBRIS SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3400?play_token=
-
-#EXTINF:-1 tvg-ID="powerturk.tr" tvg-name="TR ▎POWER FHD" tvg-logo="https://img.logo-cdn.cc/powertvhd.png" group-title="MUZiK",TR ▎POWER FHD
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR ▎POWER FHD" tvg-logo="https://img.logo-cdn.cc/powertvhd.png" group-title="MUZiK",TR ▎POWER FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3447?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎NR 1 HD " tvg-logo="https://img.logo-cdn.cc/nr1.png" group-title="MUZiK",TR ▎NR 1 HD 
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎NR 1 HD " tvg-logo="https://img.logo-cdn.cc/nr1.png" group-title="MUZiK",TR ▎NR 1 HD 
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3446?play_token=
-#EXTINF:-1 tvg-ID="powerturk.tr" tvg-name="TR ▎POWER TURK FHD" tvg-logo="https://img.logo-cdn.cc/powertvhd.png" group-title="MUZiK",TR ▎POWER TURK FHD
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR ▎POWER TURK FHD" tvg-logo="https://img.logo-cdn.cc/powertvhd.png" group-title="MUZiK",TR ▎POWER TURK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3454?play_token=
-#EXTINF:-1 tvg-ID="numberonetv.tr" tvg-name="TR ▎NR 1 TURK HD" tvg-logo="https://img.logo-cdn.cc/nr1.png" group-title="MUZiK",TR ▎NR 1 TURK HD
+#EXTINF:-1 tvg-id="numberonetv.tr" tvg-name="TR ▎NR 1 TURK HD" tvg-logo="https://img.logo-cdn.cc/nr1.png" group-title="MUZiK",TR ▎NR 1 TURK HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3453?play_token=
-#EXTINF:-1 tvg-ID="kraltv.tr" tvg-name="TR ▎KRAL TV FHD" tvg-logo="https://img.logo-cdn.cc/kralpopradyo.png" group-title="MUZiK",TR ▎KRAL TV FHD
+#EXTINF:-1 tvg-id="kraltv.tr" tvg-name="TR ▎KRAL TV FHD" tvg-logo="https://img.logo-cdn.cc/kralpopradyo.png" group-title="MUZiK",TR ▎KRAL TV FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3456?play_token=
-#EXTINF:-1 tvg-ID="kralpop.tr" tvg-name="TR ▎KRAL POP FHD" tvg-logo="https://img.logo-cdn.cc/kralpopradyo.png" group-title="MUZiK",TR ▎KRAL POP FHD
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TR ▎KRAL POP FHD" tvg-logo="https://img.logo-cdn.cc/kralpopradyo.png" group-title="MUZiK",TR ▎KRAL POP FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3455?play_token=
-#EXTINF:-1 tvg-ID="dreamtv.tr" tvg-name="TR ▎DREAM TURK HD" tvg-logo="https://img.logo-cdn.cc/dreamturk.png" group-title="MUZiK",TR ▎DREAM TURK HD
+#EXTINF:-1 tvg-id="dreamtv.tr" tvg-name="TR ▎DREAM TURK HD" tvg-logo="https://img.logo-cdn.cc/dreamturk.png" group-title="MUZiK",TR ▎DREAM TURK HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3451?play_token=
-#EXTINF:-1 tvg-ID="trtmuzik.tr" tvg-name="TR ▎TRT MUZIK FHD" tvg-logo="https://img.logo-cdn.cc/trtmuzik.png" group-title="MUZiK",TR ▎TRT MUZIK FHD
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR ▎TRT MUZIK FHD" tvg-logo="https://img.logo-cdn.cc/trtmuzik.png" group-title="MUZiK",TR ▎TRT MUZIK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3457?play_token=
-
-#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="TR ▎TRT COCUK FHD" tvg-logo="https://img.logo-cdn.cc//trtcocuk.png" group-title="COCUK",TR ▎TRT COCUK FHD
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR ▎TRT COCUK FHD" tvg-logo="https://img.logo-cdn.cc//trtcocuk.png" group-title="COCUK",TR ▎TRT COCUK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3463?play_token=
-#EXTINF:-1 tvg-ID="minikacocuk.tr" tvg-name="TR ▎MINIKA COCUK SD" tvg-logo="https://img.logo-cdn.cc//minikacocuk.png" group-title="COCUK",TR ▎MINIKA COCUK SD
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="TR ▎MINIKA COCUK SD" tvg-logo="https://img.logo-cdn.cc//minikacocuk.png" group-title="COCUK",TR ▎MINIKA COCUK SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3458?play_token=
-#EXTINF:-1 tvg-ID="minikago.tr" tvg-name="TR ▎MINIKA GO SD" tvg-logo="https://img.logo-cdn.cc//minikago.png" group-title="COCUK",TR ▎MINIKA GO SD
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR ▎MINIKA GO SD" tvg-logo="https://img.logo-cdn.cc//minikago.png" group-title="COCUK",TR ▎MINIKA GO SD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3459?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎NICK JR FHD" tvg-logo="https://img.logo-cdn.cc/nickjr.png" group-title="COCUK",TR ▎NICK JR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎NICK JR FHD" tvg-logo="https://img.logo-cdn.cc/nickjr.png" group-title="COCUK",TR ▎NICK JR FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3395?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎NICKELODEON HD " tvg-logo="https://img.logo-cdn.cc/nickelodeon.png" group-title="COCUK",TR ▎NICKELODEON HD 
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎NICKELODEON HD " tvg-logo="https://img.logo-cdn.cc/nickelodeon.png" group-title="COCUK",TR ▎NICKELODEON HD 
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3394?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎DISNEY JR FHD" tvg-logo="https://img.logo-cdn.cc/disneyjunior.png" group-title="COCUK",TR ▎DISNEY JR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎DISNEY JR FHD" tvg-logo="https://img.logo-cdn.cc/disneyjunior.png" group-title="COCUK",TR ▎DISNEY JR FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/139014?play_token=
-#EXTINF:-1 tvg-ID="cartoonnetwork.tr" tvg-name="TR ▎CARTOON NETWORK SD " tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" group-title="COCUK",TR ▎CARTOON NETWORK SD 
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR ▎CARTOON NETWORK SD " tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" group-title="COCUK",TR ▎CARTOON NETWORK SD 
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/3462?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎BABY TV FHD" tvg-logo="https://img.logo-cdn.cc/babytv.png" group-title="COCUK",TR ▎BABY TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎BABY TV FHD" tvg-logo="https://img.logo-cdn.cc/babytv.png" group-title="COCUK",TR ▎BABY TV FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111513?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎SMART COCUK FHD" tvg-logo="https://img.logo-cdn.cc/smartcocuk.png" group-title="COCUK",TR ▎SMART COCUK FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎SMART COCUK FHD" tvg-logo="https://img.logo-cdn.cc/smartcocuk.png" group-title="COCUK",TR ▎SMART COCUK FHD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/265294?play_token=
-#EXTINF:-1 tvg-ID="" tvg-name="TR ▎NILOYA TV HD" tvg-logo="https://img.logo-cdn.cc//niloya.png" group-title="COCUK",TR ▎NILOYA TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="TR ▎NILOYA TV HD" tvg-logo="https://img.logo-cdn.cc//niloya.png" group-title="COCUK",TR ▎NILOYA TV HD
 http://mag.king-4k.cc/LcZjf97SOyvfhQc/2d1lMNlhgA/111515?play_token=
