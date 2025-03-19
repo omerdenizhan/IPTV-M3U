@@ -12,7 +12,6 @@ Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaş
 
 #
 #
-#
 # Current IPTV M3U Sharing
 I create lists for FTA (Free-to-Air or Free Satellite Publications) and content that can be watched free of charge from the internet and share it in the M3U folder.
 
