@@ -8,7 +8,7 @@ Ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaş
 * Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV playerlarının destekleyeceği şekilde yönlendirme yapılmaktadır.
 
 # Son Güncelleme
-19 Mart 2025 tarihinde güncelleme yapılmıştır.
+05 Nisan 2025 tarihinde güncelleme yapılmıştır.
 
 #
 #
@@ -22,4 +22,4 @@ You can share my work with the conditions that it is not converted into a commer
 * In the project, any content is not broadcast by me and the content received from different sources is directed to the support of IPTV players.
 
 # Last Update
-Updated on March 19, 2025.
+Updated on April 05, 2025.
