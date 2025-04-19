@@ -8,4 +8,4 @@
 * Paylaşımlar içerisinde herhangi bir ücretli platforma ait içerikler veya direkt ücretli içerikler bulunmamaktadır.
 
 # Son Güncelleme
-* 13 Nisan 2025 tarihinde güncelleme yapılmıştır.
+* 19 Nisan 2025 tarihinde güncelleme yapılmıştır.
