@@ -1,6 +1,5 @@
 # Güncel IPTV M3U Paylaşımı
 * Free-To-Air olarak nitelendirilen internetten ücretsiz olarak izlenebilen uydu yayınları için listeler oluşturup M3U klasöründe paylaşmaktayım.
-
 * Ticari bir eyleme dönüştürülmemesi şartıyla çalışmalarımı paylaşabilirsiniz.
 
 # Uyarılar
