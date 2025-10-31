@@ -3,43 +3,43 @@
 
 
 # * » ULUSAL « * #
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 | H
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 | HD
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 | E
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 | SD
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
-#EXTINF:-1 tvg-id="Now TV.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV | H
+#EXTINF:-1 tvg-id="Now TV.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV | HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV | E
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV | SD
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D | H
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D | HD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D | E
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D | SD
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV | H
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV | HD
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV | E
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV | SD
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV | H
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV | HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV | E
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV | SD
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV | H
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV | HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV | E
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV | SD
 http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV | H
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV | HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV | E
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV | SD
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8 | H
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8 | HD
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8 | E
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8 | SD
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Ulusal",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#EXTINF:-1 tvg-id="360TV.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV | H
+#EXTINF:-1 tvg-id="360TV.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV | HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV | E
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV | SD
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
@@ -108,29 +108,29 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNB
 
 
 # * » SPOR « * #
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor | H
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor | HD
 https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor | E
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor | SD
 http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="Spor" ,TRT Spor Yıldız
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
-#EXTINF:-1 tvg-name="BeIN SPOR HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORHABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN Sports Haber | H
+#EXTINF:-1 tvg-name="BeIN SPOR HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BeINSPORHABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Spor",BeIN Sports Haber | HD
 http://162.212.179.33/dvrfl05/gin-beinsportshaber/playlist.m3u8
-#EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",BeIN Sports Haber | E
+#EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",BeIN Sports Haber | SD
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor | H
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor | HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor | E
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor | SD
 http://stream.tvcdn.net/spor/a-spor.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV | H
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV | HD
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV | E
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV | SD
 http://stream.tvcdn.net/spor/sports-tv.m3u8
-#EXTINF:-1 tvg-id="HT Spor.tr" tvg-logo="https://www.htspor.com/images/manifest/192x192.png" group-title="Spor",HT Spor | H
+#EXTINF:-1 tvg-id="HT Spor.tr" tvg-logo="https://www.htspor.com/images/manifest/192x192.png" group-title="Spor",HT Spor | HD
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-id="HT Spor.tr" tvg-logo="https://www.htspor.com/images/manifest/192x192.png" group-title="Spor",HT Spor | E
+#EXTINF:-1 tvg-id="HT Spor.tr" tvg-logo="https://www.htspor.com/images/manifest/192x192.png" group-title="Spor",HT Spor | SD
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg",Ekol Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg" group-title="Spor",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
 
 
