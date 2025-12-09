@@ -151,6 +151,18 @@ http://stream.tvcdn.net/haber/dha-canli-2.m3u8
 
 
 # * » SPOR « * #
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-1" tvg-logo="" group-title="Spor",beIN Sports 1
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/sbeinsports-1/playlist.m3u8
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-2" tvg-logo="" group-title="Spor",beIN Sports 2
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/sbeinsports-2/playlist.m3u8
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-3" tvg-logo="" group-title="Spor",beIN Sports 3
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/sbeinsports-3/playlist.m3u8
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-4" tvg-logo="" group-title="Spor",beIN Sports 4
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.f6a7d976d724df.click/live/sbeinsports-4/playlist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/bbe065e2-ff43-4c9c-aec8-1734bd397daf.png" tvg-url="https://www.trtspor.com.tr/" tvg-id="TRTSpor.tr",TRT Spor
 https://streams.uzunmuhalefet.com/stream/dc23a8ec-c62f-47a2-ae23-e823a9851a1a.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
@@ -210,6 +222,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://streams.uzunmuhalefet.com/stream/6a6bce48-2365-49c8-bfb2-3fccdac9372e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="Film & Dizi",Super Türk TV
 http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Film & Dizi",Bir TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="Film & Dizi",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png" tvg-url="https://www.showmax.com.tr/" tvg-id="ShowMax.tr",Show Max
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://assets.uzunmuhalefet.com/logos/f401dbcd-970c-4a9d-9f8e-df4fb78a09f1.png" tvg-url="https://www.arzufilm.com.tr/" tvg-id="",Arzu Film
