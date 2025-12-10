@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [50Fps] +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ➤ BeIN Sports",BeIN Sports 1 [50Fps] +
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/855331.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD [ VIP ] +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ➤ BeIN Sports",beIN Sports 1 HD [ VIP ] +
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/873522.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD [ VIP ] " tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ➤ BeIN Sports",beIN Sports 1 HD [ VIP ] 
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/837269.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 FHD +" tvg-logo="https://i.hizliresim.com/lv7xi5y.png" group-title="TR ➤ BeIN Sports",BeIN Sports 1 FHD +
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/873523.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 FHD" tvg-logo="https://i.hizliresim.com/lv7xi5y.png" group-title="TR ➤ BeIN Sports",BeIN Sports 1 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/11.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ➤ BeIN Sports",beIN Sports 1 HD +
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/873521.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ➤ BeIN Sports",beIN Sports 1 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/65245.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 [Hevc] +" tvg-logo="https://i.ibb.co/KSbb72z/10.png" group-title="TR ➤ BeIN Sports",beIN Sports 1 [Hevc] +
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/855332.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 [Feed] +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ➤ BeIN Sports",beIN Sports 1 [Feed] +
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/849136.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 SD [ Mobile ]" tvg-logo="https://i.ibb.co/211GQmLJ/15.png" group-title="TR ➤ BeIN Sports",BeIN Sports 1 SD [ Mobile ]
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/126566.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BeIN Sports 2 FHD" tvg-logo="https://i.hizliresim.com/pstlj7z.png" group-title="TR ➤ BeIN Sports",BeIN Sports 2 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/181791.ts
+#EXTINF:-1 tvg-name="BeIN Sports 2 PLUS" tvg-logo="https://i.hizliresim.com/pstlj7z.png" group-title="TR ➤ BeIN Sports",BeIN Sports 2 PLUS
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/873525.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 HD" tvg-logo="https://i.hizliresim.com/pstlj7z.png" group-title="TR ➤ BeIN Sports",beIN Sports 2 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/19.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BeIN Sports 3 FHD" tvg-logo="https://i.ibb.co/VYVmHT2R/20.png" group-title="TR ➤ BeIN Sports",BeIN Sports 3 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/181792.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 HD" tvg-logo="https://i.ibb.co/MydcC94G/21.png" group-title="TR ➤ BeIN Sports",beIN Sports 3 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/20.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BeIN Sports 4 FHD" tvg-logo="https://i.ibb.co/N6bd8Mh4/23.png" group-title="TR ➤ BeIN Sports",BeIN Sports 4 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/181793.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 HD" tvg-logo="https://i.ibb.co/LzY1ZNmh/24.png" group-title="TR ➤ BeIN Sports",beIN Sports 4 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/25.ts
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="BeIN Sports 5 FHD" tvg-logo="https://i.ibb.co/fGMW3wPn/26.png" group-title="TR ➤ BeIN Sports",BeIN Sports 5 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/181794.ts
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="BeIN Sports 5 HD" tvg-logo="https://i.ibb.co/YBGhCbkh/9.png" group-title="TR ➤ BeIN Sports",BeIN Sports 5 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/131499.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports MAX 1 FHD" tvg-logo="https://i.ibb.co/dsskHf5m/27.png" group-title="TR ➤ BeIN Sports",beIN Sports MAX 1 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/181876.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports MAX 1 HD" tvg-logo="https://i.ibb.co/dsskHf5m/27.png" group-title="TR ➤ BeIN Sports",beIN Sports MAX 1 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/28.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports MAX 2 FHD" tvg-logo="https://i.hizliresim.com/rkv1bal.png" group-title="TR ➤ BeIN Sports",beIN Sports MAX 2 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/181877.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports MAX 2 HD" tvg-logo="https://i.hizliresim.com/rkv1bal.png" group-title="TR ➤ BeIN Sports",beIN Sports MAX 2 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/30.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN Sports HABER HD" tvg-logo="https://i.ibb.co/BHVcMCny/4.png" group-title="TR ➤ BeIN Sports",beIN Sports HABER HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/85258.ts
+#EXTINF:-1 tvg-name="S Sport FHD" tvg-logo="https://i.ibb.co/KjcXZDyQ/14.png" group-title="TR ➤ S Sport + Plus",S Sport FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866987.ts
+#EXTINF:-1 tvg-name="S Sport HD" tvg-logo="https://i.ibb.co/8gVH63FB/15.png" group-title="TR ➤ S Sport + Plus",S Sport HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866986.ts
+#EXTINF:-1 tvg-name="S Sport 2 FHD" tvg-logo="https://i.ibb.co/YTRnFCR6/16.png" group-title="TR ➤ S Sport + Plus",S Sport 2 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866989.ts
+#EXTINF:-1 tvg-name="S Sport 2 HD" tvg-logo="https://i.ibb.co/r2B3dMNt/17.png" group-title="TR ➤ S Sport + Plus",S Sport 2 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866988.ts
+#EXTINF:-1 tvg-name="S Spor + Plus FHD" tvg-logo="https://i.ibb.co/yFsjRhqb/18.png" group-title="TR ➤ S Sport + Plus",S Spor + Plus FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866990.ts
+#EXTINF:-1 tvg-name="S Spor + Plus 2 FHD" tvg-logo="https://i.ibb.co/1w3pxZ8/19.png" group-title="TR ➤ S Sport + Plus",S Spor + Plus 2 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866991.ts
+#EXTINF:-1 tvg-name="S Spor + Plus 3 FHDD" tvg-logo="https://i.ibb.co/svcqMhy6/20.png" group-title="TR ➤ S Sport + Plus",S Spor + Plus 3 FHDD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866992.ts
+#EXTINF:-1 tvg-name="S Spor + Plus 4 FHD" tvg-logo="https://i.ibb.co/60Wnyq17/21.png" group-title="TR ➤ S Sport + Plus",S Spor + Plus 4 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866993.ts
+#EXTINF:-1 tvg-name="S Spor + Plus 5 FHD" tvg-logo="https://i.ibb.co/60Wnyq17/21.png" group-title="TR ➤ S Sport + Plus",S Spor + Plus 5 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866994.ts
+#EXTINF:-1 tvg-name="S Spor + Plus 6 FHD" tvg-logo="https://i.ibb.co/60Wnyq17/21.png" group-title="TR ➤ S Sport + Plus",S Spor + Plus 6 FHD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866995.ts
+#EXTINF:-1 tvg-name="TR: S Sport 1 HD" tvg-logo="https://i.ibb.co/XxHc6GJD/15.png" group-title="TR ➤ S Sport + Plus",TR: S Sport 1 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866997.ts
+#EXTINF:-1 tvg-name="TR: S Sport 1 RAW" tvg-logo="https://i.ibb.co/KjcXZDyQ/14.png" group-title="TR ➤ S Sport + Plus",TR: S Sport 1 RAW
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866996.ts
+#EXTINF:-1 tvg-name="TR: S Sport 2 HD" tvg-logo="https://i.ibb.co/r2B3dMNt/17.png" group-title="TR ➤ S Sport + Plus",TR: S Sport 2 HD
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866999.ts
+#EXTINF:-1 tvg-name="TR: S Sport 2 RAW" tvg-logo="https://i.ibb.co/tTjJPJSS/16.png" group-title="TR ➤ S Sport + Plus",TR: S Sport 2 RAW
+http://smartersboss.xyz:80/live/ege150/saban12.vlk/866998.ts
