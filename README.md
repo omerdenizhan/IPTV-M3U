@@ -7,8 +7,8 @@
 * Farklı kaynaklardan alınarak derlenen proje çalışma dosyalarımı ticari bir eyleme dönüştürülmemesi şartıyla paylaşabilirsiniz.
 
 # Raw İndirme Linkleri
-* Genel Kanallar > https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
-* Spor Kanalları > https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye-spor.m3u
+* Global Kanallar https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
+* Spor Kanalları https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye-spor.m3u
 
 # Son Güncelleme
 * 11 Aralık 2025 tarihinde güncelleme yapılmıştır.
