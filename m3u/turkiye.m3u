@@ -2,69 +2,49 @@
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="Ulusal",TRT 1 | A
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="Ulusal",TRT 1 | B
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="Ulusal",TRT 1 | C
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="Now TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/nowtv.png" group-title="Ulusal",Now TV | A
 https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
-#EXTINF:-1 tvg-id="Now.tr" tvg-name="Now TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/nowtv.png" group-title="Ulusal",Now TV | B
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
-#EXTINF:-1 tvg-id="Now TV.tr" tvg-name="Now TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/nowtv.png" group-title="Ulusal",Now TV | C
+#EXTINF:-1 tvg-id="Now TV.tr" tvg-name="Now TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/nowtv.png" group-title="Ulusal",Now TV | B
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanald.png" group-title="Ulusal",Kanal D | A
 https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanald.png" group-title="Ulusal",Kanal D | B
-http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanald.png" group-title="Ulusal",Kanal D | C
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/star-tv-tr.png" group-title="Ulusal",Star TV | A
 https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/star-tv-tr.png" group-title="Ulusal",Star TV | B
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/star-tv-tr.png" group-title="Ulusal",Star TV | C
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/show-tr.png" group-title="Ulusal",Show TV | A
 https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/show-tr.png" group-title="Ulusal",Show TV | B
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/show-tr.png" group-title="Ulusal",Show TV | C
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atv-tr.png" group-title="Ulusal",ATV | A
 https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atv-tr.png" group-title="Ulusal",ATV | B
-http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atv-tr.png" group-title="Ulusal",ATV | C
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beyaz-tv-tr.png" group-title="Ulusal",Beyaz TV | A
 https://streams.uzunmuhalefet.com/stream/710fb148-7b3d-4ca2-b6c2-743097885a45.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beyaz-tv-tr.png" group-title="Ulusal",Beyaz TV | B
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beyaz-tv-tr.png" group-title="Ulusal",Beyaz TV | C
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-2-tr.png" group-title="Ulusal",TRT 2
 https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv8-tr.png" group-title="Ulusal",TV8 | A
 https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv8-tr.png" group-title="Ulusal",TV8 | B
-http://stream.tvcdn.net/ulusal/tv8.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv8-tr.png" group-title="Ulusal",TV8 | C
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv85-tr.png" group-title="Ulusal",TV 8.5 | A
 https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv85-tr.png" group-title="Ulusal",TV 8.5 | B
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanal7.png" group-title="Ulusal",Kanal 7 | A
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanal7.png" group-title="Ulusal",Kanal 7
 https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanal7.png" group-title="Ulusal",Kanal 7 | B
-http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="Haber",Sözcü TV | A
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="Haber",Sözcü TV | B
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/halk-tv-tr.png" group-title="Haber",Halk TV | A
 https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/halk-tv-tr.png" group-title="Haber",Halk TV | B
-http://stream.tvcdn.net/haber/halk-tv.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tele1-tr.png" group-title="Haber",Tele 1 | A
 https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tele1-tr.png" group-title="Haber",Tele 1 | B
@@ -77,22 +57,14 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulu
 https://streams.uzunmuhalefet.com/stream/aa1ae31d-1d61-44b2-b675-b74e3ff5c7fc.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-haber-tr.png" group-title="Haber",TRT Haber | B
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberturk-tr.png" group-title="Haber",Habertürk | A
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberturk-tr.png" group-title="Haber",Habertürk
 https://streams.uzunmuhalefet.com/stream/0c0bc91d-ce3a-49cc-9054-1cff110967c4.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberturk-tr.png" group-title="Haber",Habertürk | B
-http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/cnn-turk-tr.png" group-title="Haber",CNN Türk
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ntv-tr.png" group-title="Haber",NTV | A
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ntv-tr.png" group-title="Haber",NTV
 https://streams.uzunmuhalefet.com/stream/f27d4ced-d7e4-4d63-95b4-c47302cad618.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ntv-tr.png" group-title="Haber",NTV | B
-http://stream.tvcdn.net/haber/ntv.m3u8
-#EXTINF:-1 tvg-id="KRT.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/krt-tr.png" group-title="Haber",KRT TV | A
+#EXTINF:-1 tvg-id="KRT.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/krt-tr.png" group-title="Haber",KRT TV
 https://streams.uzunmuhalefet.com/stream/d474a997-0ba9-486e-a0c2-acc58cadf150.m3u8
-#EXTINF:-1 tvg-id="KRT TV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/krt-tr.png" group-title="Haber",KRT TV | B
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberglobal.png" group-title="Haber",Haber Global
-http://stream.tvcdn.net/haber/haber-global.m3u8
 #EXTINF:-1 tvg-id="EkolTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoltv.png" group-title="Haber",Ekol TV | A
 https://streams.uzunmuhalefet.com/stream/0665560a-c8a8-4087-bee6-9af26f226c90.m3u8
 #EXTINF:-1 tvg-id="Ekol TV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoltv.png" group-title="Haber",Ekol TV | B
@@ -113,20 +85,14 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://streams.uzunmuhalefet.com/stream/5fa3931d-88db-42b1-aac9-1006708bd3e8.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tbmm-tv-tr.png" group-title="Haber",TBMM TV | B
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 1 | A
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 1
 https://streams.uzunmuhalefet.com/stream/46e674ea-131a-4c9c-ba58-b04e64fdecbc.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 1 | B
-http://stream.tvcdn.net/haber/dha-canli-1.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 2 | A
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 2
 https://streams.uzunmuhalefet.com/stream/908e148d-71ea-4aaf-a984-845515890395.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 2 | B
-http://stream.tvcdn.net/haber/dha-canli-2.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-spor-tr.png" group-title="Spor",TRT Spor | A
 https://streams.uzunmuhalefet.com/stream/dc23a8ec-c62f-47a2-ae23-e823a9851a1a.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-spor-tr.png" group-title="Spor",TRT Spor | B
 https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-spor-tr.png" group-title="Spor",TRT Spor | C
-http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-spor-yildiz-tr.png" group-title="Spor",TRT Spor Yıldız | A
 https://streams.uzunmuhalefet.com/stream/978e9210-f530-44ae-99c8-8bdfc998b071.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-spor-yildiz-tr.png" group-title="Spor",TRT Spor Yıldız | B
@@ -137,28 +103,20 @@ https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
 https://streams.uzunmuhalefet.com/stream/5119d6e4-b347-4487-8704-f78e3027aa17.m3u8
 #EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-sports-haber-tr.png" group-title="Spor",BeIN Sports Haber | B
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-id="Spor_BeINSPORHABER" tvg-name="BeIN SPOR HABER" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-sports-haber-tr.png" group-title="Spor",BeIN Sports Haber | C
-http://162.212.179.33/dvrfl05/gin-beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor.png" group-title="Spor",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-spor-tr.png" group-title="Spor",A Spor | A
 https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-spor-tr.png" group-title="Spor",A Spor | B
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-spor-tr.png" group-title="Spor",A Spor | C
-http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sports-tv-tr.png" group-title="Spor",Sports TV | A
 https://streams.uzunmuhalefet.com/stream/fc7e93e6-d5e1-4a66-a1ad-5eaefaee388d.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sports-tv-tr.png" group-title="Spor",Sports TV | B
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sports-tv-tr.png" group-title="Spor",Sports TV | C
-http://stream.tvcdn.net/spor/sports-tv.m3u8
 #EXTINF:-1 tvg-id="HTSpor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png" group-title="Spor",HT Spor | A
 https://streams.uzunmuhalefet.com/stream/3aae30d4-6a42-46f1-9e7b-7524748a940b.m3u8
 #EXTINF:-1 tvg-id="HT Spor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png" group-title="Spor",HT Spor | B
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-id="HT Spor.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png" group-title="Spor",HT Spor | C
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png" group-title="Spor",Ekol Sports | A
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
 #EXTINF:-1 tvg-id="EkolSports.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png" group-title="Spor",Ekol Sports | B
@@ -193,9 +151,7 @@ https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3
 https://streams.uzunmuhalefet.com/stream/54fd8806-0142-4839-930e-aa1d662ad866.m3u8
 #EXTINF:-1 tvg-id="360TV.tr" tvg-name="360 TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/360-tr.png" group-title="Film - Dizi",360 TV | A
 https://streams.uzunmuhalefet.com/stream/90fefbea-4a78-4f02-962f-2e1e4ad22f98.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/360-tr.png" group-title="Film - Dizi",360 TV | B
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
-#EXTINF:-1 tvg-id="360TV.tr" tvg-name="360 TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/360-tr.png" group-title="Film - Dizi",360 TV | C
+#EXTINF:-1 tvg-id="360TV.tr" tvg-name="360 TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/360-tr.png" group-title="Film - Dizi",360 TV | B
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a2-tr.png" group-title="Film - Dizi",A2 | A
 https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8
@@ -211,10 +167,8 @@ https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivi6-tr.png" group-title="Film - Dizi",Tivi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png" group-title="Film - Dizi",Super Türk TV | A
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png" group-title="Film - Dizi",Super Türk TV
 https://streams.uzunmuhalefet.com/stream/6a6bce48-2365-49c8-bfb2-3fccdac9372e.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png" group-title="Film - Dizi",Super Türk TV | B
-http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 #EXTINF:-1 tvg-name="BIR TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/birtv.png" group-title="Film - Dizi",Bir TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="Film - Dizi",Tabii TV
@@ -239,10 +193,8 @@ https://streams.uzunmuhalefet.com/stream/7281ff5c-c2e1-4c75-8bd9-2141d3ac6824.m3
 https://streams.uzunmuhalefet.com/stream/a1c44406-1b5d-4366-abd3-7e829d391410.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/23261646-b494-438f-af29-e142bcb85863.png" group-title="Film - Dizi",Kemal Sunal Filmler ve Sahneler
 https://streams.uzunmuhalefet.com/stream/6d98fd2d-7f68-46b4-968a-fc4810fc041c.m3u8
-#EXTINF:-1 tvg-id="DiziTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png" group-title="Film - Dizi",Dizi Film TV | A
+#EXTINF:-1 tvg-id="DiziTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png" group-title="Film - Dizi",Dizi Film TV
 https://streams.uzunmuhalefet.com/stream/b63b0c43-c0c7-4d4c-bce1-add3c10ac09d.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png" group-title="Film - Dizi",Dizi Film TV | B
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/8c534c96-111b-4f41-8b87-43a705c32a6a.png" group-title="Film - Dizi",Dizi TDC
 https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae9a3c0-cc01-4dbd-a8c6-175c8b0dd287.png" group-title="Film - Dizi",Kuzeymax
