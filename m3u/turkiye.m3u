@@ -177,11 +177,11 @@ https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3
 https://streams.uzunmuhalefet.com/stream/93841168-9d59-43d0-9246-e04b64558b05.m3u8
 #EXTINF:-1 tvg-id="APara.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-para-tr.png" group-title="Ekonomi",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR ▎BEIN BOX OFFICE 1 HD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice1.png" group-title="Sinema",beın Box Office 1
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR ▎BEIN BOX OFFICE 1 HD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice1.png" group-title="Sinema",beIN Box Office 1
 http://65.108.239.207:80/box1/index.m3u8
-#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR ▎BEIN BOX OFFICE 2 HD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice2.png" group-title="Sinema",beın Box Office 2
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR ▎BEIN BOX OFFICE 2 HD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice2.png" group-title="Sinema",beIN Box Office 2
 http://65.108.239.207:80/box2/index.m3u8
-#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR ▎BEIN BOX OFFICE 3 HD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice3.png" group-title="Sinema",beın Box Office 3
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR ▎BEIN BOX OFFICE 3 HD" tvg-logo="https://img.logo-cdn.cc/beinboxoffice3.png" group-title="Sinema",beIN Box Office 3
 http://65.108.239.207:80/box3/index.m3u8
 #EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR ▎BEIN MOVIES ACTION HD" tvg-logo="https://img.logo-cdn.cc//beinmoviesactionhd.png" group-title="Sinema",beIN Movies Action
 http://65.108.239.207:80/bsaction1/index.m3u8
