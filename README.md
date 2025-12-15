@@ -1,5 +1,5 @@
 # Genel
-* "IPTV-M3U" isimli projemde Free-To-Air (FTA) olarak adlandırılan internetten ücretsiz olarak izlenebilen uydu yayınlarını izleyebilmeniz için listeler oluşturup M3U klasöründe güncel olarak paylaşmaktayım.
+* Bu projemde Free-To-Air (FTA) olarak adlandırılan internetten ücretsiz olarak izlenebilen uydu yayınlarını izleyebilmeniz için listeler oluşturup M3U klasöründe güncel olarak paylaşmaktayım.
 
 # Uyarılar
 * Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV oynatıcıların destekleyeceği şekilde dosya içeriği düzenlemesi yapılarak sunulmaktadır.
