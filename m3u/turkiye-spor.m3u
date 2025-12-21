@@ -1,179 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4K" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 4K
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4K" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4K
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162639&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᵁᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 1 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 (ᵁᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10698&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 FHD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 1 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 FHD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162637&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 1 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 (ᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10701&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 HD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 1 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 HD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162644&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᵁᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 2 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 (ᵁᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10697&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 FHD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 2 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 FHD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162636&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 2 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 (ᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10700&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 HD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 2 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 HD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162640&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᵁᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 3 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 (ᵁᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10696&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 FHD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 3 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 FHD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162635&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 3 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 (ᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10699&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 HD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 3 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 HD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162641&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᵁᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 4 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 (ᵁᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10695&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 FHD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 4 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 FHD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162634&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 4 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 (ᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=44446&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 HD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEINSPORT 4 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 HD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162642&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 (ᵁᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEiNSPORTS 5 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 (ᵁᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314885&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 FHD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEiNSPORTS 5 FHD
+#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 FHD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162638&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 (ᴴᴰ)" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEiNSPORTS 5 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 (ᴴᴰ)
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314886&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 HD" group-title="TR ⭐ SUNUCU 1 - BEIN SPORTS",|TR| BEiNSPORTS 5 HD
+#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 HD
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162643&extension=ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 1 HEVC
-http://eupars1.xyz:8080/08dues/9620paris/2197
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 1 FHD
-http://eupars1.xyz:8080/08dues/9620paris/2198
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 1 HD
-http://eupars1.xyz:8080/08dues/9620paris/2199
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 1 SD
-http://eupars1.xyz:8080/08dues/9620paris/2201
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 2 HEVC
-http://eupars1.xyz:8080/08dues/9620paris/2205
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 2 FHD
-http://eupars1.xyz:8080/08dues/9620paris/2206
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 2 HD
-http://eupars1.xyz:8080/08dues/9620paris/2207
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 3 HEVC
-http://eupars1.xyz:8080/08dues/9620paris/491883
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 3 FHD
-http://eupars1.xyz:8080/08dues/9620paris/2209
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 3 HD
-http://eupars1.xyz:8080/08dues/9620paris/2210
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 4 HEVC
-http://eupars1.xyz:8080/08dues/9620paris/491884
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 4 FHD
-http://eupars1.xyz:8080/08dues/9620paris/2212
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 4 HD
-http://eupars1.xyz:8080/08dues/9620paris/2213
-#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 5 HEVC
-http://eupars1.xyz:8080/08dues/9620paris/491885
-#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 5 FHD
-http://eupars1.xyz:8080/08dues/9620paris/210061
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS 5 HD
-http://eupars1.xyz:8080/08dues/9620paris/423873
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax1.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS MAX 1 FHD
-http://eupars1.xyz:8080/08dues/9620paris/2215
-#EXTINF:-1 tvg-name="BEIN SPORT MAX 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax1.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORT MAX 1 HD
-http://eupars1.xyz:8080/08dues/9620paris/551691
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax2.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS MAX 2 FHD
-http://eupars1.xyz:8080/08dues/9620paris/2217
-#EXTINF:-1 tvg-name="BEIN SPORT MAX 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax2.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORT MAX 2 HD
-http://eupars1.xyz:8080/08dues/9620paris/551689
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS HABER FHD
-http://eupars1.xyz:8080/08dues/9620paris/2194
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="TR ⭐ SUNUCU 2 - BEIN SPORTS",BEIN SPORTS HABER HD
-http://eupars1.xyz:8080/08dues/9620paris/2195
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 [50Fps] +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 [50 fps]
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/855331.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD [ VIP ] +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 HD [VIP] +
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/873522.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD [ VIP ] " tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 HD [VIP] 
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/837269.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 FHD +" tvg-logo="https://i.hizliresim.com/lv7xi5y.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 FHD +
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/873523.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 FHD" tvg-logo="https://i.hizliresim.com/lv7xi5y.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 FHD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/11.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 HD +
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/873521.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/65245.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 [Hevc] +" tvg-logo="https://i.ibb.co/KSbb72z/10.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 [Hevc]
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/855332.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 [Feed] +" tvg-logo="https://i.ibb.co/KxGRttW8/14.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 [Feed]
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/849136.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BeIN Sports 1 SD [ Mobile ]" tvg-logo="https://i.ibb.co/211GQmLJ/15.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 1 SD [Mobile]
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/126566.ts
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BeIN Sports 2 FHD" tvg-logo="https://i.hizliresim.com/pstlj7z.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 2 FHD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/181791.ts
-#EXTINF:-1 tvg-name="BeIN Sports 2 PLUS" tvg-logo="https://i.hizliresim.com/pstlj7z.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 2 PLUS
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/873525.ts
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 HD" tvg-logo="https://i.hizliresim.com/pstlj7z.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 2 HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/19.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BeIN Sports 3 FHD" tvg-logo="https://i.ibb.co/VYVmHT2R/20.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 3 FHD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/181792.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 HD" tvg-logo="https://i.ibb.co/MydcC94G/21.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 3 HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/20.ts
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BeIN Sports 4 FHD" tvg-logo="https://i.ibb.co/N6bd8Mh4/23.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 4 FHD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/181793.ts
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 HD" tvg-logo="https://i.ibb.co/LzY1ZNmh/24.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 4 HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/25.ts
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="BeIN Sports 5 FHD" tvg-logo="https://i.ibb.co/fGMW3wPn/26.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 5 FHD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/181794.ts
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="BeIN Sports 5 HD" tvg-logo="https://i.ibb.co/YBGhCbkh/9.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports 5 HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/131499.ts
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports MAX 1 FHD" tvg-logo="https://i.ibb.co/dsskHf5m/27.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports MAX 1 FHD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/181876.ts
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports MAX 1 HD" tvg-logo="https://i.ibb.co/dsskHf5m/27.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports MAX 1 HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/28.ts
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports MAX 2 FHD" tvg-logo="https://i.hizliresim.com/rkv1bal.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports MAX 2 FHD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/181877.ts
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports MAX 2 HD" tvg-logo="https://i.hizliresim.com/rkv1bal.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports MAX 2 HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/30.ts
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN Sports HABER HD" tvg-logo="https://i.ibb.co/BHVcMCny/4.png" group-title="TR ⭐ SUNUCU 3 - BEIN SPORTS",beIN Sports HABER HD
-http://smartersboss.xyz:80/live/ege150/saban12.vlk/85258.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 1 HEVC
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2197
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 1 FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2198
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 1 HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2199
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 1 SD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2201
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 2 HEVC
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2205
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 2 FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2206
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 2 HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2207
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 3 HEVC
-http://s1.eldest99.xyz:8080/Balina34/paris1849/491883
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 3 FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2209
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 3 HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2210
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 4 HEVC
-http://s1.eldest99.xyz:8080/Balina34/paris1849/491884
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 4 FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2212
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 4 HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2213
-#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 5 HEVC
-http://s1.eldest99.xyz:8080/Balina34/paris1849/491885
-#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 5 FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/210061
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS 5 HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/423873
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax1.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS MAX 1 FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2215
-#EXTINF:-1 tvg-name="BEIN SPORT MAX 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax1.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORT MAX 1 HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/551691
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax2.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS MAX 2 FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2217
-#EXTINF:-1 tvg-name="BEIN SPORT MAX 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax2.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORT MAX 2 HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/551689
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS HABER FHD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2194
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="TR ⭐ SUNUCU 4 - BEIN SPORTS",BEIN SPORTS HABER HD
-http://s1.eldest99.xyz:8080/Balina34/paris1849/2195
