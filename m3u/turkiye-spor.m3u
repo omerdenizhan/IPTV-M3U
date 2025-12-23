@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="|TR| TRT SPOR ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | A
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170679&extension=ts
-#EXTINF:-1 tvg-name="|TR|  TRT SPOR ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | B
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196810&extension=ts
-#EXTINF:-1 tvg-name="|TR| TRT SPOR" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | C
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10783&extension=ts
-#EXTINF:-1 tvg-name="|TR| TRT SPOR YILDIZ ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR YILDIZ | A
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170680&extension=ts
-#EXTINF:-1 tvg-name="|TR|  TRT SPOR YILDIZ ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR YILDIZ | B
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196815&extension=ts
-#EXTINF:-1 tvg-name="|TR| A SPOR ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| A SPOR | A
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170678&extension=ts
-#EXTINF:-1 tvg-name="|TR|  A SPOR ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| A SPOR | B
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196803&extension=ts
-#EXTINF:-1 tvg-name="|TR| GS TV ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| HT SPOR
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314797&extension=ts
-#EXTINF:-1 tvg-name="|TR| FB TV ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| FB TV
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314796&extension=ts
-#EXTINF:-1 tvg-name="|TR| CBC SPORT ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| EKOL SPORTS
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314887&extension=ts
 #EXTINF:-1 tvg-name="|TR|  BEIN SPORTS HABER ᴴᴰ" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS HABER
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196816&extension=ts
 #EXTINF:-1 tvg-name="|TR| BEINSPORT 4K" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 4K
@@ -167,3 +147,23 @@ http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314801&extensio
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196844&extension=ts
 #EXTINF:-1 tvg-name="|TR|  EUROSPORT 2 ᴴᴰ" group-title="TR ⭐ EURO SPORT",|TR| EUROSPORT 2
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196845&extension=ts
+#EXTINF:-1 tvg-name="|TR| TRT SPOR ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170679&extension=ts
+#EXTINF:-1 tvg-name="|TR|  TRT SPOR ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196810&extension=ts
+#EXTINF:-1 tvg-name="|TR| TRT SPOR" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | C
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10783&extension=ts
+#EXTINF:-1 tvg-name="|TR| TRT SPOR YILDIZ ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR YILDIZ | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170680&extension=ts
+#EXTINF:-1 tvg-name="|TR|  TRT SPOR YILDIZ ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR YILDIZ | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196815&extension=ts
+#EXTINF:-1 tvg-name="|TR| A SPOR ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| A SPOR | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170678&extension=ts
+#EXTINF:-1 tvg-name="|TR|  A SPOR ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| A SPOR | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196803&extension=ts
+#EXTINF:-1 tvg-name="|TR| GS TV ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| HT SPOR
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314797&extension=ts
+#EXTINF:-1 tvg-name="|TR| FB TV ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| FB TV
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314796&extension=ts
+#EXTINF:-1 tvg-name="|TR| CBC SPORT ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| EKOL SPORTS
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314887&extension=ts
