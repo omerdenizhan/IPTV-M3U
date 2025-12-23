@@ -1,43 +1,169 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4K" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4K
+#EXTINF:-1 tvg-name="|TR| TRT SPOR ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170679&extension=ts
+#EXTINF:-1 tvg-name="|TR|  TRT SPOR ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196810&extension=ts
+#EXTINF:-1 tvg-name="|TR| TRT SPOR" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR | C
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10783&extension=ts
+#EXTINF:-1 tvg-name="|TR| TRT SPOR YILDIZ ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR YILDIZ | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170680&extension=ts
+#EXTINF:-1 tvg-name="|TR|  TRT SPOR YILDIZ ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| TRT SPOR YILDIZ | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196815&extension=ts
+#EXTINF:-1 tvg-name="|TR| A SPOR ᵁᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| A SPOR | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170678&extension=ts
+#EXTINF:-1 tvg-name="|TR|  A SPOR ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| A SPOR | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196803&extension=ts
+#EXTINF:-1 tvg-name="|TR| GS TV ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| HT SPOR
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314797&extension=ts
+#EXTINF:-1 tvg-name="|TR| FB TV ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| FB TV
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314796&extension=ts
+#EXTINF:-1 tvg-name="|TR| CBC SPORT ᴴᴰ" group-title="TR ⭐ GLOBAL",|TR| EKOL SPORTS
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314887&extension=ts
+#EXTINF:-1 tvg-name="|TR|  BEIN SPORTS HABER ᴴᴰ" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS HABER
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196816&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4K" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 4K
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162639&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 1 | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10698&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 FHD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 1 | B
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162637&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 1 | C
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10701&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 1 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 1 HD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 1 | D
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162644&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 2 | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10697&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 FHD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 2 | B
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162636&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 2 | C
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10700&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 2 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 2 HD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 2 | D
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162640&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 3 | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10696&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 FHD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 3 | B
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162635&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 3 | C
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10699&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 3 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 3 HD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 3 | D
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162641&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 (ᵁᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 4 | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10695&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 FHD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 FHD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 4 | B
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162634&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 4 | C
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=44446&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEINSPORT 4 HD
+#EXTINF:-1 tvg-name="|TR| BEINSPORT 4 HD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 4 | D
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162642&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 (ᵁᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 (ᵁᴴᴰ)
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314885&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 FHD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 FHD
+#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 FHD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 5 | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162638&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 (ᴴᴰ)
+#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 (ᴴᴰ)" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 5 | B
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314886&extension=ts
-#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 HD" group-title="TR ⭐ BEIN SPORTS - SUNUCU 1",|TR| BEiNSPORTS 5 HD
+#EXTINF:-1 tvg-name="|TR| BEiNSPORTS 5 HD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS 5 | C
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1162643&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN SPORTS MAX 1 FHD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS MAX 1 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196272&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN SPORTS MAX 1 ᴴᴰ" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS MAX 1 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196273&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN SPORTS MAX 2 FHD" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS MAX 2 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196274&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN SPORT MAX  2 ᴴᴰ" group-title="TR ⭐ BEIN SPORTS",|TR| BEIN SPORTS MAX 2 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=44443&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 1 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 1 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157112&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 1 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 1 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157111&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 2 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 2 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157114&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 2 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 2 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157113&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 3 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 3 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157116&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 3 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 3 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157115&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 4 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 4 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157117&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 5 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 5 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157118&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 6 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 6
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157119&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 7 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 7
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157120&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 8 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 8
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=157121&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 9 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 9
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=283468&extension=ts
+#EXTINF:-1 tvg-name="|TR| EXXEN SPORT 10 ᴴᴰ" group-title="TR ⭐ EXXEN SPORT",|TR| EXXEN SPORT 10
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=283469&extension=ts
+#EXTINF:-1 tvg-name="TABii SPOR FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1195377&extension=ts
+#EXTINF:-1 tvg-name="TABii SPOR HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1195376&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 1 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 1 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121579&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 1 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 1 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121578&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 2 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 2 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121577&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 2 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 2 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121576&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 3 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 3 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121575&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 3 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 3 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121574&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 4 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 4 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121573&extension=ts
+#EXTINF:-1 tvg-name="|TR||TR|TABii SPOR 4 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 4 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121572&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 5 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 5 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121571&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 5 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 5 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121570&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 6 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 6 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121569&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 6 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 6 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121568&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 7 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 7 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121567&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 7 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 7 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121566&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 8 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 8 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121565&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 8 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 8 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121564&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 9 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 9 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121563&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 9 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 9 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121562&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 10 FHD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 10 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121561&extension=ts
+#EXTINF:-1 tvg-name="|TR|TABii SPOR 10 HD" group-title="TR ⭐ TABii SPOR",|TR| TABii SPOR 10 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=1121560&extension=ts
+#EXTINF:-1 tvg-name="|TR|  TIVIBU SPOR ᴴᴰ" group-title="TR ⭐ TiViBU SPOR",|TR| TiViBU SPOR 1
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196862&extension=ts
+#EXTINF:-1 tvg-name="|TR| TIVIBU SPOR 2 ᴴᴰ" group-title="TR ⭐ TiViBU SPOR",|TR| TiViBU SPOR 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=54287&extension=ts
+#EXTINF:-1 tvg-name="|TR| TIVIBU SPOR 3 ᴴᴰ" group-title="TR ⭐ TiViBU SPOR",|TR| TiViBU SPOR 3
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=54288&extension=ts
+#EXTINF:-1 tvg-name="|TR|  S SPORT ᴴᴰ" group-title="TR ⭐ S-SPORT",|TR| S-SPORT | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196856&extension=ts
+#EXTINF:-1 tvg-name="|TR| S-SPORT" group-title="TR ⭐ S-SPORT",|TR| S-SPORT | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10689&extension=ts
+#EXTINF:-1 tvg-name="|TR| S SPORT+2 MAC SAATI" group-title="TR ⭐ S-SPORT",|TR| S-SPORT 2 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170687&extension=ts
+#EXTINF:-1 tvg-name="|TR|  S SPORT2 ᴴᴰ" group-title="TR ⭐ S-SPORT",|TR| S-SPORT 2 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196857&extension=ts
+#EXTINF:-1 tvg-name="|TR| SPOR SMART ᵁᴴᴰ" group-title="TR ⭐ SPOR SMART",|TR| SPOR SMART | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170681&extension=ts
+#EXTINF:-1 tvg-name="|TR|  SPORSMART ᴴᴰ" group-title="TR ⭐ SPOR SMART",|TR| SPOR SMART | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196858&extension=ts
+#EXTINF:-1 tvg-name="|TR| SMART SPOR 1" group-title="TR ⭐ SPOR SMART",|TR| SPOR SMART | C
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10688&extension=ts
+#EXTINF:-1 tvg-name="|TR|  SPORSMART 2 ᴴᴰ" group-title="TR ⭐ SPOR SMART",|TR| SPOR SMART 2 | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196859&extension=ts
+#EXTINF:-1 tvg-name="|TR| HAM | SMARTSPOR 2 ᴴᴰ" group-title="TR ⭐ SPOR SMART",|TR| SPOR SMART 2 | B
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314801&extension=ts
+#EXTINF:-1 tvg-name="|TR|  EUROSPORT 1 ᴴᴰ" group-title="TR ⭐ EURO SPORT",|TR| EUROSPORT 1
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196844&extension=ts
+#EXTINF:-1 tvg-name="|TR|  EUROSPORT 2 ᴴᴰ" group-title="TR ⭐ EURO SPORT",|TR| EUROSPORT 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196845&extension=ts
