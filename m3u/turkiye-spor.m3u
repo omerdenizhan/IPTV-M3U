@@ -227,9 +227,9 @@ http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196815&extensio
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170678&extension=ts
 #EXTINF:-1 tvg-name="|TR|  A SPOR ᴴᴰ" group-title="TR ⭐ GLOBAL",A SPOR | B
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196803&extension=ts
+#EXTINF:-1 tvg-name="|TR| CBC SPORT ᴴᴰ" group-title="TR ⭐ GLOBAL",EKOL SPORTS
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314887&extension=ts
 #EXTINF:-1 tvg-name="|TR| GS TV ᴴᴰ" group-title="TR ⭐ GLOBAL",HT SPOR
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314797&extension=ts
 #EXTINF:-1 tvg-name="|TR| FB TV ᴴᴰ" group-title="TR ⭐ GLOBAL",FB TV
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314796&extension=ts
-#EXTINF:-1 tvg-name="|TR| CBC SPORT ᴴᴰ" group-title="TR ⭐ GLOBAL",EKOL SPORTS
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314887&extension=ts
