@@ -11,4 +11,4 @@
 * Spor Kanalları https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye-spor.m3u
 
 # Son Güncelleme
-* 24 Aralık 2025 tarihinde güncelleme yapılmıştır.
+* 25 Aralık 2025 tarihinde güncelleme yapılmıştır.
