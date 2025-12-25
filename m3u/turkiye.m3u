@@ -3,9 +3,7 @@
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196784&extension=ts
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="TR ⭐ ULUSAL",TRT 1 | B
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="TR ⭐ ULUSAL",TRT 1 | C
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR ▎TRT 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="TR ⭐ ULUSAL",TRT 1 | D
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR ▎TRT 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="TR ⭐ ULUSAL",TRT 1 | C
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="|TR| FOX TV ᵁᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/nowtv.png" group-title="TR ⭐ ULUSAL",NOW | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170660&extension=ts
@@ -271,6 +269,130 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
 https://streams.uzunmuhalefet.com/stream/e71f5266-932f-4348-a530-ee3a48520e3e.m3u8
 #EXTINF:-1 tvg-name="|TR| FB TV ᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/FB.TV.eno.png" group-title="TR ⭐ SPOR",FB TV
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314796&extension=ts
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e TR" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/CNBC-e.png" group-title="TR ⭐ EKONOMİ",CNBC-e TR | A
+https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e TR" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/CNBC-e.png" group-title="TR ⭐ EKONOMİ",CNBC-e TR | B
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
+#EXTINF:-1 tvg-name="|TR|  BLOOMBERGHT ᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png" group-title="TR ⭐ EKONOMİ",BLOOMBERG HT | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196806&extension=ts
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png" group-title="TR ⭐ EKONOMİ",BLOOMBERG HT | B
+https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8
+#EXTINF:-1 tvg-name="|TR|  A PARA ᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-para-tr.png" group-title="TR ⭐ EKONOMİ",A PARA | A
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196802&extension=ts
+#EXTINF:-1 tvg-id="APara.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-para-tr.png" group-title="TR ⭐ EKONOMİ",A PARA | B
+https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png" group-title="TR ⭐ EKONOMİ",FİNANS TÜRK
+https://streams.uzunmuhalefet.com/stream/93841168-9d59-43d0-9246-e04b64558b05.m3u8
+#EXTINF:-1 tvg-name="|TR| EKOTURK ᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoturk-tr.png" group-title="TR ⭐ EKONOMİ",EKOTÜRK
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314426&extension=ts
+#EXTINF:-1 tvg-name="|TR|  MOVIE PREMIUM ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN MOVIES PREMIERE HD
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196823&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN MOVIES PREMIER ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN MOVIES PREMIERE
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170506&extension=ts
+#EXTINF:-1 tvg-name="|TR|  MOVIE PREMIUM 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN MOVIES PREMIERE 2 HD
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196824&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN MOVIES PREMIERE 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN MOVIES PREMIERE 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170507&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN MOVIES ACTION 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN MOVIES ACTION 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170505&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN MOVIES STARS ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN MOVIES STARS HD
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170508&extension=ts
+#EXTINF:-1 tvg-name="|TR|  BEIN SERIES VICE ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN SERIES 1 HD
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170514&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN SERIES SCFI ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN SERIES 2 HD
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170512&extension=ts
+#EXTINF:-1 tvg-name="|TR| BEIN SERIES COMEDY ᴴᴰ" group-title="TR ⭐ SİNEMA",BEIN SERIES 4 HD
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170510&extension=ts
+#EXTINF:-1 tvg-name="|TR|  SİNEMA TV ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196834&extension=ts
+#EXTINF:-1 tvg-name="|TR|  SİNEMA 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196827&extension=ts
+#EXTINF:-1 tvg-name="|TR| SINEMA AKSIYON ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV AKSİYON
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=201709&extension=ts
+#EXTINF:-1 tvg-name="|TR|   SINEMA TV ACTION 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV AKSİYON 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151767&extension=ts
+#EXTINF:-1 tvg-name="|TR|   SINEMA TV 1001 ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV 1001
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151764&extension=ts
+#EXTINF:-1 tvg-name="|TR|   SINEMA TV 1002 ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV 1002
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151765&extension=ts
+#EXTINF:-1 tvg-name="|TR| SINEMA TV AILE ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV AİLE
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10705&extension=ts
+#EXTINF:-1 tvg-name="|TR|   SINEMA TV AILE 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV AİLE 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151770&extension=ts
+#EXTINF:-1 tvg-name="|TR|   SINEMA TV KOMEDI ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV KOMEDİ
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151772&extension=ts
+#EXTINF:-1 tvg-name="|TR|  SİNEMA KOMEDİ 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV KOMEDİ 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196833&extension=ts
+#EXTINF:-1 tvg-name="|TR|   SINEMA TV YERLI 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",SİNEMA TV YERLİ 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151775&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX PLUS ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX PLUS
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151792&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Premier ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX PREMIER
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151784&extension=ts
+#EXTINF:-1 tvg-name="|TR|    MAX Aksiyon ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX AKSİYON 1
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151783&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Aksiyon 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX AKSİYON 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151785&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Orjinal ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX ORJİNAL
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151795&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Vizyon ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX VİZYON 1
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151786&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Vizyon 2 ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX VİZYON 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151787&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Vizyon 3 ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX VİZYON 3
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151788&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Vizyon 4 ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX VİZYON 4
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151789&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX GOLD ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX GOLD
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151791&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX TURK ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX TURK
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151790&extension=ts
+#EXTINF:-1 tvg-name="|TR|   MAX Western ᴴᴰ" group-title="TR ⭐ SİNEMA",MAX WESTERN
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151797&extension=ts
+#EXTINF:-1 tvg-name="|TR| DIZI SMART MAX ᴴᴰ" group-title="TR ⭐ SİNEMA",DİZİSMART MAX
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151777&extension=ts
+#EXTINF:-1 tvg-name="|TR| MOVIESMART PREMIUM ᴴᴰ" group-title="TR ⭐ SİNEMA",DİZİSMART PREMIUM
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=27830&extension=ts
+#EXTINF:-1 tvg-name="|TR| LIVING CINEMAX 1" group-title="TR ⭐ SİNEMA",LIVING CINEMAX 1
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314939&extension=ts
+#EXTINF:-1 tvg-name="|TR| LIVING CINEMAX 2" group-title="TR ⭐ SİNEMA",LIVING CINEMAX 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314938&extension=ts
+#EXTINF:-1 tvg-name="|TR| LIVING CINEMAX 3" group-title="TR ⭐ SİNEMA",LIVING CINEMAX 3
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314937&extension=ts
+#EXTINF:-1 tvg-name="|TR| LIVING CINEMAX 4" group-title="TR ⭐ SİNEMA",LIVING CINEMAX 4
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314936&extension=ts
+#EXTINF:-1 tvg-name="|TR| LIVING CINEMAX 5" group-title="TR ⭐ SİNEMA",LIVING CINEMAX 5
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314935&extension=ts
+#EXTINF:-1 tvg-name="|TR| LIVING KEMAL SUNAL" group-title="TR ⭐ SİNEMA",LIVING KEMAL SUNAL
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314931&extension=ts
+#EXTINF:-1 tvg-name="|TR| LIVING WESTERN" group-title="TR ⭐ SİNEMA",LIVING WESTERN
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314933&extension=ts
+#EXTINF:-1 tvg-name="|TR|  ANIMATION 1 ᴴᴰ" group-title="TR ⭐ SİNEMA",REDBOX ANIMATION 1
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151991&extension=ts
+#EXTINF:-1 tvg-name="|TR|  ANIMATION  2 ᴴᴰ" group-title="TR ⭐ SİNEMA",REDBOX ANIMATION 2
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151992&extension=ts
+#EXTINF:-1 tvg-name="|TR| YESILCAM SINEMA" group-title="TR ⭐ SİNEMA",REDBOX YEŞİLÇAM
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151819&extension=ts
+#EXTINF:-1 tvg-name="|TR|  FX ᴴᴰ" group-title="TR ⭐ SİNEMA",FX
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196847&extension=ts
+#EXTINF:-1 tvg-name="|TR|  FILMBOX ᴴᴰ" group-title="TR ⭐ SİNEMA",FILM SCREEN
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=151780&extension=ts
+#EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="TR ⭐ SİNEMA",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivi6-tr.png" group-title="TR ⭐ SİNEMA",TİVİ6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png" group-title="TR ⭐ SİNEMA",SÜPER TÜRK TV
+https://streams.uzunmuhalefet.com/stream/6a6bce48-2365-49c8-bfb2-3fccdac9372e.m3u8
+#EXTINF:-1 tvg-name="BIR TV" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/birtv.png" group-title="TR ⭐ SİNEMA",BİR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/show-max-tr.png" group-title="TR ⭐ SİNEMA",SHOW MAX
+https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
+#EXTINF:-1 tvg-id="DiziTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png" group-title="TR ⭐ SİNEMA",DİZİ/FİLM TV
+https://streams.uzunmuhalefet.com/stream/b63b0c43-c0c7-4d4c-bce1-add3c10ac09d.m3u8
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/8c534c96-111b-4f41-8b87-43a705c32a6a.png" group-title="TR ⭐ SİNEMA",DİZİ TDC
+https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae9a3c0-cc01-4dbd-a8c6-175c8b0dd287.png" group-title="TR ⭐ SİNEMA",KUZEYMAX
+https://streams.uzunmuhalefet.com/stream/4542f8b9-5c6c-4ef1-aa87-48c0f991fe73.m3u8
 #EXTINF:-1 tvg-name="|TR| TRT BELGESEL ᵁᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL",TRT BELGESEL | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170685&extension=ts
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL",TRT BELGESEL | B
@@ -315,22 +437,6 @@ https://streams.uzunmuhalefet.com/stream/e71083cf-eb54-408b-8aba-d66690520801.m3
 https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/toprak-tv-tr.png" group-title="TR ⭐ BELGESEL",TOPRAK TV
 https://streams.uzunmuhalefet.com/stream/54fd8806-0142-4839-930e-aa1d662ad866.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e TR" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/CNBC-e.png" group-title="TR ⭐ EKONOMİ",CNBC-e TR | A
-https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e TR" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/CNBC-e.png" group-title="TR ⭐ EKONOMİ",CNBC-e TR | B
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-#EXTINF:-1 tvg-name="|TR|  BLOOMBERGHT ᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png" group-title="TR ⭐ EKONOMİ",BLOOMBERG HT | A
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196806&extension=ts
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png" group-title="TR ⭐ EKONOMİ",BLOOMBERG HT | B
-https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8
-#EXTINF:-1 tvg-name="|TR|  A PARA ᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-para-tr.png" group-title="TR ⭐ EKONOMİ",A PARA | A
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=196802&extension=ts
-#EXTINF:-1 tvg-id="APara.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a-para-tr.png" group-title="TR ⭐ EKONOMİ",A PARA | B
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png" group-title="TR ⭐ EKONOMİ",FİNANS TÜRK
-https://streams.uzunmuhalefet.com/stream/93841168-9d59-43d0-9246-e04b64558b05.m3u8
-#EXTINF:-1 tvg-name="|TR| EKOTURK ᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoturk-tr.png" group-title="TR ⭐ EKONOMİ",EKOTÜRK
-http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314426&extension=ts
 #EXTINF:-1 tvg-name="|TR| TRT TURK ᵁᴴᴰ" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-turk-tr.png" group-title="TR ⭐ ULUSAL YURT DIŞI",TRT TÜRK | A
 http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=170669&extension=ts
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-turk-tr.png" group-title="TR ⭐ ULUSAL YURT DIŞI",TRT TÜRK | B
