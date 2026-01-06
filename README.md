@@ -8,7 +8,6 @@
 
 # Raw İndirme Linkleri
 * Global Kanallar https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
-* Spor Kanalları https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye-spor.m3u
 
 # Son Güncelleme
 * 06 Ocak 2026 tarihinde güncelleme yapılmıştır.
