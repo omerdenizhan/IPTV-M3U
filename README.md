@@ -10,4 +10,4 @@
 * Global Kanallar https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
 
 # Son Güncelleme
-* 06 Ocak 2026 tarihinde güncelleme yapılmıştır.
+* 07 Ocak 2026 tarihinde güncelleme yapılmıştır.
