@@ -1,3 +1,4 @@
+# IPTV M3U Çalışması
 ## Genel
 * Bu çalışmamda Free-To-Air (FTA) olarak adlandırılan abonelik gerektirmeyen içerikler sağlayan kanal ve yayıncılara ait internetten ücretsiz olarak izlenebilen uydu yayınlarını izleyebilmeniz için listeler oluşturup M3U klasöründe güncel olarak paylaşmaktayım.
 
