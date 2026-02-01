@@ -553,9 +553,9 @@ https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL 💵",TRT BELGESEL | D
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/disney-channel-tr.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY CHANNEL | A
+#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY CHANNEL | A
 http://ikidilimpeyazpeynir.duckdns.org/index.php?id=110611&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/disney-channel-tr.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY CHANNEL | B
+#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY CHANNEL | B
 http://ikidilimpeyazpeynir.duckdns.org/index.php?id=488&token=DeaTHLesS
 #EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE QHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY ID | A
 http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120769&token=DeaTHLesS
