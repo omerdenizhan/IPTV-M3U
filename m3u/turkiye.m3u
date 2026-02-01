@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
-#EXTINF:-1 tvg-name="TR: TRT 4K" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt4k.png" group-title="TR ⭐ ULUSAL",TRT 4K | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=244&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: TRT 4K 2160P" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt4k.png" group-title="TR ⭐ ULUSAL",TRT 4K | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=245&token=DeaTHLesS
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="TR ⭐ ULUSAL",TRT 1 | A
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR ▎TRT 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-1-tr.png" group-title="TR ⭐ ULUSAL",TRT 1 | B
@@ -80,9 +76,9 @@ https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanal7.png" group-title="TR ⭐ ULUSAL",KANAL 7 | B
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="TR ⭐ HABER",SÖZCÜ TV | A
-http://65.108.239.207:80/sozcutv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="TR ⭐ HABER",SÖZCÜ TV | B
 https://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="TR ⭐ HABER",SÖZCÜ TV | B
+http://65.108.239.207:80/sozcutv/index.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/halk-tv-tr.png" group-title="TR ⭐ HABER",HALK TV | A
 https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/halk-tv-tr.png" group-title="TR ⭐ HABER",HALK TV | B
@@ -213,70 +209,6 @@ https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 https://streams.uzunmuhalefet.com/stream/aefc429a-87c3-44f1-9caa-6687f04515b8.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/c49e30f3-5917-452e-93ae-56886a8e8b04.png" group-title="TR ⭐ SPOR",FB TV | B
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="TR: PXS 4K" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=106810&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: PXS 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=116091&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (HEVC)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | C
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=349693&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (1080)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | D
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=362212&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (720)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | E
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=286&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | F
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=361367&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | G
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=405957&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN CONNECT 5 " tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | H
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=285967&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (640)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | I
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=222303&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (576)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | J
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=117044&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (480)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | K
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=349694&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (360)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | L
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=349695&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (SUPERONLINE)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | M
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=349722&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 1 (TTNET)" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 1 | N
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=460531&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 2 | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=289&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 2 | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=262&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN CONNECT 2 " tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports2.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 2 | C
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=117041&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: PXS 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 3 | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=126525&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 3 | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=290&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 3 | C
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=263&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN CONNECT 3 " tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports3.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 3 | D
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=117042&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: PXS 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 4 | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=125160&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 4 | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=291&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports4.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 4 | C
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=264&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 5 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 5 | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=117043&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT 5 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports5.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS 5 | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=290639&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS MAX 1 | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=292&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT MAX 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax1.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS MAX 1 | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=265&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT MAX 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax2.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS MAX 2 | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=293&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT MAX 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportsmax2.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS MAX 2 | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=266&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: b**N SPORTS HABER QHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS HABER | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=114869&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN SPORT HABER HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="TR ⭐ SPOR 💵",BEIN SPORTS HABER | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=285&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/3bba3430-fddc-4660-be57-2d84318c6d7c.png" group-title="TR ⭐ DİZİ & FİLM",SDM SİNEMA KEYFİ | A
 https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/3bba3430-fddc-4660-be57-2d84318c6d7c.png" group-title="TR ⭐ DİZİ & FİLM",SDM SİNEMA KEYFİ | B
@@ -295,345 +227,25 @@ https://streams.uzunmuhalefet.com/stream/b63b0c43-c0c7-4d4c-bce1-add3c10ac09d.m3
 https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae9a3c0-cc01-4dbd-a8c6-175c8b0dd287.png" group-title="TR ⭐ DİZİ & FİLM",KUZEYMAX
 https://streams.uzunmuhalefet.com/stream/4542f8b9-5c6c-4ef1-aa87-48c0f991fe73.m3u8
-#EXTINF:-1 tvg-name="TR: SINEMA TV HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=358&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=359&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV ACTION HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV ACTION
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=360&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV AILE HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV AİLE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=362&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV AILE 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV AİLE 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=363&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV 1001 HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV 1001
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=368&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV 1002 HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV 1002
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=369&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV KOMEDI HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV KOMEDİ
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=364&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV KOMEDI 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV KOMEDİ 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=365&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: SINEMA TV YERLI  HD" group-title="TR ⭐ DİZİ & FİLM 💵",SİNEMA TV YERLİ
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=366&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",BEIN BOX OFFICE 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=362968&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",BEIN BOX OFFICE 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=362969&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 3 HD" group-title="TR ⭐ DİZİ & FİLM 💵",BEIN BOX OFFICE 3
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=362970&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: b**N M0VIES P*EMIER HD" group-title="TR ⭐ DİZİ & FİLM 💵",BEIN MOVIES PREMIERE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=312&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: b**N MOVIES P*EMIERE 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",BEIN MOVIES PREMIERE 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=317&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: b**N M0VIES TURK HD" group-title="TR ⭐ DİZİ & FİLM 💵",BEIN MOVIES TÜRK
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=316&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: MAX Orjinal HD" group-title="TR ⭐ DİZİ & FİLM 💵",MAX ORJİNAL
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=10842&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: MAX Vizyon 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",MAX VİZYON 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=10846&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: MAX Vizyon 3 HD" group-title="TR ⭐ DİZİ & FİLM 💵",MAX VİZYON 3
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=10847&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: MAX TURK HD" group-title="TR ⭐ DİZİ & FİLM 💵",MAX TÜRK
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=10851&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: MAX GOLD HD" group-title="TR ⭐ DİZİ & FİLM 💵",MAX GOLD
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=10853&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX PREMIERE" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX PREMIERE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=386&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX VIZYON 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX VİZYON 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=390&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX VIZYON 2  HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX VİZYON 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=396&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX SINEMA TURK 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX TÜRK 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=391&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX SINEMA TURK  2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX TÜRK 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=399&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX ACTIE 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX AKSİYON
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=392&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX BILIMKURGU 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX BİLİMKURGU
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=393&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX HORROR 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX HORROR
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=394&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX MIX 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX MIX
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=395&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: REDBOX DRAMA HD" group-title="TR ⭐ DİZİ & FİLM 💵",REDBOX DRAMA
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=398&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX GOLD" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX GOLD
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=389&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX BILIMKURGU" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX BİLİMKURGU
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=214621&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX AKSIYON" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX AKSİYON
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=385&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX TURK" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX TÜRK
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=387&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX AILE" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX AİLE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=214620&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX MACERA" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX MACERA
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=382&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX KORKU" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX KORKU
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=383&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX KOMEDI" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX KOMEDİ
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=388&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX GERILIM" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX GERİLİM
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=215164&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX ROMANTIK" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX ROMANTİK
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=215165&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX DRAM" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX DRAM
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=113523&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX SAVAS" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX SAVAŞ
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=215166&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX ANIMASYON 1" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX ANİMASYON 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=594644&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX ANIMASYON 2" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX ANİMASYON 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=594645&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX HBOMAX" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX HBOMAX
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=571532&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX NETFLIX" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX NETFLIX
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=185254&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX DISNEY" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX DISNEY+
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=259605&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX AMAZON PRIME" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX AMAZON PRIME
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=259606&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX MARVEL" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX MARVEL
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=340368&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX IMDB TOP" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX IMDB TOP
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=215167&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 1" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342366&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 2" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342367&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 3" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 3
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342368&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 4" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 4
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342369&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 5" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 5
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342370&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 6" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 6
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342371&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 7" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 7
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342372&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 8" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 8
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342373&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 9" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 9
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342374&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BOX OFFICE SELECT 10" group-title="TR ⭐ DİZİ & FİLM 💵",BOX OFFICE 10
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=342375&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Vizyon HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY VİZYON 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435906&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Vizyon 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY VİZYON 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435907&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Yerli Vizyon 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY YERLİ VİZYON 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435905&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Yerli 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY YERLİ 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435908&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Yerli 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY YERLİ 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435909&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Yerli 3 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY YERLİ 3
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435910&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Premier 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY PREMIER 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435937&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Premier 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY PREMIER 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435938&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Premier 3 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY PREMIER 3
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435939&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Premier 4 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY PREMIER 4
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435940&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Premier 5 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY PREMIER 5
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435941&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Loca 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY LOCA 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435942&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Loca 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY LOCA 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435943&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Loca 3 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY LOCA 3
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435944&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Loca 4 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY LOCA 4
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435945&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Loca 5 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY LOCA 5
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435946&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Animasyon HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY ANİMASYON
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435947&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Aksiyon HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY AKSİYON 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435911&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Aksiyon 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY AKSİYON 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435912&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Nostalji  HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY NOSTALJİ
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435936&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Savaş HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY SAVAŞ
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435935&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Western HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY WESTERN 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435933&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Western 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY WESTERN 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435934&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Uzakdoğu HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY UZAKDOĞU 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435931&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Uzakdoğu 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY UZAKDOĞU 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435932&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Dram 1 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY DRAM 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435929&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Dram 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY DRAM 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435930&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: IMDB  HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY IMDB
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435928&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Romantik HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY ROMANTİK 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435926&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Romantik 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY ROMANTİK 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435927&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Komedi HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY KOMEDİ 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435924&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Komedi 2 HD " group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY KOMEDİ 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435925&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Netflix HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY NETFLIX 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435922&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Netflix 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY NETFLIX 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435923&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Macera HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY MACERA 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435920&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Macera 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY MACERA 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435921&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Gerilim HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY GERİLİM
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435919&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Korku HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY KORKU 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435917&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Korku 2  HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY KORKU 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435918&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Bilimkurgu HD " group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY BİLİMKURGU 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435915&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Bilimkurgu 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY BİLİMKURGU 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435916&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Fantasy HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY FANTASY 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435913&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Fantasy 2 HD" group-title="TR ⭐ DİZİ & FİLM 💵",DOLBY FANTASY 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=435914&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 1" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 1
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586238&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 2" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 2
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586320&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 3" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 3
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586321&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 4" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 4
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586839&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 5" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 5
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586840&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 6" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 6
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586841&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 7" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 7
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586842&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 8" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 8
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=586843&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 9" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 9
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=587202&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 10" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 10
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=587203&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 11" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 11
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=587220&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 12" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 12
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=587221&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 13" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 13
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=587222&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 14" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 14
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=587223&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMAX Yesilcam 15" group-title="TR ⭐ DİZİ & FİLM 💵",FILMAX YEŞİLÇAM 15
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=587224&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FILMBOX QHD" group-title="TR ⭐ DİZİ & FİLM 💵",FILM SCREEN
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120751&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: FX HD" group-title="TR ⭐ DİZİ & FİLM 💵",FX
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=354&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DİZİ PREMIUM QHD" group-title="TR ⭐ DİZİ & FİLM 💵",DİZİSMART PREMIUM
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120771&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DİZİSMART MAX QHD" group-title="TR ⭐ DİZİ & FİLM 💵",DİZİSMART MAX
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120772&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: MOVIE CLASSIC QHD" group-title="TR ⭐ DİZİ & FİLM 💵",MOVIESMART CLASSIC
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120778&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: MOVIE TÜRK QHD" group-title="TR ⭐ DİZİ & FİLM 💵",MOVIESMART TÜRK
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120779&token=DeaTHLesS
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL 💵",TRT BELGESEL | A
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL",TRT BELGESEL | A
 https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL 💵",TRT BELGESEL | B
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL",TRT BELGESEL | B
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR ▎TRT BELGESEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL 💵",TRT BELGESEL | C
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR ▎TRT BELGESEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL",TRT BELGESEL | C
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL 💵",TRT BELGESEL | D
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png" group-title="TR ⭐ BELGESEL",TRT BELGESEL | D
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY CHANNEL | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=110611&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY CHANNEL | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=488&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE QHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY ID | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120769&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ⭐ BELGESEL 💵",DISCOVERY ID | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=489&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: NAT GEO HD QHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeo.png" group-title="TR ⭐ BELGESEL 💵",NATIONAL GEOGRAPHIC | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120780&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: National Geographic HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeo.png" group-title="TR ⭐ BELGESEL 💵",NATIONAL GEOGRAPHIC | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=17121&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: National Geographic HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeo.png" group-title="TR ⭐ BELGESEL 💵",NATIONAL GEOGRAPHIC | C
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=67570&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: NAT GEO WILD HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeowild.png" group-title="TR ⭐ BELGESEL 💵",NATIONAL GEOGRAPHIC WILD | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=486&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: Nat Geo Wild HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeowild.png" group-title="TR ⭐ BELGESEL 💵",NATIONAL GEOGRAPHIC WILD | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=67569&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: History HD" group-title="TR ⭐ BELGESEL 💵",VIASAT EXPLORE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=362973&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: History HD" group-title="TR ⭐ BELGESEL 💵",VIASAT NATURE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=497&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: VIASAT HISTORY HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/viasathistory.png" group-title="TR ⭐ BELGESEL 💵",VIASAT HISTORY | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=97922&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: ViASAT HiSTORY HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/viasathistory.png" group-title="TR ⭐ BELGESEL 💵",VIASAT HISTORY | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=494&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BBC Earth HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="TR ⭐ BELGESEL 💵",BBC EARTH | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=491&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: BBC Earth HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="TR ⭐ BELGESEL 💵",BBC EARTH | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=110608&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DA VINCI LEARNING QHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/davinci.png" group-title="TR ⭐ BELGESEL 💵",DA VINCI LEARNING
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120748&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: LOVE NATURE QHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/lovenature.png" group-title="TR ⭐ BELGESEL 💵",LOVE NATURE | A
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=120777&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: LOVE NATURE HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/lovenature.png" group-title="TR ⭐ BELGESEL 💵",LOVE NATURE | B
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=67567&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: TARIH TV HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tarihtv.png" group-title="TR ⭐ BELGESEL 💵",TARIH TV
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=110617&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX WILD" group-title="TR ⭐ BELGESEL 💵",DOCUAX WILD
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=219403&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX TECH" group-title="TR ⭐ BELGESEL 💵",DOCUAX TECH
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=219400&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX TURK" group-title="TR ⭐ BELGESEL 💵",DOCUAX TURK
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=595256&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX HISTORY" group-title="TR ⭐ BELGESEL 💵",DOCUAX HISTORY
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=219402&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX SPACE" group-title="TR ⭐ BELGESEL 💵",DOCUAX SPACE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=219401&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX WAR" group-title="TR ⭐ BELGESEL 💵",DOCUAX WAR
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=259797&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX CRIME" group-title="TR ⭐ BELGESEL 💵",DOCUAX CRIME
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=264778&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX PARANORMAL" group-title="TR ⭐ BELGESEL 💵",DOCUAX PARANORMAL
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=271922&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX MONSTER" group-title="TR ⭐ BELGESEL 💵",DOCUAX MONSTER
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=470662&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX UNDERGROUND" group-title="TR ⭐ BELGESEL 💵",DOCUAX UNDERGROUND
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=264779&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX DEEPWATER" group-title="TR ⭐ BELGESEL 💵",DOCUAX DEEPWATER
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=266802&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX LIFE" group-title="TR ⭐ BELGESEL 💵",DOCUAX LIFE
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=259795&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX EARTH" group-title="TR ⭐ BELGESEL 💵",DOCUAX EARTH
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=259796&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: DOCUAX TRAVEL" group-title="TR ⭐ BELGESEL 💵",DOCUAX TRAVEL
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=638441&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN IZ HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-iz-hd-tr.png" group-title="TR ⭐ BELGESEL 💵",BEIN İZ
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=18563&token=DeaTHLesS
-#EXTINF:-1 tvg-name="TR: beIN GuRME HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-gurme-hd-tr.png" group-title="TR ⭐ BELGESEL 💵",BEIN GURME
-http://ikidilimpeyazpeynir.duckdns.org/index.php?id=493&token=DeaTHLesS
-#EXTINF:-1 tvg-id="GZT.tr" tvg-logo="https://furkandursunart.com/wp-content/uploads/2024/03/gzt-logos-idq6TPhLJt.png" group-title="TR ⭐ BELGESEL 💵",GZT
+#EXTINF:-1 tvg-id="GZT.tr" tvg-logo="https://furkandursunart.com/wp-content/uploads/2024/03/gzt-logos-idq6TPhLJt.png" group-title="TR ⭐ BELGESEL",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="YabanTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/yaban-tr.png" group-title="TR ⭐ BELGESEL 💵",YABAN TV
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/yaban-tr.png" group-title="TR ⭐ BELGESEL",YABAN TV
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
-#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ciftci-tv-tr.png" group-title="TR ⭐ BELGESEL 💵",ÇİFTÇİ TV
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ciftci-tv-tr.png" group-title="TR ⭐ BELGESEL",ÇİFTÇİ TV
 https://streams.uzunmuhalefet.com/stream/e71083cf-eb54-408b-8aba-d66690520801.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/koy-tv-tr.png" group-title="TR ⭐ BELGESEL 💵",KÖY TV
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/koy-tv-tr.png" group-title="TR ⭐ BELGESEL",KÖY TV
 https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/toprak-tv-tr.png" group-title="TR ⭐ BELGESEL 💵",TOPRAK TV
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/toprak-tv-tr.png" group-title="TR ⭐ BELGESEL",TOPRAK TV
 https://streams.uzunmuhalefet.com/stream/54fd8806-0142-4839-930e-aa1d662ad866.m3u8
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/9ab542f9-51b8-4393-8de7-f53942d9ee20.png" group-title="TR ⭐ BELGESEL 💵",SDM BELGESEL KEYFİ
+#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/9ab542f9-51b8-4393-8de7-f53942d9ee20.png" group-title="TR ⭐ BELGESEL",SDM BELGESEL KEYFİ
 https://streams.uzunmuhalefet.com/stream/28ff2020-af46-4155-9546-06e432a8380c.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trt-turk-tr.png" group-title="TR ⭐ ULUSAL YURT DIŞI",TRT TÜRK | A
 https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3u8
