@@ -15,7 +15,7 @@
 ---
 
 > [!NOTE]
-> 11 Şubat 2026 tarihinde güncelleme yapılmıştır.
+> 13 Şubat 2026 tarihinde güncelleme yapılmıştır.
 
 ---
 <p align="center">❤️ Made with Love ❤️</p>
