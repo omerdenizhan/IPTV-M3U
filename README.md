@@ -9,7 +9,7 @@
   - Farklı kaynaklardan alınarak derlenen proje çalışma dosyalarımı ticari bir eyleme dönüştürülmemesi şartıyla paylaşabilirsiniz.
 
 ## 📌 Raw İndirme Linkleri
-  - Türkiye TV Kanalları İndirme Linki
+  - Türkiye TV Kanalları
     ```
     https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
 ---
