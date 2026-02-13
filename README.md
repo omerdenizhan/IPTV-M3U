@@ -8,14 +8,14 @@
   - Paylaşımlarım içerisinde herhangi bir ücretli platforma ait içerik veya direkt ücretli içerik bulunmamaktadır.
   - Farklı kaynaklardan alınarak derlenen proje çalışma dosyalarımı ticari bir eyleme dönüştürülmemesi şartıyla paylaşabilirsiniz.
 
-## 📌 Raw İndirme Linkleri
+## 📌 M3U Raw Linkleri
   - Türkiye TV Kanalları
     ```
     https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
 ---
 
 > [!NOTE]
-> 13 Şubat 2026 tarihinde güncelleme yapılmıştır.
+> 14 Şubat 2026 tarihinde güncelleme yapılmıştır.
 
 ---
 <p align="center">❤️ Made with Love ❤️</p>
