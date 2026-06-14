@@ -12,7 +12,6 @@
   - Türkiye TV Kanalları
     ```
     https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
-
 - Türkiye Plus TV Kanalları
     ```
     https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/tv_channels_plus.m3u
