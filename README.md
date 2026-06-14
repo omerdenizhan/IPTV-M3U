@@ -18,7 +18,7 @@
 ---
 
 > [!NOTE]
-> 🕰️ 14 Mayıs 2026 tarihinde güncelleme yapılmıştır.
+> 🕰️ 14 Hazlran 2026 tarihinde güncelleme yapılmıştır.
 
 ---
 <p align="center">❤️ Made with Love ❤️</p>
