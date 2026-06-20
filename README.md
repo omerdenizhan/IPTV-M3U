@@ -8,7 +8,7 @@
   - Paylaşımlarım içerisinde herhangi bir ücretli platforma ait içerik veya direkt ücretli içerik bulunmamaktadır.
   - Farklı kaynaklardan alınarak derlenen proje çalışma dosyalarımı ticari bir eyleme dönüştürülmemesi şartıyla paylaşabilirsiniz.
 
-## 📌 M3U Raw Linkleri
+## 📌 M3U Linkleri
   - Türkiye TV Kanalları
     ```
     https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
