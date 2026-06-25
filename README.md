@@ -13,10 +13,10 @@
   ```
 
 ## 📌 M3U Linkleri
-  - `Türkiye TV Kanalları`
+  - Türkiye TV Kanalları
     ```
     https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u
-- `Türkiye Plus TV Kanalları`
+- Türkiye Plus TV Kanalları
     ```
     https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/tv_channels_plus.m3u
 ---
@@ -25,4 +25,4 @@
 > 🕰️ 25 Haziran 2026 tarihinde güncelleme yapılmıştır.
 
 ---
-<p align="center">`❤️ Made With Love ❤️`</p>
+<p align="center">❤️ Made With Love ❤️</p>
