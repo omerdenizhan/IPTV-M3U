@@ -21,7 +21,7 @@ Bu çalışmamda `Free-To-Air (FTA)` olarak adlandırılan abonelik gerektirmeye
 ---
 
 > [!NOTE]
-> 🕰️ 28 Haziran 2026 tarihinde güncelleme yapılmıştır.
+> 🕰️ 10 Temmuz 2026 tarihinde güncelleme yapılmıştır.
 
 ---
 <p align="center">❤️ Made With Love ❤️</p>
