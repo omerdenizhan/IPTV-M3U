@@ -18,10 +18,8 @@ Bu çalışmamda `Free-To-Air (FTA)` olarak adlandırılan abonelik gerektirmeye
       ```
       https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/tv_channels_plus.m3u
       ```
----
-
-> [!NOTE]
-> 🕰️ 10 Temmuz 2026 tarihinde güncelleme yapılmıştır.
+## 🕰️ Güncelleme
+10 Temmuz 2026 tarihinde güncelleme yapılmıştır.
 
 ---
 <p align="center">❤️ Made With Love ❤️</p>
