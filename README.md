@@ -1,5 +1,5 @@
 <p align="center"><img src="logo-main.png" alt="Logo"></p>
-<h1 align="center">⭐ TÜRKİYE TV KANALLARI IPTV M3U REPO ⭐</h1>
+<h1 align="center">⭐ Türkiye TV Kanalları Ücretsiz IPTV M3U ⭐</h1>
 
 Bu çalışmamda `Free-To-Air (FTA)` olarak adlandırılan abonelik gerektirmeyen içerikler sağlayan kanal ve yayıncılara ait internetten ücretsiz olarak izlenebilen uydu yayınlarını izleyebilmeniz için listeler oluşturup M3U klasöründe güncel olarak paylaşmaktayım.
 
@@ -19,7 +19,7 @@ Bu çalışmamda `Free-To-Air (FTA)` olarak adlandırılan abonelik gerektirmeye
       https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/tv_channels_plus.m3u
       ```
 ## 🕰️ Son Güncelleme
-10 Temmuz 2026
+17 Temmuz 2026
 
 ---
 <p align="center">❤️ Made With Love ❤️</p>
