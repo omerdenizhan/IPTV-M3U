@@ -19,7 +19,7 @@ Bu çalışmamda `Free-To-Air (FTA)` olarak adlandırılan abonelik gerektirmeye
        https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye-iptv-org.m3u
        ```
 ## 🕰️ Son Güncelleme
-17 Temmuz 2026
+02 Ağustos 2026
 
 ---
 <p align="center">❤️ Made With Love ❤️</p>
