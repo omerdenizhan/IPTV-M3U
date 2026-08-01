@@ -39,10 +39,10 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/c71b4e75-87a1-4048-a388-2f7fc5e
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8f46cd5d-e996-4ba3-a71c-198480f5e288.m3u
 #EXTINF:-1 tvg-name="TR:TV 8 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="TR | ULUSAL",TR:TV 8 UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/dc047476-1003-4dc5-82be-530b868af48a.m3u
-#EXTINF:-1 tvg-name="TR:TV 8 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="TR | ULUSAL",TR:TV 8 HQ
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/4ca1fee9-2ade-4e5a-87ce-945253971ed3.m3u
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR:TV 8 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="TR | ULUSAL",TR:TV 8 HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/91683518-cc66-4ec5-9b96-895f5ca21fd6.m3u
+#EXTINF:-1 tvg-name="TR:TV 8 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="TR | ULUSAL",TR:TV 8 HQ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/4ca1fee9-2ade-4e5a-87ce-945253971ed3.m3u
 #EXTINF:-1 tvg-name="TR:BEYAZ TV UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png" group-title="TR | ULUSAL",TR:BEYAZ TV UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/aea0339c-be03-459b-9bec-8500e7bd9865.m3u
 #EXTINF:-1 tvg-name="TR:BEYAZ TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png" group-title="TR | ULUSAL",TR:BEYAZ TV HD
@@ -51,8 +51,12 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/0933cb1e-e299-4872-aee2-8d40e6d
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/37cbf863-1460-4b5b-90d3-ffdab6145a58.m3u
 #EXTINF:-1 tvg-name="TR:TLC UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/tlc.png" group-title="TR | ULUSAL",TR:TLC UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/69bfe135-4ad2-4717-9df1-beaa83c7e53a.m3u
+#EXTINF:-1 tvg-name="TR:TLC HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/tlc.png" group-title="TR | ULUSAL",TR:TLC HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/0ba76698-de1b-4f26-a0d5-d3967bd10c0c.m3u
 #EXTINF:-1 tvg-name="TR:DMAX UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/dmax.png" group-title="TR | ULUSAL",TR:DMAX UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/4e36aa46-af94-4f9d-b043-efde4241a5dc.m3u
+#EXTINF:-1 tvg-name="TR:DMAX HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/dmax.png" group-title="TR | ULUSAL",TR:DMAX HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/90390b89-6f14-41c5-9028-ad0334e47258.m3u
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TR:360 TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/360tv.png" group-title="TR | ULUSAL",TR:360 TV HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/d34204b7-8ccc-42b7-84c8-60446c440146.m3u
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR:TV 8.5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" group-title="TR | ULUSAL",TR:TV 8.5 HD
@@ -63,28 +67,22 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2b0a4153-c9c8-4715-a9e0-c3ef48e
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/b20484c4-742b-4024-992c-0ecbdaad70ea.m3u
 #EXTINF:-1 tvg-name="TR:TEVE 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/teve2.png" group-title="TR | ULUSAL",TR:TEVE 2 UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/9eef2b85-ef1e-4c8b-b584-860e11b38aca.m3u
+#EXTINF:-1 tvg-name="TR:TEVE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/teve2.png" group-title="TR | ULUSAL",TR:TEVE 2 HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/111ea128-bd26-43df-911e-e269f64d98fa.m3u
 #EXTINF:-1 tvg-name="TR:CNBC-Ê UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/cnbce.png" group-title="TR | ULUSAL",TR:CNBC-Ê UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/ee56ff09-a6a5-4052-9539-d318528b5d0d.m3u
 #EXTINF:-1 tvg-name="TR:CNBC-Ê HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/cnbce.png" group-title="TR | ULUSAL",TR:CNBC-Ê HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/6545eef1-e9e1-4aad-90c8-087eebbcede4.m3u
 #EXTINF:-1 tvg-name="TR:SHOWMAX UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/showmax.png" group-title="TR | ULUSAL",TR:SHOWMAX UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/c90711b2-a02f-4165-8ee5-9ec59e802163.m3u
-#EXTINF:-1 tvg-name="TR:KANAL 7 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="TR | ULUSAL",TR:KANAL 7 UHD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8cff6b37-c9c3-438a-9948-23480336446e.m3u
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR:KANAL 7 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="TR | ULUSAL",TR:KANAL 7 HQ
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/55520b91-9b37-4149-9254-07700b623283.m3u
-#EXTINF:-1 tvg-name="TR:KANAL 7 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="TR | ULUSAL",TR:KANAL 7 HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/6a62ba0b-d7f9-4f25-9b90-2466a9c9e020.m3u
-#EXTINF:-1 tvg-name="TR:TEVE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/teve2.png" group-title="TR | ULUSAL",TR:TEVE 2 HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/111ea128-bd26-43df-911e-e269f64d98fa.m3u
 #EXTINF:-1 tvg-name="TR:TV 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/kanal4.png" group-title="TR | ULUSAL",TR:TV 4 HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/0b625bc0-14cd-4638-a5d7-361c31c15529.m3u
 #EXTINF:-1 tvg-name="TR:TRT 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trt2.png" group-title="TR | ULUSAL",TR:TRT 2 HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/58e211f5-109b-45ef-a331-61bde172676d.m3u
-#EXTINF:-1 tvg-name="TR:DMAX HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/dmax.png" group-title="TR | ULUSAL",TR:DMAX HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/90390b89-6f14-41c5-9028-ad0334e47258.m3u
-#EXTINF:-1 tvg-name="TR:TLC HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/tlc.png" group-title="TR | ULUSAL",TR:TLC HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/0ba76698-de1b-4f26-a0d5-d3967bd10c0c.m3u
+#EXTINF:-1 tvg-name="TR:KANAL 7 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="TR | ULUSAL",TR:KANAL 7 UHD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8cff6b37-c9c3-438a-9948-23480336446e.m3u
+#EXTINF:-1 tvg-name="TR:KANAL 7 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="TR | ULUSAL",TR:KANAL 7 HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/6a62ba0b-d7f9-4f25-9b90-2466a9c9e020.m3u
 #EXTINF:-1 tvg-name="TR:SOZCU TV UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/sozcu.png" group-title="TR | HABER",TR:SOZCU TV UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/3d521b90-d834-4bbb-ba63-863986ee98f5.m3u
 #EXTINF:-1 tvg-name="TR:SOZCU TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/sozcu.png" group-title="TR | HABER",TR:SOZCU TV HD
@@ -399,10 +397,6 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5e63d3ac-dc1e-4090-a869-7f592e5
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/a51c62e1-199f-4271-bd9c-d2d714204230.m3u
 #EXTINF:-1 tvg-name="TR:SINEMA TV AKSIYON 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinemaaksiyon2.png" group-title="TR | SİNEMA TV",TR:SINEMA TV AKSIYON 2 HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/98cc7752-8ef1-4175-81e3-4e3d2032cd6d.m3u
-#EXTINF:-1 tvg-name="TR:SINEMA YERLI 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemayerli.png" group-title="TR | SİNEMA TV",TR:SINEMA YERLI 1 HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/42d8aaea-b75b-48e8-9b06-c89e3b188016.m3u
-#EXTINF:-1 tvg-name="TR:SINEMA YERLI 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemayerli2.png" group-title="TR | SİNEMA TV",TR:SINEMA YERLI 2 HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/0cef4dcb-8d99-43d4-9719-565bfd7b3120.m3u
 #EXTINF:-1 tvg-name="TR:SINEMA 1001 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinema1001.png" group-title="TR | SİNEMA TV",TR:SINEMA 1001 UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/65e1ac06-d193-425b-8e6c-68543c4f82f2.m3u
 #EXTINF:-1 tvg-name="TR:SINEMA 1002 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinema1002.png" group-title="TR | SİNEMA TV",TR:SINEMA 1002 UHD
@@ -431,8 +425,12 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/a4c160b5-0c65-450e-99f3-8d40496
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/58558763-81ac-4b6b-b4a7-bf9f1f5f54b9.m3u
 #EXTINF:-1 tvg-name="TR:SINEMA TV YERLI HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemayerli.png" group-title="TR | SİNEMA TV",TR:SINEMA TV YERLI HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/aea631ee-ae1f-47d2-9fbc-70ab593d9047.m3u
+#EXTINF:-1 tvg-name="TR:SINEMA YERLI 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemayerli.png" group-title="TR | SİNEMA TV",TR:SINEMA YERLI 1 HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/42d8aaea-b75b-48e8-9b06-c89e3b188016.m3u
 #EXTINF:-1 tvg-name="TR:SINEMA TV YERLI 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemayerli2.png" group-title="TR | SİNEMA TV",TR:SINEMA TV YERLI 2 HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/117a70be-d82b-40dc-a53f-46c76555abda.m3u
+#EXTINF:-1 tvg-name="TR:SINEMA YERLI 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemayerli2.png" group-title="TR | SİNEMA TV",TR:SINEMA YERLI 2 HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/0cef4dcb-8d99-43d4-9719-565bfd7b3120.m3u
 #EXTINF:-1 tvg-name="TR:BEIN BOX OFFICE 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png" group-title="TR | BEIN SİNEMA",TR:BEIN BOX OFFICE 1 HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/b3f77183-35d6-454d-aa33-4d705b523836.m3u
 #EXTINF:-1 tvg-name="TR:BEIN BOX OFFICE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png" group-title="TR | BEIN SİNEMA",TR:BEIN BOX OFFICE 2 HD
@@ -513,12 +511,8 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/c810d497-e205-40b7-8bb2-43f3e97
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/3f4881d9-adc6-483f-be08-d8b1be46862a.m3u
 #EXTINF:-1 tvg-name="TR:GLIFE - AILE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/aile.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - AILE ʜᴅ
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/fa84210b-2062-4d4a-bb8c-e50d1320bda4.m3u
-#EXTINF:-1 tvg-name="TR:GLIFE - GERILIM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/gerilim.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - GERILIM ʜᴅ
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/bc242472-31d3-4da6-b446-5b1356327419.m3u
 #EXTINF:-1 tvg-name="TR:GLIFE - DRAM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/dram.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - DRAM ʜᴅ
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/71a14b1a-d5ed-4bba-bbbb-1481e9ab74a7.m3u
-#EXTINF:-1 tvg-name="TR:GLIFE - KORKU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/korku.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - KORKU ʜᴅ
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5fd56dc8-bc01-49bd-ab44-617eeee3c479.m3u
 #EXTINF:-1 tvg-name="TR:GLIFE - KOMEDI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/komedi.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - KOMEDI ʜᴅ
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/68ec2a21-df37-4f57-bf54-4538f8e4d93a.m3u
 #EXTINF:-1 tvg-name="TR:GLIFE - BELGESEL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/belgesel.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - BELGESEL ʜᴅ
@@ -529,6 +523,10 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8bb8d3b5-1ec0-4192-ac18-a9c64d8
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/9032fee4-922c-405c-a2bd-e40bfb74f28f.m3u
 #EXTINF:-1 tvg-name="TR:GLIFE - WESTERN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/western.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - WESTERN ʜᴅ
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/b15f3f88-b88f-4a92-a343-5a38562f337e.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - GERILIM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/gerilim.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - GERILIM ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/bc242472-31d3-4da6-b446-5b1356327419.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - KORKU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/korku.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - KORKU ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5fd56dc8-bc01-49bd-ab44-617eeee3c479.m3u
 #EXTINF:-1 tvg-name="TR:GLIFE - YESILCAM 1 ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/yesilcam1.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - YESILCAM 1 ʜᴅ
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/3c2dde37-a61c-48a3-9276-e8f4455e9100.m3u
 #EXTINF:-1 tvg-name="TR:GLIFE - YESILCAM 2 ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/yesilcam2.png" group-title="TR | GLIFE SİNEMA",TR:GLIFE - YESILCAM 2 ʜᴅ
