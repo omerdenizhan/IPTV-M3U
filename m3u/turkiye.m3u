@@ -727,8 +727,6 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8d58bb5c-6c48-4d14-b75d-4d2044e
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/75312a5b-3a33-40bf-99ab-0885053b7398.m3u
 #EXTINF:-1 tvg-name="TR:KIBRIS TV" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/kibris.png" group-title="TR | KKTC",TR:KIBRIS TV
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e51f4e81-8c17-48ce-9a39-d8f0faa7a211.m3u
-#EXTINF:-1 tvg-name="TR:TRT MUZIK UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/trtmuzik.png" group-title="TR | MÜZİK",TR:TRT MUZIK UHD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/572658d0-7441-4034-9a83-9a842ef5498f.m3u
 #EXTINF:-1 tvg-name="TR:POWER TURK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/powerturk.png" group-title="TR | MÜZİK",TR:POWER TURK HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/29463c39-4707-4953-9a59-c083af2b3450.m3u
 #EXTINF:-1 tvg-name="TR:POWER TURK TAPTAZE HD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/power-turk-taptaze.png" group-title="TR | MÜZİK",TR:POWER TURK TAPTAZE HD
@@ -745,6 +743,8 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/d4500390-758d-40b5-be0a-3973c9c
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/13a1a172-b2ed-4e28-9b77-b94830beaa0d.m3u
 #EXTINF:-1 tvg-name="TR:KRAL TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/kraltv.png" group-title="TR | MÜZİK",TR:KRAL TV HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5a41f081-d9fd-4f65-8cc6-2094d346cd7c.m3u
+#EXTINF:-1 tvg-name="TR:TRT MUZIK UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/trtmuzik.png" group-title="TR | MÜZİK",TR:TRT MUZIK UHD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/572658d0-7441-4034-9a83-9a842ef5498f.m3u
 #EXTINF:-1 tvg-name="TR:TRT MUZIK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/trtmuzik.png" group-title="TR | MÜZİK",TR:TRT MUZIK HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/ed328250-059a-4ee6-890c-5fd46f7f4bd2.m3u
 #EXTINF:-1 tvg-name="TR:POWER TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/powertv.png" group-title="TR | MÜZİK",TR:POWER TV HD
