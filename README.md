@@ -18,13 +18,9 @@ Bu çalışmamda `Free-To-Air (FTA)` olarak adlandırılan abonelik gerektirmeye
        ```
        https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye-iptv-org.m3u
        ```
----
-
 ## 📄 Lisans
 
 Bu proje [Unlicense](https://unlicense.org/) ile kamu malı olarak sunulmuştur; dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz. Ayrıntılar için [`LICENSE`](LICENSE) dosyasına bakın.
-
----
 
 ## 🕰️ Son Güncelleme
 09 Ekim 2026
